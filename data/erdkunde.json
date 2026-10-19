@@ -1,0 +1,1271 @@
+{
+  "fach": "erdkunde",
+  "stand": "2026-10-18",
+  "aufgaben": [
+    {
+      "id": "ek-grund-001",
+      "fach": "erdkunde",
+      "thema": "Grundbegriffe der Karte",
+      "typ": "auswahl",
+      "frage": "Eine Landkarte ist eine ___. Sie zeigt, wie es auf einem Teil der Erde aussieht.",
+      "antwort": "Zeichnung",
+      "falsch": [
+        "Atlas",
+        "Seekarte",
+        "Legende"
+      ],
+      "erklaerung": "Eine einzelne Karte ist eine <b>Zeichnung</b>. Der <b>Atlas</b> ist das Buch mit vielen Karten.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "fehlerbild": "Atlas statt Zeichnung",
+      "vorgriff": false
+    },
+    {
+      "id": "ek-grund-002",
+      "fach": "erdkunde",
+      "thema": "Grundbegriffe der Karte",
+      "typ": "buchstaben",
+      "frage": "Wer eine Karte macht, ist ein ...",
+      "antwort": "Kartograf",
+      "falsch": [],
+      "erklaerung": "Der Kartenmacher heißt <b>Kartograf</b>. Mit Fotos hat das Wort nichts zu tun.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "fehlerbild": "Kartenfotograf statt Kartograf",
+      "vorgriff": false
+    },
+    {
+      "id": "ek-grund-003",
+      "fach": "erdkunde",
+      "thema": "Grundbegriffe der Karte",
+      "typ": "tor",
+      "frage": "Wer macht Karten?",
+      "antwort": "Kartograf",
+      "falsch": [
+        "Kartenfotograf"
+      ],
+      "erklaerung": "Kurz und knapp: <b>Kartograf</b>. Er zeichnet Karten, er fotografiert sie nicht.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "fehlerbild": "Kartenfotograf statt Kartograf",
+      "vorgriff": false
+    },
+    {
+      "id": "ek-grund-004",
+      "fach": "erdkunde",
+      "thema": "Grundbegriffe der Karte",
+      "typ": "auswahl",
+      "frage": "Die Wissenschaft der Kartenkunde heißt ___.",
+      "antwort": "Kartografie",
+      "falsch": [
+        "Kartenfotografie",
+        "Kartograf",
+        "Fotografie"
+      ],
+      "erklaerung": "Der <b>Kartograf</b> macht Karten, seine Wissenschaft ist die <b>Kartografie</b>.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "fehlerbild": "Kartenfotografie statt Kartografie",
+      "vorgriff": false
+    },
+    {
+      "id": "ek-grund-005",
+      "fach": "erdkunde",
+      "thema": "Grundbegriffe der Karte",
+      "typ": "buchstaben",
+      "frage": "Die Wissenschaft der Kartenkunde",
+      "antwort": "Kartografie",
+      "falsch": [],
+      "erklaerung": "Kartograf plus <b>ie</b> am Ende: <b>Kartografie</b>.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 2,
+      "fehlerbild": "Kartenfotografie statt Kartografie",
+      "vorgriff": false
+    },
+    {
+      "id": "ek-grund-006",
+      "fach": "erdkunde",
+      "thema": "Grundbegriffe der Karte",
+      "typ": "auswahl",
+      "frage": "Eine Karte vom Meer ist eine ___.",
+      "antwort": "Seekarte",
+      "falsch": [
+        "Landkarte",
+        "Legende",
+        "Atlas"
+      ],
+      "erklaerung": "Meer heißt auch See. Darum: <b>Seekarte</b>.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-grund-007",
+      "fach": "erdkunde",
+      "thema": "Grundbegriffe der Karte",
+      "typ": "buchstaben",
+      "frage": "Eine Karte vom Meer",
+      "antwort": "Seekarte",
+      "falsch": [],
+      "erklaerung": "See plus Karte: <b>Seekarte</b>.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-grund-008",
+      "fach": "erdkunde",
+      "thema": "Grundbegriffe der Karte",
+      "typ": "tor",
+      "frage": "Gibt es auch Karten vom Mond?",
+      "antwort": "Ja",
+      "falsch": [
+        "Nein"
+      ],
+      "erklaerung": "Karten gibt es nicht nur von der Erde, sondern auch von anderen <b>Planeten</b> und vom <b>Mond</b>.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-grund-009",
+      "fach": "erdkunde",
+      "thema": "Grundbegriffe der Karte",
+      "typ": "auswahl",
+      "frage": "Auf einer Landkarte wird vieles ___ dargestellt, als es in Wirklichkeit ist.",
+      "antwort": "einfacher",
+      "falsch": [
+        "genauer",
+        "größer",
+        "bunter"
+      ],
+      "erklaerung": "Eine Karte lässt viel weg. Alles ist <b>einfacher</b> als in echt.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-grund-010",
+      "fach": "erdkunde",
+      "thema": "Grundbegriffe der Karte",
+      "typ": "tor",
+      "frage": "Ein Fluss ist auf der Karte nur eine dünne blaue ...",
+      "antwort": "Linie",
+      "falsch": [
+        "Fläche",
+        "Punkt"
+      ],
+      "erklaerung": "Karten vereinfachen: Ein ganzer Fluss wird zu einer dünnen blauen <b>Linie</b>.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-grund-011",
+      "fach": "erdkunde",
+      "thema": "Grundbegriffe der Karte",
+      "typ": "tor",
+      "frage": "Kann eine Karte genauso groß sein wie das Land?",
+      "antwort": "Nein",
+      "falsch": [
+        "Ja"
+      ],
+      "erklaerung": "Eine Karte ist immer kleiner als das Land. Wie viel kleiner, verrät der <b>Maßstab</b>.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-grund-012",
+      "fach": "erdkunde",
+      "thema": "Grundbegriffe der Karte",
+      "typ": "auswahl",
+      "frage": "Was muss ein Kartograf zuerst wissen?",
+      "antwort": "Wie es in der Gegend aussieht",
+      "falsch": [
+        "Wer die Karte kauft",
+        "Wie teuer Papier ist",
+        "Wie alt die Gegend ist"
+      ],
+      "erklaerung": "Erst gucken, dann zeichnen: Welche <b>Straßen</b>, <b>Flüsse</b> und <b>Städte</b> gibt es dort?",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-himmel-001",
+      "fach": "erdkunde",
+      "thema": "Himmelsrichtungen auf der Karte",
+      "typ": "tor",
+      "frage": "Auf den meisten Karten ist oben ...",
+      "antwort": "Norden",
+      "falsch": [
+        "Süden",
+        "Osten"
+      ],
+      "erklaerung": "Oben steht <b>Norden</b>, unten Süden, links Westen, rechts Osten.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-himmel-002",
+      "fach": "erdkunde",
+      "thema": "Himmelsrichtungen auf der Karte",
+      "typ": "tor",
+      "frage": "Auf den meisten Karten ist links ...",
+      "antwort": "Westen",
+      "falsch": [
+        "Süden",
+        "Osten"
+      ],
+      "erklaerung": "Süden ist unten. Links liegt <b>Westen</b>, rechts Osten.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "fehlerbild": "links Süden statt Westen",
+      "vorgriff": false
+    },
+    {
+      "id": "ek-himmel-003",
+      "fach": "erdkunde",
+      "thema": "Himmelsrichtungen auf der Karte",
+      "typ": "tor",
+      "frage": "Auf den meisten Karten ist rechts ...",
+      "antwort": "Osten",
+      "falsch": [
+        "Westen"
+      ],
+      "erklaerung": "Rechts liegt <b>Osten</b>, links Westen.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-himmel-004",
+      "fach": "erdkunde",
+      "thema": "Himmelsrichtungen auf der Karte",
+      "typ": "tor",
+      "frage": "Auf den meisten Karten ist unten ...",
+      "antwort": "Süden",
+      "falsch": [
+        "Norden",
+        "Westen"
+      ],
+      "erklaerung": "Oben Norden, also unten das Gegenteil: <b>Süden</b>.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-himmel-005",
+      "fach": "erdkunde",
+      "thema": "Himmelsrichtungen auf der Karte",
+      "typ": "buchstaben",
+      "frage": "Himmelsrichtung oben auf der Karte",
+      "antwort": "Norden",
+      "falsch": [],
+      "erklaerung": "Oben auf der Karte liegt <b>Norden</b>.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-himmel-006",
+      "fach": "erdkunde",
+      "thema": "Himmelsrichtungen auf der Karte",
+      "typ": "buchstaben",
+      "frage": "Himmelsrichtung links auf der Karte",
+      "antwort": "Westen",
+      "falsch": [],
+      "erklaerung": "Links liegt <b>Westen</b>. Süden ist schon unten vergeben.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "fehlerbild": "links Süden statt Westen",
+      "vorgriff": false
+    },
+    {
+      "id": "ek-himmel-007",
+      "fach": "erdkunde",
+      "thema": "Himmelsrichtungen auf der Karte",
+      "typ": "auswahl",
+      "frage": "Du läufst auf der Karte nach links. In welche Richtung läufst du?",
+      "antwort": "nach Westen",
+      "falsch": [
+        "nach Süden",
+        "nach Osten",
+        "nach Norden"
+      ],
+      "erklaerung": "Jede Seite der Karte hat ihre Richtung. Links ist <b>Westen</b>, unten ist Süden.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 2,
+      "fehlerbild": "links Süden statt Westen",
+      "vorgriff": false
+    },
+    {
+      "id": "ek-himmel-008",
+      "fach": "erdkunde",
+      "thema": "Himmelsrichtungen auf der Karte",
+      "typ": "auswahl",
+      "frage": "Norden, Süden, Westen und Osten heißen zusammen ___.",
+      "antwort": "Himmelsrichtungen",
+      "falsch": [
+        "Kartenarten",
+        "Koordinaten",
+        "Suchfelder"
+      ],
+      "erklaerung": "Die vier Richtungen heißen <b>Himmelsrichtungen</b>.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-himmel-009",
+      "fach": "erdkunde",
+      "thema": "Himmelsrichtungen auf der Karte",
+      "typ": "auswahl",
+      "frage": "Du läufst auf der Karte nach oben. Wohin geht es?",
+      "antwort": "nach Norden",
+      "falsch": [
+        "nach Osten",
+        "nach Süden",
+        "nach Westen"
+      ],
+      "erklaerung": "Oben auf der Karte ist <b>Norden</b>.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-persp-001",
+      "fach": "erdkunde",
+      "thema": "Vogelperspektive",
+      "typ": "auswahl",
+      "frage": "In welcher Perspektive werden Karten und Pläne gezeichnet?",
+      "antwort": "Vogelperspektive",
+      "falsch": [
+        "Fischperspektive",
+        "Maulwurfperspektive",
+        "Hundeperspektive"
+      ],
+      "erklaerung": "Wie ein Vogel von oben: <b>Vogelperspektive</b>.",
+      "quelle": "Scan 3 S. 10 (Arbeitsheft Karte & Atlas, Perspektive)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-persp-002",
+      "fach": "erdkunde",
+      "thema": "Vogelperspektive",
+      "typ": "auswahl",
+      "frage": "Vogelperspektive heißt: Die Karte wird ___ gezeichnet.",
+      "antwort": "von oben",
+      "falsch": [
+        "von unten",
+        "von der Seite",
+        "von hinten"
+      ],
+      "erklaerung": "Ein Vogel fliegt über den Ort und schaut <b>von oben</b> drauf.",
+      "quelle": "Scan 3 S. 10 (Arbeitsheft Karte & Atlas, Perspektive)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-persp-003",
+      "fach": "erdkunde",
+      "thema": "Vogelperspektive",
+      "typ": "tor",
+      "frage": "Vogelperspektive: Du schaust von ...",
+      "antwort": "oben",
+      "falsch": [
+        "unten",
+        "der Seite"
+      ],
+      "erklaerung": "Wie aus dem Flugzeug: Der Blick geht <b>von oben</b> nach unten.",
+      "quelle": "Scan 3 S. 10 (Arbeitsheft Karte & Atlas, Perspektive)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-persp-004",
+      "fach": "erdkunde",
+      "thema": "Vogelperspektive",
+      "typ": "auswahl",
+      "frage": "Wer eine Karte anschaut, sieht den Ort so wie ...",
+      "antwort": "ein fliegender Vogel",
+      "falsch": [
+        "ein Fisch im Fluss",
+        "ein Wanderer auf der Straße",
+        "ein Maulwurf in der Erde"
+      ],
+      "erklaerung": "Das Heft sagt: wie ein <b>fliegender Vogel</b> oder wie aus dem <b>Flugzeug</b>.",
+      "quelle": "Scan 3 S. 10 (Arbeitsheft Karte & Atlas, Perspektive)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-persp-005",
+      "fach": "erdkunde",
+      "thema": "Vogelperspektive",
+      "typ": "tor",
+      "frage": "Werden auch Stadtpläne von oben gezeichnet?",
+      "antwort": "Ja",
+      "falsch": [
+        "Nein"
+      ],
+      "erklaerung": "<b>Karten und Pläne</b> werden beide in der Vogelperspektive gezeichnet.",
+      "quelle": "Scan 3 S. 10 (Arbeitsheft Karte & Atlas, Perspektive)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-arten-001",
+      "fach": "erdkunde",
+      "thema": "Arten von Karten",
+      "typ": "auswahl",
+      "frage": "Grob gibt es zwei Arten von Karten: topografische und ___ Karten.",
+      "antwort": "thematische",
+      "falsch": [
+        "fotografische",
+        "geheime",
+        "gemalte"
+      ],
+      "erklaerung": "Die zwei Arten: <b>topografische</b> Karte und <b>thematische</b> Karte.",
+      "quelle": "Scan 3 S. 10 (Arbeitsheft Karte & Atlas, Arten von Karten)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-arten-002",
+      "fach": "erdkunde",
+      "thema": "Arten von Karten",
+      "typ": "tor",
+      "frage": "Die Karte zeigt, wo Berge, Flüsse und Meere sind.",
+      "antwort": "topografisch",
+      "falsch": [
+        "thematisch"
+      ],
+      "erklaerung": "Berge, Flüsse, Meere, Gelände: Das zeigt die <b>topografische</b> Karte.",
+      "quelle": "Scan 3 S. 10 (Arbeitsheft Karte & Atlas, Arten von Karten)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-arten-003",
+      "fach": "erdkunde",
+      "thema": "Arten von Karten",
+      "typ": "tor",
+      "frage": "Die Karte zeigt ein spezielles Thema, zum Beispiel Wirtschaft.",
+      "antwort": "thematisch",
+      "falsch": [
+        "topografisch"
+      ],
+      "erklaerung": "Ein Thema wie Staaten, Wirtschaft, Pflanzen oder Einwohner: <b>thematische</b> Karte.",
+      "quelle": "Scan 3 S. 10 (Arbeitsheft Karte & Atlas, Arten von Karten)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-arten-004",
+      "fach": "erdkunde",
+      "thema": "Arten von Karten",
+      "typ": "tor",
+      "frage": "Politische Karte mit den Grenzen der Länder",
+      "antwort": "thematisch",
+      "falsch": [
+        "topografisch"
+      ],
+      "erklaerung": "Die politische Karte hat ein Thema: die Länder und ihre Grenzen. Also <b>thematisch</b>.",
+      "quelle": "Scan 3 S. 10 (Arbeitsheft Karte & Atlas, Arten von Karten)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-arten-005",
+      "fach": "erdkunde",
+      "thema": "Arten von Karten",
+      "typ": "tor",
+      "frage": "Diese Karte dient nicht der Orientierung.",
+      "antwort": "thematisch",
+      "falsch": [
+        "topografisch"
+      ],
+      "erklaerung": "Zum Zurechtfinden nimmst du die topografische Karte. Die <b>thematische</b> zeigt nur ein Thema.",
+      "quelle": "Scan 3 S. 10 (Arbeitsheft Karte & Atlas, Arten von Karten)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-arten-006",
+      "fach": "erdkunde",
+      "thema": "Arten von Karten",
+      "typ": "tor",
+      "frage": "Die Karte bildet die Geländeformen genau ab.",
+      "antwort": "topografisch",
+      "falsch": [
+        "thematisch"
+      ],
+      "erklaerung": "Geländeformen und sichtbare Details der Erdoberfläche zeigt die <b>topografische</b> Karte.",
+      "quelle": "Scan 3 S. 10 (Arbeitsheft Karte & Atlas, Arten von Karten)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-arten-007",
+      "fach": "erdkunde",
+      "thema": "Arten von Karten",
+      "typ": "tor",
+      "frage": "Oft Grundlage für thematische Karten",
+      "antwort": "topografisch",
+      "falsch": [
+        "thematisch"
+      ],
+      "erklaerung": "Erst die Landschaft, dann das Thema obendrauf: Die <b>topografische</b> Karte ist die Grundlage.",
+      "quelle": "Scan 3 S. 10 (Arbeitsheft Karte & Atlas, Arten von Karten)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-arten-008",
+      "fach": "erdkunde",
+      "thema": "Arten von Karten",
+      "typ": "auswahl",
+      "frage": "Was zeigt die politische Karte?",
+      "antwort": "Grenzen und Form der Länder",
+      "falsch": [
+        "Wie hoch die Berge sind",
+        "Wie tief die Meere sind",
+        "Wo Tankstellen sind"
+      ],
+      "erklaerung": "Politisch heißt hier: <b>Länder</b>. Du siehst ihre <b>Grenzen</b> und ihre Form.",
+      "quelle": "Scan 3 S. 10 (Arbeitsheft Karte & Atlas, Arten von Karten)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-001",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "auswahl",
+      "frage": "Wie heißt die Überschrift einer Karte, die sagt, was die Karte zeigt?",
+      "antwort": "Titel",
+      "falsch": [
+        "Legende",
+        "Maßstab",
+        "Suchgitter"
+      ],
+      "erklaerung": "Die Überschrift einer Karte heißt <b>Titel</b>, zum Beispiel \"Die Kontinente der Erde\".",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-002",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "buchstaben",
+      "frage": "Die Überschrift einer Karte",
+      "antwort": "Titel",
+      "falsch": [],
+      "erklaerung": "Jede Karte hat eine Überschrift: den <b>Titel</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-003",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "auswahl",
+      "frage": "Was erklärt die Symbole, Signaturen und Farben einer Karte?",
+      "antwort": "Legende",
+      "falsch": [
+        "Titel",
+        "Maßstab",
+        "Suchgitter"
+      ],
+      "erklaerung": "Die <b>Legende</b> ist die Zeichenerklärung der Karte.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-004",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "buchstaben",
+      "frage": "Erklärt die Zeichen und Farben auf der Karte",
+      "antwort": "Legende",
+      "falsch": [],
+      "erklaerung": "Die Zeichenerklärung heißt <b>Legende</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-005",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "tor",
+      "frage": "Wo steht die Legende meistens?",
+      "antwort": "am Kartenrand",
+      "falsch": [
+        "in der Mitte"
+      ],
+      "erklaerung": "Die Legende soll nicht stören. Sie steht meistens <b>am Kartenrand</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-006",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "auswahl",
+      "frage": "Was gibt an, wie stark die Karte verkleinert ist?",
+      "antwort": "Maßstab",
+      "falsch": [
+        "Legende",
+        "Titel",
+        "Koordinaten"
+      ],
+      "erklaerung": "Der <b>Maßstab</b> sagt, wie viel kleiner die Karte ist als die Wirklichkeit.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-007",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "buchstaben",
+      "frage": "Gibt an, wie stark die Karte verkleinert ist",
+      "antwort": "Maßstab",
+      "falsch": [],
+      "erklaerung": "Maß plus Stab: <b>Maßstab</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-008",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "auswahl",
+      "frage": "Maßstab der Weltkarte im Heft: 1 cm auf der Karte sind ...",
+      "antwort": "2.200 km in echt",
+      "falsch": [
+        "220 km in echt",
+        "1 km in echt",
+        "22.000 km in echt"
+      ],
+      "erklaerung": "Auf der Kontinente-Karte steht: <b>1 cm = 2.200 km</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-009",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "auswahl",
+      "frage": "1 cm auf der Karte sind 2.200 km. Wie viel sind 2 cm?",
+      "antwort": "4.400 km",
+      "falsch": [
+        "2.200 km",
+        "2.202 km",
+        "1.100 km"
+      ],
+      "erklaerung": "Doppelt so viele Zentimeter, doppelt so viele Kilometer: 2 mal 2.200 = <b>4.400 km</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-010",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "auswahl",
+      "frage": "Was teilt eine Karte in Quadrate, damit du Orte findest?",
+      "antwort": "Suchgitter",
+      "falsch": [
+        "Legende",
+        "Maßstabsleiste",
+        "Titel"
+      ],
+      "erklaerung": "Das <b>Suchgitter</b> teilt die Karte in Kästchen. So findest du Orte, deren Lage du nicht kennst.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-011",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "buchstaben",
+      "frage": "Teilt die Karte in Quadrate",
+      "antwort": "Suchgitter",
+      "falsch": [],
+      "erklaerung": "Suchen plus Gitter: <b>Suchgitter</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-012",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "auswahl",
+      "frage": "Im Suchgitter sind die Spalten mit ___ gekennzeichnet.",
+      "antwort": "Großbuchstaben",
+      "falsch": [
+        "Zahlen",
+        "Farben",
+        "Symbolen"
+      ],
+      "erklaerung": "Spalten haben <b>Großbuchstaben</b>, Zeilen haben <b>Zahlen</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-013",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "tor",
+      "frage": "Im Suchgitter sind die Zeilen mit ... gekennzeichnet.",
+      "antwort": "Zahlen",
+      "falsch": [
+        "Buchstaben"
+      ],
+      "erklaerung": "Buchstabe für die Spalte, <b>Zahl</b> für die Zeile.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-014",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "auswahl",
+      "frage": "Was bedeutet das Suchfeld B6?",
+      "antwort": "Spalte B, Zeile 6",
+      "falsch": [
+        "Spalte 6, Zeile B",
+        "Spalte B, Zeile B",
+        "Spalte 6, Zeile 6"
+      ],
+      "erklaerung": "Erst der Buchstabe für die <b>Spalte</b>, dann die Zahl für die <b>Zeile</b>: B6 = Spalte B, Zeile 6.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-015",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "tor",
+      "frage": "Suchfeld D2: Welche Spalte?",
+      "antwort": "D",
+      "falsch": [
+        "2"
+      ],
+      "erklaerung": "Die Spalte ist immer der <b>Buchstabe</b>, also D.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-016",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "auswahl",
+      "frage": "Was hilft dir, Längen auf der Karte zu messen?",
+      "antwort": "Maßstabsleiste",
+      "falsch": [
+        "Legende",
+        "Titel",
+        "Suchgitter"
+      ],
+      "erklaerung": "Die <b>Maßstabsleiste</b> ist wie ein kleines Lineal mit echten Kilometern.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-017",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "auswahl",
+      "frage": "Was gibt die Lage eines Ortes auf der Erdoberfläche an?",
+      "antwort": "Koordinaten",
+      "falsch": [
+        "Legende",
+        "Titel",
+        "Maßstabsleiste"
+      ],
+      "erklaerung": "Mit <b>Koordinaten</b> (Breite und Länge) kannst du jeden Ort genau angeben.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-018",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "buchstaben",
+      "frage": "Geben die Lage eines Ortes auf der Erde an",
+      "antwort": "Koordinaten",
+      "falsch": [],
+      "erklaerung": "Breite und Länge zusammen heißen <b>Koordinaten</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-019",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "auswahl",
+      "frage": "Die Breite wird vom ___ aus nach Norden und Süden gemessen.",
+      "antwort": "Äquator",
+      "falsch": [
+        "Nullmeridian",
+        "Kartenrand",
+        "Maßstab"
+      ],
+      "erklaerung": "Breite: vom <b>Äquator</b> nach Norden und Süden. Länge: vom Nullmeridian nach Westen und Osten.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-aufbau-020",
+      "fach": "erdkunde",
+      "thema": "Aufbau der Karte",
+      "typ": "auswahl",
+      "frage": "Die Länge wird vom ___ aus nach Westen und Osten gemessen.",
+      "antwort": "Nullmeridian",
+      "falsch": [
+        "Äquator",
+        "Kartenrand",
+        "Suchgitter"
+      ],
+      "erklaerung": "Länge: vom <b>Nullmeridian</b> aus, bei 0° geht es los. Breite: vom Äquator aus.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Aufbau der Karte)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-zeichen-001",
+      "fach": "erdkunde",
+      "thema": "Kartenzeichen (Legende)",
+      "typ": "tor",
+      "frage": "Kartenzeichen: Zapfsäule",
+      "hinweis": "Was bedeutet dieses Kartenzeichen?",
+      "antwort": "Tankstelle",
+      "falsch": [
+        "Bahnhof"
+      ],
+      "erklaerung": "Zapfsäule = hier gibt es Benzin, also eine <b>Tankstelle</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Legenden)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-zeichen-002",
+      "fach": "erdkunde",
+      "thema": "Kartenzeichen (Legende)",
+      "typ": "tor",
+      "frage": "Kartenzeichen: i im Kreis",
+      "hinweis": "Was bedeutet dieses Kartenzeichen?",
+      "antwort": "Information",
+      "falsch": [
+        "Krankenhaus"
+      ],
+      "erklaerung": "Das kleine <b>i</b> steht für <b>Information</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Legenden)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-zeichen-003",
+      "fach": "erdkunde",
+      "thema": "Kartenzeichen (Legende)",
+      "typ": "tor",
+      "frage": "Kartenzeichen: H im Kreis",
+      "hinweis": "Welcher Begriff aus der Legende im Arbeitsheft passt?",
+      "antwort": "Krankenhaus",
+      "falsch": [
+        "Restaurant",
+        "Tankstelle"
+      ],
+      "erklaerung": "In der Legende im Arbeitsheft steht H für <b>Hospital</b>, also <b>Krankenhaus</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Legenden)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-zeichen-004",
+      "fach": "erdkunde",
+      "thema": "Kartenzeichen (Legende)",
+      "typ": "tor",
+      "frage": "Kartenzeichen: Messer und Gabel",
+      "hinweis": "Was bedeutet dieses Kartenzeichen?",
+      "antwort": "Restaurant",
+      "falsch": [
+        "Postamt"
+      ],
+      "erklaerung": "Besteck heißt: Hier gibt es Essen, ein <b>Restaurant</b> oder eine Raststätte.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Legenden)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-zeichen-005",
+      "fach": "erdkunde",
+      "thema": "Kartenzeichen (Legende)",
+      "typ": "tor",
+      "frage": "Kartenzeichen: Briefumschlag",
+      "hinweis": "Was bedeutet dieses Kartenzeichen?",
+      "antwort": "Postamt",
+      "falsch": [
+        "Café"
+      ],
+      "erklaerung": "Briefe bringt die Post: <b>Postamt</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Legenden)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-zeichen-006",
+      "fach": "erdkunde",
+      "thema": "Kartenzeichen (Legende)",
+      "typ": "tor",
+      "frage": "Kartenzeichen: Flugzeug",
+      "hinweis": "Was bedeutet dieses Kartenzeichen?",
+      "antwort": "Flughafen",
+      "falsch": [
+        "Bahnhof"
+      ],
+      "erklaerung": "Wo Flugzeuge starten: <b>Flughafen</b>. Für den Bahnhof gibt es den Zug.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Legenden)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-zeichen-007",
+      "fach": "erdkunde",
+      "thema": "Kartenzeichen (Legende)",
+      "typ": "tor",
+      "frage": "Kartenzeichen: Tasse",
+      "hinweis": "Was bedeutet dieses Kartenzeichen?",
+      "antwort": "Café",
+      "falsch": [
+        "Schwimmbad"
+      ],
+      "erklaerung": "Eine Tasse Kakao gibt es im <b>Café</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Legenden)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-zeichen-008",
+      "fach": "erdkunde",
+      "thema": "Kartenzeichen (Legende)",
+      "typ": "tor",
+      "frage": "Kartenzeichen: Schwimmer",
+      "hinweis": "Was bedeutet dieses Kartenzeichen?",
+      "antwort": "Schwimmbad",
+      "falsch": [
+        "Kirche"
+      ],
+      "erklaerung": "Wer schwimmt, ist im <b>Schwimmbad</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Legenden)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-zeichen-009",
+      "fach": "erdkunde",
+      "thema": "Kartenzeichen (Legende)",
+      "typ": "tor",
+      "frage": "Kartenzeichen: Zug",
+      "hinweis": "Was bedeutet dieses Kartenzeichen?",
+      "antwort": "Bahnhof",
+      "falsch": [
+        "Flughafen"
+      ],
+      "erklaerung": "Züge halten am <b>Bahnhof</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Legenden)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-zeichen-010",
+      "fach": "erdkunde",
+      "thema": "Kartenzeichen (Legende)",
+      "typ": "auswahl",
+      "frage": "Kartenzeichen: großes P",
+      "hinweis": "Was bedeutet dieses Kartenzeichen?",
+      "antwort": "Parkplatz",
+      "falsch": [
+        "Postamt",
+        "Bahnhof",
+        "Taxi"
+      ],
+      "erklaerung": "P wie <b>Parkplatz</b>. Die Post hat den Briefumschlag.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Legenden)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-zeichen-011",
+      "fach": "erdkunde",
+      "thema": "Kartenzeichen (Legende)",
+      "typ": "auswahl",
+      "frage": "Kartenzeichen: Einkaufswagen",
+      "hinweis": "Was bedeutet dieses Kartenzeichen?",
+      "antwort": "Geschäft",
+      "falsch": [
+        "Tankstelle",
+        "Museum",
+        "Bahnhof"
+      ],
+      "erklaerung": "Mit dem Einkaufswagen kaufst du ein: <b>Einkaufszentrum</b> oder <b>Geschäft</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Legenden)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-zeichen-012",
+      "fach": "erdkunde",
+      "thema": "Kartenzeichen (Legende)",
+      "typ": "auswahl",
+      "frage": "Wie heißt die Legende mit einem anderen Wort?",
+      "antwort": "Zeichenerklärung",
+      "falsch": [
+        "Kartenfotografie",
+        "Suchgitter",
+        "Maßstab"
+      ],
+      "erklaerung": "Die Legende erklärt die Zeichen, darum heißt sie auch <b>Zeichenerklärung</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Legenden)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-zeichen-013",
+      "fach": "erdkunde",
+      "thema": "Kartenzeichen (Legende)",
+      "typ": "auswahl",
+      "frage": "Wie sind Straßen auf Karten meistens gezeichnet?",
+      "antwort": "durch verschiedene Striche",
+      "falsch": [
+        "durch kleine Häuser",
+        "durch blaue Flächen",
+        "durch Zahlen"
+      ],
+      "erklaerung": "Autobahn, Bundesstraße, Feldweg: Jede Straßenart hat ihren eigenen <b>Strich</b>.",
+      "quelle": "Scan 3 S. 12 (Arbeitsheft Karte & Atlas, Legenden)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-geo-001",
+      "fach": "erdkunde",
+      "thema": "Geographen früher und heute",
+      "typ": "tor",
+      "frage": "Gab es das schon früher: Kompass?",
+      "antwort": "Ja",
+      "falsch": [
+        "Nein"
+      ],
+      "erklaerung": "Der <b>Kompass</b> stand im Heft bei <b>früher</b>.",
+      "quelle": "Scan 3 S. 13 (Heft 02.09.26, Geographen früher und heute)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-geo-002",
+      "fach": "erdkunde",
+      "thema": "Geographen früher und heute",
+      "typ": "tor",
+      "frage": "Gab es das schon früher: Fernrohr?",
+      "antwort": "Ja",
+      "falsch": [
+        "Nein"
+      ],
+      "erklaerung": "Das <b>Fernrohr</b> stand im Heft bei <b>früher</b>.",
+      "quelle": "Scan 3 S. 13 (Heft 02.09.26, Geographen früher und heute)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-geo-003",
+      "fach": "erdkunde",
+      "thema": "Geographen früher und heute",
+      "typ": "tor",
+      "frage": "Gab es das schon früher: GPS-Gerät?",
+      "antwort": "Nein",
+      "falsch": [
+        "Ja"
+      ],
+      "erklaerung": "Das <b>GPS-Gerät</b> nutzen Geographen erst <b>heute</b>.",
+      "quelle": "Scan 3 S. 13 (Heft 02.09.26, Geographen früher und heute)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-geo-004",
+      "fach": "erdkunde",
+      "thema": "Geographen früher und heute",
+      "typ": "tor",
+      "frage": "Gab es das schon früher: Satelliten?",
+      "antwort": "Nein",
+      "falsch": [
+        "Ja"
+      ],
+      "erklaerung": "<b>Satelliten</b> gehören zu den Hilfsmitteln von <b>heute</b>.",
+      "quelle": "Scan 3 S. 13 (Heft 02.09.26, Geographen früher und heute)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-geo-005",
+      "fach": "erdkunde",
+      "thema": "Geographen früher und heute",
+      "typ": "tor",
+      "frage": "Früher reisten Geographen vor allem mit ...",
+      "antwort": "Schiffen",
+      "falsch": [
+        "Flugzeugen"
+      ],
+      "erklaerung": "Im Heft: früher <b>Schiffe</b>, heute <b>Flugzeuge</b>.",
+      "quelle": "Scan 3 S. 13 (Heft 02.09.26, Geographen früher und heute)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-geo-006",
+      "fach": "erdkunde",
+      "thema": "Geographen früher und heute",
+      "typ": "auswahl",
+      "frage": "Welches Hilfsmittel ist neu und gab es früher nicht?",
+      "antwort": "GPS-Gerät",
+      "falsch": [
+        "Kompass",
+        "Fernrohr",
+        "Karten"
+      ],
+      "erklaerung": "Kompass, Fernrohr und Karten gab es schon <b>früher</b>. Das <b>GPS-Gerät</b> ist von heute.",
+      "quelle": "Scan 3 S. 13 (Heft 02.09.26, Geographen früher und heute)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-geo-007",
+      "fach": "erdkunde",
+      "thema": "Geographen früher und heute",
+      "typ": "auswahl",
+      "frage": "Womit schauten Geographen früher in die Ferne?",
+      "antwort": "Fernrohr",
+      "falsch": [
+        "GPS-Gerät",
+        "Satellit",
+        "Flugzeug"
+      ],
+      "erklaerung": "Fern plus Rohr: Durch das <b>Fernrohr</b> sieht man weit entfernte Dinge.",
+      "quelle": "Scan 3 S. 13 (Heft 02.09.26, Geographen früher und heute)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-geo-008",
+      "fach": "erdkunde",
+      "thema": "Geographen früher und heute",
+      "typ": "buchstaben",
+      "frage": "Zeigt die Himmelsrichtung an (früher wichtig für Geographen)",
+      "antwort": "Kompass",
+      "falsch": [],
+      "erklaerung": "<b>Kompass</b> schreibt man am Ende mit Doppel-s.",
+      "quelle": "Scan 3 S. 13 (Heft 02.09.26, Geographen früher und heute)",
+      "stufe": 1,
+      "fehlerbild": "Kompas statt Kompass",
+      "vorgriff": false
+    },
+    {
+      "id": "ek-geo-009",
+      "fach": "erdkunde",
+      "thema": "Geographen früher und heute",
+      "typ": "buchstaben",
+      "frage": "Hilfsmittel der Geographen heute (S...)",
+      "antwort": "Satelliten",
+      "falsch": [],
+      "erklaerung": "Zweimal l in der Mitte: Sate<b>ll</b>iten.",
+      "quelle": "Scan 3 S. 13 (Heft 02.09.26, Geographen früher und heute)",
+      "stufe": 2,
+      "fehlerbild": "Satekiten statt Satelliten",
+      "vorgriff": false
+    },
+    {
+      "id": "ek-atlas-001",
+      "fach": "erdkunde",
+      "thema": "Atlas benutzen",
+      "typ": "buchstaben",
+      "frage": "Ein Buch mit vielen Karten",
+      "antwort": "Atlas",
+      "falsch": [],
+      "erklaerung": "Viele Karten in einem Buch: <b>Atlas</b>.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-atlas-002",
+      "fach": "erdkunde",
+      "thema": "Atlas benutzen",
+      "typ": "tor",
+      "frage": "Ein Buch mit vielen Karten heißt ...",
+      "antwort": "Atlas",
+      "falsch": [
+        "Legende"
+      ],
+      "erklaerung": "Die Legende ist ein Teil der Karte. Das ganze Buch heißt <b>Atlas</b>.",
+      "quelle": "Scan 3 S. 9 (Arbeitsheft Karte & Atlas, Allgemeines)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-atlas-003",
+      "fach": "erdkunde",
+      "thema": "Atlas benutzen",
+      "typ": "auswahl",
+      "frage": "Im Heft steht: Rom 92, D4. Was ist D4?",
+      "antwort": "das Suchfeld",
+      "falsch": [
+        "der Maßstab",
+        "der Titel",
+        "die Legende"
+      ],
+      "erklaerung": "Buchstabe plus Zahl ist ein <b>Suchfeld</b>: Spalte D, Zeile 4.",
+      "quelle": "Scan 3 S. 13 (Heft 02.09.26, Atlasübung)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ek-atlas-004",
+      "fach": "erdkunde",
+      "thema": "Atlas benutzen",
+      "typ": "tor",
+      "frage": "Warschau liegt im Suchfeld F2. Welche Zeile?",
+      "antwort": "2",
+      "falsch": [
+        "F"
+      ],
+      "erklaerung": "Die Zeile ist die <b>Zahl</b>, die Spalte der Buchstabe.",
+      "quelle": "Scan 3 S. 13 (Heft 02.09.26, Atlasübung)",
+      "stufe": 2,
+      "vorgriff": false
+    }
+  ]
+}

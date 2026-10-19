@@ -1,0 +1,1221 @@
+{
+  "fach": "bio",
+  "stand": "2026-10-18",
+  "aufgaben": [
+    {
+      "id": "bio-rind-001",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "auswahl",
+      "frage": "Der Schlauch vom Maul bis zum Magen des Rindes heißt ...",
+      "antwort": "Speiseröhre",
+      "falsch": [
+        "Dünndarm",
+        "Pansen",
+        "Enddarm"
+      ],
+      "erklaerung": "Durch die <b>Speiseröhre</b> rutscht das Gras vom Maul nach unten in den Magen.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Abb. Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-002",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "auswahl",
+      "frage": "Welcher ist der größte Magen des Rindes?",
+      "antwort": "Pansen",
+      "falsch": [
+        "Netzmagen",
+        "Labmagen",
+        "Blättermagen"
+      ],
+      "erklaerung": "Der <b>Pansen</b> ist der riesige Magen oben, direkt am Ende der Speiseröhre.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Abb. Nr. 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-003",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "auswahl",
+      "frage": "Wie viele Magen-Abschnitte hat das Rind?",
+      "antwort": "4",
+      "falsch": [
+        "1",
+        "2",
+        "8"
+      ],
+      "erklaerung": "Zähl mit: <b>Pansen, Netzmagen, Blättermagen, Labmagen</b>. Das sind 4.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Aufgabe 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-004",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "tor",
+      "frage": "Ist der Dünndarm ein Magen?",
+      "antwort": "nein",
+      "falsch": [
+        "ja"
+      ],
+      "erklaerung": "Die vier Mägen enden alle auf <b>-magen</b> oder heißen Pansen. Der Dünndarm ist ein Darm.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Aufgabe 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-005",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "tor",
+      "frage": "Welches ist ein Magen des Rindes?",
+      "antwort": "Netzmagen",
+      "falsch": [
+        "Dickdarm",
+        "Speiseröhre"
+      ],
+      "erklaerung": "Der <b>Netzmagen</b> ist einer der vier Mägen. Dickdarm und Speiseröhre gehören auch zur Verdauung, sind aber keine Mägen.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Abb. Nr. 3)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-006",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "tor",
+      "frage": "Welcher Darm kommt ganz am Ende, beim Schwanz?",
+      "antwort": "Enddarm",
+      "falsch": [
+        "Dünndarm"
+      ],
+      "erklaerung": "Der Name verrät es: Der <b>Enddarm</b> ist das Ende des Verdauungswegs.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Abb. Nr. 8)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-007",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "auswahl",
+      "frage": "Welcher Darm schließt direkt an die Mägen an?",
+      "antwort": "Dünndarm",
+      "falsch": [
+        "Enddarm",
+        "Dickdarm",
+        "Speiseröhre"
+      ],
+      "erklaerung": "Nach dem Labmagen geht es in den <b>Dünndarm</b>, dann in den Dickdarm und zuletzt in den Enddarm.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Abb. Nr. 5 und 6)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-008",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "auswahl",
+      "frage": "In welcher Reihenfolge kommen die Därme?",
+      "antwort": "Dünndarm, Dickdarm, Enddarm",
+      "falsch": [
+        "Enddarm, Dickdarm, Dünndarm",
+        "Dickdarm, Enddarm, Dünndarm",
+        "Dünndarm, Enddarm, Dickdarm"
+      ],
+      "erklaerung": "Erst kommt der <b>Dünndarm</b> nach den Mägen, dann der <b>Dickdarm</b>, und der <b>Enddarm</b> ist ganz hinten.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Abb. Nr. 6 bis 8)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-009",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "tor",
+      "frage": "Das Rind ist ein ...",
+      "antwort": "Wiederkäuer",
+      "falsch": [
+        "Hetzjäger"
+      ],
+      "erklaerung": "Das Rind ist ein <b>Wiederkäuer</b>. Hetzjäger sind Hunde und Wölfe.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Aufgabe 3)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-010",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "auswahl",
+      "frage": "Wie schreibt man den Magen richtig?",
+      "antwort": "Netzmagen",
+      "falsch": [
+        "Netz magen",
+        "Netzmargen",
+        "Nezmagen"
+      ],
+      "erklaerung": "<b>Netzmagen</b> ist ein Wort und wird zusammengeschrieben, genau wie Blättermagen und Labmagen.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Beschriftung Nr. 3)",
+      "stufe": 1,
+      "fehlerbild": "Netz magen getrennt geschrieben",
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-011",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "buchstaben",
+      "frage": "Magen des Rindes: Blätter... (ein Wort)",
+      "antwort": "Blättermagen",
+      "falsch": [],
+      "erklaerung": "<b>Blättermagen</b>: mit ä und doppeltem t, alles zusammen.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Beschriftung Nr. 4)",
+      "stufe": 1,
+      "fehlerbild": "Blätter magen getrennt geschrieben",
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-012",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "buchstaben",
+      "frage": "Magen des Rindes, ganz unten: Lab...",
+      "antwort": "Labmagen",
+      "falsch": [],
+      "erklaerung": "<b>Labmagen</b> beginnt mit einem großen L und wird zusammengeschrieben.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Beschriftung Nr. 5)",
+      "stufe": 1,
+      "fehlerbild": "Lab magen getrennt, L sah aus wie C",
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-013",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "buchstaben",
+      "frage": "Schlauch vom Maul zum Magen",
+      "antwort": "Speiseröhre",
+      "falsch": [],
+      "erklaerung": "<b>Speise</b> (Essen) + <b>Röhre</b>: Durch diese Röhre geht das Essen.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Beschriftung Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-014",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "buchstaben",
+      "frage": "Der Darm direkt nach den Mägen",
+      "antwort": "Dünndarm",
+      "falsch": [],
+      "erklaerung": "<b>Dünn</b> mit doppeltem n + <b>Darm</b> = Dünndarm.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Beschriftung Nr. 6)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-015",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "buchstaben",
+      "frage": "Tier, das sein Futter nochmal kaut: Wieder...",
+      "antwort": "Wiederkäuer",
+      "falsch": [],
+      "erklaerung": "<b>Wieder</b> mit ie (nochmal) + <b>Käuer</b> (von kauen). Das Rind ist ein Wiederkäuer.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Aufgabe 3)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-rind-016",
+      "fach": "bio",
+      "thema": "Verdauung beim Rind",
+      "typ": "tor",
+      "frage": "Welcher Darm liegt zwischen Dünndarm und Enddarm?",
+      "antwort": "Dickdarm",
+      "falsch": [
+        "Labmagen"
+      ],
+      "erklaerung": "Dünn, dann <b>dick</b>, dann Ende: Dünndarm, <b>Dickdarm</b>, Enddarm.",
+      "quelle": "Scan 3 S. 4 (Arbeitsblatt Verdauung beim Rind, Abb. Nr. 7)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-skelett-001",
+      "fach": "bio",
+      "thema": "Skelett des Hundes",
+      "typ": "auswahl",
+      "frage": "Das Skelett des Hundes besteht aus Schädel, Rumpfskelett und ...",
+      "antwort": "Extremitäten",
+      "falsch": [
+        "Speiseröhre",
+        "Reißzähnen",
+        "Pansen"
+      ],
+      "erklaerung": "Die drei großen Teile sind <b>Schädel, Rumpfskelett und Extremitäten</b>.",
+      "quelle": "Scan 3 S. 5 (Arbeitsblatt Der Hund, Aufgabe 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-skelett-002",
+      "fach": "bio",
+      "thema": "Skelett des Hundes",
+      "typ": "tor",
+      "frage": "Die Knochen des Kopfes heißen ...",
+      "antwort": "Schädel",
+      "falsch": [
+        "Extremitäten"
+      ],
+      "erklaerung": "Der <b>Schädel</b> ist das Kopf-Skelett. Auf dem Blatt solltest du ihn gelb malen.",
+      "quelle": "Scan 3 S. 5 (Arbeitsblatt Der Hund, Aufgabe 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-skelett-003",
+      "fach": "bio",
+      "thema": "Skelett des Hundes",
+      "typ": "tor",
+      "frage": "Die Beine des Hundes gehören zu den ...",
+      "antwort": "Extremitäten",
+      "falsch": [
+        "Schädel"
+      ],
+      "erklaerung": "<b>Extremitäten</b> ist das Fachwort für die Beine. Auf dem Blatt solltest du sie blau malen.",
+      "quelle": "Scan 3 S. 5 (Arbeitsblatt Der Hund, Abb. und Aufgabe 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-skelett-004",
+      "fach": "bio",
+      "thema": "Skelett des Hundes",
+      "typ": "tor",
+      "frage": "Kopf: Schädel. Beine: Extremitäten. Der Rest dazwischen heißt ...",
+      "antwort": "Rumpfskelett",
+      "falsch": [
+        "Schädel"
+      ],
+      "erklaerung": "Der Körper ohne Kopf und Beine heißt Rumpf. Seine Knochen sind das <b>Rumpfskelett</b>.",
+      "quelle": "Scan 3 S. 5 (Arbeitsblatt Der Hund, Abb. und Aufgabe 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-skelett-005",
+      "fach": "bio",
+      "thema": "Skelett des Hundes",
+      "typ": "buchstaben",
+      "frage": "Fachwort für die Beine",
+      "antwort": "Extremitäten",
+      "falsch": [],
+      "erklaerung": "<b>Ex-tre-mi-tä-ten</b>: In Silben klappt das lange Wort gut.",
+      "quelle": "Scan 3 S. 5 (Arbeitsblatt Der Hund, Aufgabe 2)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-skelett-006",
+      "fach": "bio",
+      "thema": "Skelett des Hundes",
+      "typ": "buchstaben",
+      "frage": "Knochen von Rumpf: Rumpf...",
+      "antwort": "Rumpfskelett",
+      "falsch": [],
+      "erklaerung": "<b>Rumpf</b> + <b>Skelett</b> (mit doppeltem t am Ende) = Rumpfskelett.",
+      "quelle": "Scan 3 S. 5 (Arbeitsblatt Der Hund, Aufgabe 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-skelett-007",
+      "fach": "bio",
+      "thema": "Skelett des Hundes",
+      "typ": "buchstaben",
+      "frage": "Das Kopf-Skelett",
+      "antwort": "Schädel",
+      "falsch": [],
+      "erklaerung": "<b>Schädel</b> schreibt man mit ä.",
+      "quelle": "Scan 3 S. 5 (Arbeitsblatt Der Hund, Aufgabe 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-skelett-008",
+      "fach": "bio",
+      "thema": "Skelett des Hundes",
+      "typ": "tor",
+      "frage": "Wer kann meistens schneller laufen?",
+      "antwort": "Hund",
+      "falsch": [
+        "Mensch"
+      ],
+      "erklaerung": "Der Hund ist ein <b>schneller Läufer</b>. Die meisten Hunde sind schneller als wir.",
+      "quelle": "Scan 3 S. 5 (Arbeitsblatt Der Hund, Aufgabe 4)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-skelett-009",
+      "fach": "bio",
+      "thema": "Skelett des Hundes",
+      "typ": "tor",
+      "frage": "Der Hund ist ein Begleiter des ...",
+      "antwort": "Menschen",
+      "falsch": [
+        "Rindes"
+      ],
+      "erklaerung": "Das Blatt heißt <b>Der Hund – Begleiter des Menschen</b>. Hunde leben mit uns zusammen.",
+      "quelle": "Scan 3 S. 5 (Arbeitsblatt Der Hund, Überschrift)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-skelett-010",
+      "fach": "bio",
+      "thema": "Skelett des Hundes",
+      "typ": "tor",
+      "frage": "Hunde laufen auf den Zehen. Sie sind ...",
+      "antwort": "Zehengänger",
+      "falsch": [
+        "Wiederkäuer"
+      ],
+      "erklaerung": "Wer auf den Zehen läuft, ist ein <b>Zehengänger</b>. Das hilft dem Hund beim schnellen Laufen.",
+      "quelle": "Scan 3 S. 6 (Notiz unter Arbeitsblatt Wölfe) und S. 5 (Aufgabe 3 Fortbewegung)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-skelett-011",
+      "fach": "bio",
+      "thema": "Skelett des Hundes",
+      "typ": "buchstaben",
+      "frage": "Hunde laufen auf den Zehen: Zehen...",
+      "antwort": "Zehengänger",
+      "falsch": [],
+      "erklaerung": "<b>Zehen</b> + <b>Gänger</b> (von gehen, mit ä) = Zehengänger.",
+      "quelle": "Scan 3 S. 6 (Notiz unter Arbeitsblatt Wölfe)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-001",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "tor",
+      "frage": "Wölfe jagen im ...",
+      "antwort": "Rudel",
+      "falsch": [
+        "Alleingang"
+      ],
+      "erklaerung": "Wölfe jagen gemeinsam in einer Gruppe. Die heißt <b>Rudel</b>.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Silbenrätsel)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-002",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "auswahl",
+      "frage": "Bei den Wölfen frisst zuerst das Tier mit dem höchsten ...",
+      "antwort": "Rang",
+      "falsch": [
+        "Rudel",
+        "Gewicht",
+        "Alter"
+      ],
+      "erklaerung": "Im Rudel gibt es eine Rangordnung. Wer den höchsten <b>Rang</b> hat, frisst zuerst.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Silbenrätsel)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-003",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "auswahl",
+      "frage": "Die ___ des Wolfes führte zu den heutigen Hunden.",
+      "antwort": "Zähmung",
+      "falsch": [
+        "Jagd",
+        "Verdauung",
+        "Fortbewegung"
+      ],
+      "erklaerung": "Menschen haben Wölfe <b>gezähmt</b>. Aus der <b>Zähmung</b> wurden mit der Zeit unsere Hunde.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Silbenrätsel)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-004",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "tor",
+      "frage": "Wölfe sind die Vorfahren des ...",
+      "antwort": "Haushundes",
+      "falsch": [
+        "Rindes"
+      ],
+      "erklaerung": "Das Blatt heißt <b>Wölfe – Vorfahren des Haushundes</b>. Jeder Hund stammt vom Wolf ab.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Überschrift)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-005",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "auswahl",
+      "frage": "Wie Wölfe in der Gruppe miteinander umgehen, heißt ...",
+      "antwort": "Sozialverhalten",
+      "falsch": [
+        "Fressverhalten",
+        "Gebiss",
+        "Skelett"
+      ],
+      "erklaerung": "Wölfe besitzen ein ausgeprägtes <b>Sozialverhalten</b>: wie die Tiere in der Gruppe miteinander umgehen.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Silbenrätsel)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-006",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "auswahl",
+      "frage": "Die Zähmung des Wolfes führte zu den heutigen ___.",
+      "antwort": "Hunden",
+      "falsch": [
+        "Rindern",
+        "Mäusen",
+        "Wölfen"
+      ],
+      "erklaerung": "Der Wolf ist der Vorfahre des <b>Hundes</b>. Das ist auch das Lösungswort im Silbenrätsel.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Silbenrätsel Satz 4 und Lösungswort)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-007",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "auswahl",
+      "frage": "Welchen Platz hat der Hund im Rudel seiner Menschenfamilie?",
+      "antwort": "den niedrigsten Rang",
+      "falsch": [
+        "den höchsten Rang",
+        "gar keinen Platz",
+        "den Platz des Wolfes"
+      ],
+      "erklaerung": "Der Hund ist das <b>rangniedrigste Rudeltier</b> in der Menschenfamilie. Die Menschen haben den höheren Rang.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Aufgabe 2 Sozialverhalten)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-008",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "auswahl",
+      "frage": "Warum ist Erziehung beim Hund wichtig?",
+      "antwort": "Damit es keine Rangkämpfe gibt.",
+      "falsch": [
+        "Damit er schneller läuft.",
+        "Damit er Gras verdaut.",
+        "Damit er Wiederkäuer wird."
+      ],
+      "erklaerung": "Ein Hund will wissen, wo sein Platz ist. <b>Erziehung</b> zeigt ihm das, dann gibt es keine <b>Rangkämpfe</b>.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Aufgabe 2 Sozialverhalten)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-009",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "tor",
+      "frage": "Ein Hund wedelt mit dem Schwanz. Er zeigt ...",
+      "antwort": "Freude",
+      "falsch": [
+        "Angst"
+      ],
+      "erklaerung": "<b>Schwanzwedeln</b> ist Körpersprache und heißt: Ich freu mich!",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Aufgabe 2 Körpersprache)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-010",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "auswahl",
+      "frage": "Bei Spiel und Streit zeigen Hunde mit ihrem Körper ...",
+      "antwort": "Überlegenheit und Unterwürfigkeit",
+      "falsch": [
+        "Wachstum und Ernährung",
+        "Hunger und Durst",
+        "Schädel und Rumpf"
+      ],
+      "erklaerung": "Mit <b>Gesten</b> zeigt ein Hund: Ich bin stärker (<b>Überlegenheit</b>) oder: Du bist der Chef (<b>Unterwürfigkeit</b>).",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Aufgabe 2 Körpersprache)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-011",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "tor",
+      "frage": "Beim Jagen sind Hunde ...",
+      "antwort": "Hetzjäger",
+      "falsch": [
+        "Wiederkäuer"
+      ],
+      "erklaerung": "<b>Hetzjäger</b> hetzen ihre Beute, sie rennen ihr hinterher. Wiederkäuer ist das Rind.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Aufgabe 2 Jagd- und Fressverhalten)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-012",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "auswahl",
+      "frage": "Was für ein Gebiss hat der Hund?",
+      "antwort": "ein Raubtiergebiss",
+      "falsch": [
+        "ein Wiederkäuergebiss",
+        "gar keine Zähne",
+        "nur Backenzähne"
+      ],
+      "erklaerung": "Wie der Wolf hat der Hund ein <b>Raubtiergebiss</b>, mit Eckzähnen zum Festhalten und Reißzähnen für Fleisch.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Aufgabe 2 Jagd- und Fressverhalten)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-013",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "auswahl",
+      "frage": "Was können Hunde besonders gut?",
+      "antwort": "riechen und hören",
+      "falsch": [
+        "wiederkäuen",
+        "fliegen",
+        "Gras verdauen"
+      ],
+      "erklaerung": "Hunde haben eine super Nase und super Ohren: Sie können gut <b>riechen und hören</b>.",
+      "quelle": "Scan 3 S. 6 (Notiz unter Arbeitsblatt Wölfe)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-014",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "auswahl",
+      "frage": "Welches Wort ist richtig geschrieben?",
+      "antwort": "Rangkämpfe",
+      "falsch": [
+        "Rankampfe",
+        "Rankämpfe",
+        "Rangkampfe"
+      ],
+      "erklaerung": "Es geht um den <b>Rang</b>, also mit g. Und kämpfen schreibt man mit ä: <b>Rangkämpfe</b>.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Sozialverhalten und Notiz)",
+      "stufe": 1,
+      "fehlerbild": "Rankampfe statt Rangkämpfe",
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-015",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "buchstaben",
+      "frage": "Streit um den Platz im Rudel",
+      "antwort": "Rangkämpfe",
+      "falsch": [],
+      "erklaerung": "<b>Rang</b> mit g + <b>Kämpfe</b> mit ä = Rangkämpfe.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Sozialverhalten und Notiz)",
+      "stufe": 2,
+      "fehlerbild": "Rankampfe statt Rangkämpfe",
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-016",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "buchstaben",
+      "frage": "Gruppe von Wölfen",
+      "antwort": "Rudel",
+      "falsch": [],
+      "erklaerung": "<b>Rudel</b>: Wölfe leben und jagen im Rudel.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Silbenrätsel)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-017",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "buchstaben",
+      "frage": "Aus dem Wolf wurde durch ... der Hund",
+      "antwort": "Zähmung",
+      "falsch": [],
+      "erklaerung": "<b>Zähmung</b> kommt von zahm, darum mit ä und h.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Silbenrätsel)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-018",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "buchstaben",
+      "frage": "Hunde jagen wie Wölfe: Hetz...",
+      "antwort": "Hetzjäger",
+      "falsch": [],
+      "erklaerung": "<b>Hetz</b> mit tz + <b>Jäger</b> mit ä = Hetzjäger.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Jagd- und Fressverhalten)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-019",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "buchstaben",
+      "frage": "Gebiss von Wolf und Hund: Raubtier...",
+      "antwort": "Raubtiergebiss",
+      "falsch": [],
+      "erklaerung": "<b>Raubtier</b> + <b>Gebiss</b> mit ss am Ende = Raubtiergebiss.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Jagd- und Fressverhalten)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-wolf-020",
+      "fach": "bio",
+      "thema": "Wolf und Hund",
+      "typ": "auswahl",
+      "frage": "Wie schreibt man es richtig?",
+      "antwort": "Menschenfamilie",
+      "falsch": [
+        "Menschen-familie",
+        "Menschen familie",
+        "Menschenfamielie"
+      ],
+      "erklaerung": "Zwei Nomen werden zu einem Wort ohne Strich: <b>Menschenfamilie</b>.",
+      "quelle": "Scan 3 S. 6 (Arbeitsblatt Wölfe, Sozialverhalten)",
+      "stufe": 2,
+      "fehlerbild": "Menschen-familie mit Bindestrich",
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-001",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "auswahl",
+      "frage": "Welche Zähne arbeiten wie eine Pinzette?",
+      "antwort": "Schneidezähne",
+      "falsch": [
+        "Eckzähne",
+        "Backenzähne",
+        "Reißzähne"
+      ],
+      "erklaerung": "Die kleinen <b>Schneidezähne</b> ganz vorne zupfen fein ab, wie eine Pinzette.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Aufgabe 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-002",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "auswahl",
+      "frage": "Welche Zähne bohren sich wie ein Pickel tief in die Beute?",
+      "antwort": "Eckzähne",
+      "falsch": [
+        "Schneidezähne",
+        "Backenzähne",
+        "Reißzähne"
+      ],
+      "erklaerung": "Die langen spitzen <b>Eckzähne</b> halten die Beute fest, wie ein Eispickel im Eis.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Aufgabe 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-003",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "auswahl",
+      "frage": "Welche Zähne zermahlen Fleisch und Knochen wie ein Reibeisen?",
+      "antwort": "Backenzähne",
+      "falsch": [
+        "Schneidezähne",
+        "Eckzähne",
+        "Reißzähne"
+      ],
+      "erklaerung": "Die <b>Backenzähne</b> ganz hinten zermahlen alles, wie ein Reibeisen.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Aufgabe 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-004",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "auswahl",
+      "frage": "Wofür sind die Reißzähne da?",
+      "antwort": "Fleisch herausreißen",
+      "falsch": [
+        "Beute festhalten",
+        "fein abzupfen",
+        "Gras wiederkäuen"
+      ],
+      "erklaerung": "Der Name verrät es: Mit den <b>Reißzähnen</b> reißt der Hund Fleisch heraus.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Tabelle Nr. 4)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-005",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "tor",
+      "frage": "Eckzähne: Was machen sie mit der Beute?",
+      "antwort": "festhalten",
+      "falsch": [
+        "zermahlen"
+      ],
+      "erklaerung": "Die <b>Eckzähne</b> halten die Beute fest. Zermahlen machen die Backenzähne.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Tabelle Nr. 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-006",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "tor",
+      "frage": "Backenzähne: Was machen sie?",
+      "antwort": "zermahlen",
+      "falsch": [
+        "abzupfen"
+      ],
+      "erklaerung": "Die <b>Backenzähne</b> zermahlen die Nahrung. Abzupfen machen die Schneidezähne.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Tabelle Nr. 5)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-007",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "tor",
+      "frage": "Schneidezähne: Was machen sie?",
+      "antwort": "abzupfen",
+      "falsch": [
+        "zermahlen"
+      ],
+      "erklaerung": "Die <b>Schneidezähne</b> schneiden und zupfen ab, ganz vorne im Maul.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Tabelle Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-008",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "tor",
+      "frage": "Welche Zähne sitzen ganz vorne?",
+      "antwort": "Schneidezähne",
+      "falsch": [
+        "Backenzähne"
+      ],
+      "erklaerung": "Vorne die <b>Schneidezähne</b>, ganz hinten die <b>Backenzähne</b>.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Abb. Nr. 1 und 5)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-009",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "tor",
+      "frage": "Welches Werkzeug passt zu den Backenzähnen?",
+      "antwort": "Reibeisen",
+      "falsch": [
+        "Pinzette"
+      ],
+      "erklaerung": "Ein <b>Reibeisen</b> macht alles klein. Genau das machen die Backenzähne.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Aufgabe 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-010",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "auswahl",
+      "frage": "Mit welchem Werkzeug vergleicht das Blatt das ganze Hundegebiss?",
+      "antwort": "Multifunktionszange",
+      "falsch": [
+        "Reibeisen",
+        "Pinzette",
+        "Eispickel"
+      ],
+      "erklaerung": "Eine <b>Multifunktionszange</b> kann vieles, vorne fein, hinten kräftig. So ist auch das Hundegebiss.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Aufgabe 1)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-011",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "auswahl",
+      "frage": "Wie schreibt man diese Zähne richtig?",
+      "antwort": "Backenzähne",
+      "falsch": [
+        "Bakenzähne",
+        "Baikenzähne",
+        "Backenzähene"
+      ],
+      "erklaerung": "<b>Backe</b> schreibt man mit ck, also <b>Backenzähne</b>.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Tabelle Nr. 3 und 5)",
+      "stufe": 1,
+      "fehlerbild": "Bakenzähne, Baikenzähne statt Backenzähne",
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-012",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "buchstaben",
+      "frage": "Zähne ganz hinten, die alles zermahlen",
+      "antwort": "Backenzähne",
+      "falsch": [],
+      "erklaerung": "<b>Backe</b> mit ck + <b>Zähne</b> mit ä = Backenzähne.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Aufgabe 2)",
+      "stufe": 1,
+      "fehlerbild": "Bakenzähne, Baikenzähne statt Backenzähne",
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-013",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "buchstaben",
+      "frage": "Zähne zum Herausreißen von Fleisch",
+      "antwort": "Reißzähne",
+      "falsch": [],
+      "erklaerung": "<b>Reiß</b> mit ß (von reißen) + <b>Zähne</b> mit z = Reißzähne.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Tabelle Nr. 4)",
+      "stufe": 2,
+      "fehlerbild": "z sah aus wie c (Reißcähne)",
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-014",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "buchstaben",
+      "frage": "Zähne ganz vorne, wie eine Pinzette",
+      "antwort": "Schneidezähne",
+      "falsch": [],
+      "erklaerung": "<b>Schneide</b> (von schneiden) + <b>Zähne</b> = Schneidezähne.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Tabelle Nr. 1)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-zaehne-015",
+      "fach": "bio",
+      "thema": "Zähne des Hundes",
+      "typ": "buchstaben",
+      "frage": "Lange spitze Zähne zum Festhalten",
+      "antwort": "Eckzähne",
+      "falsch": [],
+      "erklaerung": "<b>Eck</b> mit ck + <b>Zähne</b> = Eckzähne.",
+      "quelle": "Scan 3 S. 7 (Arbeitsblatt Die Funktion der Zähne, Tabelle Nr. 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-001",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "tor",
+      "frage": "„Die Maus ist zuerst ganz klein, dann wächst sie heran.“",
+      "antwort": "lebendig",
+      "falsch": [
+        "nicht lebendig"
+      ],
+      "erklaerung": "Wer <b>wächst</b>, lebt. Das ist die Feldmaus.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Textblock 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-002",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "tor",
+      "frage": "„Die Größe der Maus ändert sich nie.“",
+      "antwort": "nicht lebendig",
+      "falsch": [
+        "lebendig"
+      ],
+      "erklaerung": "Die Computermaus <b>wächst nicht</b>. Sie bleibt immer gleich groß.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Textblock 4)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-003",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "tor",
+      "frage": "„Wenn ich Haferflocken auslege, frisst die Maus sie über Nacht weg.“",
+      "antwort": "Feldmaus",
+      "falsch": [
+        "Computermaus"
+      ],
+      "erklaerung": "Fressen gehört zur <b>Ernährung</b>. Nur die lebendige Feldmaus frisst.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Textblock 9)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-004",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "tor",
+      "frage": "„Die Krümel werden von der Maus nicht aufgenommen und verdaut.“",
+      "antwort": "Computermaus",
+      "falsch": [
+        "Feldmaus"
+      ],
+      "erklaerung": "Die Computermaus hat <b>keine Ernährung</b>. Sie frisst und verdaut nichts.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Textblock 10)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-005",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "tor",
+      "frage": "„Komme ich in ihre Nähe, flieht sie unter den Schrank.“",
+      "antwort": "lebendig",
+      "falsch": [
+        "nicht lebendig"
+      ],
+      "erklaerung": "Die Feldmaus <b>reagiert</b> auf Geruch und Bewegungen. Das kann nur etwas Lebendiges.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Textblock 5)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-006",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "tor",
+      "frage": "„Ich kann sie umstoßen, sie reagiert nicht. Sie ist aus Plastik.“",
+      "antwort": "nicht lebendig",
+      "falsch": [
+        "lebendig"
+      ],
+      "erklaerung": "Die Computermaus <b>reagiert nicht</b> und wehrt sich nicht. Sie ist aus Plastik.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Textblock 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-007",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "tor",
+      "frage": "„Sie muss selbst ins Haus hineingelaufen sein.“",
+      "antwort": "Feldmaus",
+      "falsch": [
+        "Computermaus"
+      ],
+      "erklaerung": "Die Feldmaus <b>bewegt sich selbst</b>. Die Computermaus muss man mit der Hand schieben.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Textblock 3)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-008",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "tor",
+      "frage": "„Die Maus wird mit der Hand bewegt, damit man am PC schreiben kann.“",
+      "antwort": "Computermaus",
+      "falsch": [
+        "Feldmaus"
+      ],
+      "erklaerung": "Die Computermaus bewegt sich <b>nicht von selbst</b>. Du musst sie schieben.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Textblock 6)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-009",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "tor",
+      "frage": "„Im Nest lagen fünf Junge, mit geschlossenen Augen und ohne Fell.“",
+      "antwort": "lebendig",
+      "falsch": [
+        "nicht lebendig"
+      ],
+      "erklaerung": "Die Feldmaus bekommt <b>Junge</b>. Das kann nur etwas Lebendiges.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Textblock 7)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-010",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "tor",
+      "frage": "„Im Laden gibt es viele, mit langem Kabel. Ich kann eine neue kaufen.“",
+      "antwort": "nicht lebendig",
+      "falsch": [
+        "lebendig"
+      ],
+      "erklaerung": "Computermäuse <b>kauft</b> man im Laden. Sie bekommen keine Jungen wie die Feldmaus.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Textblock 8)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-011",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "auswahl",
+      "frage": "Die Feldmaus wird größer. Welches Kennzeichen des Lebendigen ist das?",
+      "antwort": "Wachstum",
+      "falsch": [
+        "Ernährung",
+        "Plastik",
+        "Kabel"
+      ],
+      "erklaerung": "Größer werden heißt <b>Wachstum</b>. Alles Lebendige wächst.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Tabelle Kennzeichen)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-012",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "auswahl",
+      "frage": "Die Feldmaus frisst Haferflocken. Welches Kennzeichen des Lebendigen ist das?",
+      "antwort": "Ernährung",
+      "falsch": [
+        "Wachstum",
+        "Plastik",
+        "Kabel"
+      ],
+      "erklaerung": "Fressen und Verdauen heißt <b>Ernährung</b>. Alles Lebendige braucht Nahrung.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Tabelle Kennzeichen)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-013",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "auswahl",
+      "frage": "Die Feldmaus flieht, sobald sie dich riecht. Was zeigt das?",
+      "antwort": "Sie reagiert auf dich.",
+      "falsch": [
+        "Sie ist aus Plastik.",
+        "Sie hat ein Kabel.",
+        "Sie wird mit der Hand bewegt."
+      ],
+      "erklaerung": "Die Feldmaus <b>reagiert</b> auf Geruch und Bewegungen. Das ist ein Zeichen für Leben.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Textblock 5)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-014",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "auswahl",
+      "frage": "Woran erkennst du, dass die Computermaus nicht lebendig ist?",
+      "antwort": "Sie wächst nicht und frisst nicht.",
+      "falsch": [
+        "Sie huscht schnell weg.",
+        "Sie bekommt Junge.",
+        "Sie reagiert auf Geruch."
+      ],
+      "erklaerung": "Ohne <b>Wachstum</b> und ohne <b>Ernährung</b> ist etwas nicht lebendig.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Textblöcke 4 und 10)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-015",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "auswahl",
+      "frage": "Wie schreibt man dieses Kennzeichen des Lebendigen?",
+      "antwort": "Ernährung",
+      "falsch": [
+        "Ernärung",
+        "Ernerung",
+        "Ernährunk"
+      ],
+      "erklaerung": "<b>Ernährung</b> kommt von <b>Nahrung</b>. Darum steht ein h nach dem ä.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Tabelle Kennzeichen)",
+      "stufe": 1,
+      "fehlerbild": "Ernärung statt Ernährung",
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-016",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "buchstaben",
+      "frage": "Kennzeichen: Fressen und Verdauen",
+      "antwort": "Ernährung",
+      "falsch": [],
+      "erklaerung": "Denk an <b>Nahrung</b>: Er-<b>näh</b>-rung, mit äh.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Tabelle Kennzeichen)",
+      "stufe": 1,
+      "fehlerbild": "Ernärung statt Ernährung",
+      "vorgriff": false
+    },
+    {
+      "id": "bio-leben-017",
+      "fach": "bio",
+      "thema": "Lebendig oder nicht lebendig",
+      "typ": "buchstaben",
+      "frage": "Kennzeichen: größer werden",
+      "antwort": "Wachstum",
+      "falsch": [],
+      "erklaerung": "<b>Wachs</b> (von wachsen) + <b>tum</b> = Wachstum.",
+      "quelle": "Scan 3 S. 8 (Arbeitsblatt Lebendig – nicht lebendig, Tabelle Kennzeichen)",
+      "stufe": 1,
+      "vorgriff": false
+    }
+  ]
+}

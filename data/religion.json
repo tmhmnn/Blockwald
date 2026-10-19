@@ -1,0 +1,1169 @@
+{
+  "fach": "religion",
+  "stand": "2026-10-18",
+  "aufgaben": [
+    {
+      "id": "re-bewahren-001",
+      "fach": "religion",
+      "thema": "Die Welt bewahren",
+      "typ": "auswahl",
+      "frage": "In 1. Mose 2,15 steht: Gott setzte den Menschen in den Garten Eden, dass er ihn bebaute und ___.",
+      "antwort": "bewahrte",
+      "falsch": [
+        "verkaufte",
+        "verließ",
+        "zerstörte"
+      ],
+      "erklaerung": "In 1. Mose 2,15 steht: bebauen und <b>bewahren</b>. Bewahren heißt gut darauf aufpassen.",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-bewahren-002",
+      "fach": "religion",
+      "thema": "Die Welt bewahren",
+      "typ": "tor",
+      "frage": "Wo steht der Satz vom Garten Eden?",
+      "antwort": "1. Mose 2,15",
+      "falsch": [
+        "1. Mose 1,28"
+      ],
+      "erklaerung": "Garten Eden, bebauen und bewahren: <b>1. Mose 2,15</b>.",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-bewahren-003",
+      "fach": "religion",
+      "thema": "Die Welt bewahren",
+      "typ": "tor",
+      "frage": "Laut Arbeitsblatt hat Gott uns die Erde anvertraut, damit wir sie ...",
+      "antwort": "schützen",
+      "falsch": [
+        "verbrauchen"
+      ],
+      "erklaerung": "Anvertraut heißt: Jemand gibt dir etwas, damit du darauf <b>aufpasst</b>.",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-bewahren-004",
+      "fach": "religion",
+      "thema": "Die Welt bewahren",
+      "typ": "auswahl",
+      "frage": "1. Mose 1,28: Herrschet über die Fische im Meer und über die ___ unter dem Himmel.",
+      "antwort": "Vögel",
+      "falsch": [
+        "Sterne",
+        "Wolken",
+        "Engel"
+      ],
+      "erklaerung": "Fische im Meer, <b>Vögel</b> unter dem Himmel und alles Getier auf der Erde.",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-bewahren-005",
+      "fach": "religion",
+      "thema": "Die Welt bewahren",
+      "typ": "auswahl",
+      "frage": "Welche Aktion für die Schule schlägt das Blatt vor?",
+      "antwort": "Sammelbox für alte Handys",
+      "falsch": [
+        "Neue Handys für alle",
+        "Handys in den Hausmüll",
+        "Mehr Papier verbrauchen"
+      ],
+      "erklaerung": "Die Ideen auf dem Blatt: <b>Sammelbox für alte Handys</b>, Kleidertauschparty, Recyclinghefte.",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-bewahren-006",
+      "fach": "religion",
+      "thema": "Die Welt bewahren",
+      "typ": "tor",
+      "frage": "Ist eine Kleidertauschparty eine Idee vom Blatt?",
+      "antwort": "Ja",
+      "falsch": [
+        "Nein"
+      ],
+      "erklaerung": "Tauschen statt neu kaufen: Die <b>Kleidertauschparty</b> steht als Beispiel auf dem Blatt.",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-bewahren-007",
+      "fach": "religion",
+      "thema": "Die Welt bewahren",
+      "typ": "auswahl",
+      "frage": "Welche drei Themen stehen in der Tabelle \"Die Welt bewahren\"?",
+      "antwort": "Elektroschrott, Billigmode, Papiermüll",
+      "falsch": [
+        "Elektroschrott, Autos, Fernsehen",
+        "Billigmode, Handys, Schule",
+        "Papiermüll, Ferien, Sport"
+      ],
+      "erklaerung": "Die Tabelle zum Konsum hat drei Zeilen: <b>Elektroschrott</b>, <b>Billigmode</b>, <b>Papiermüll</b>.",
+      "quelle": "Scan 5 S. 5 (Tabelle Die Welt bewahren, Konsum)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-aufruf-001",
+      "fach": "religion",
+      "thema": "Einen Aufruf gestalten",
+      "typ": "auswahl",
+      "frage": "Diese W-Fragen beantwortet dein Aufruf: Was? Wann? Wo? Wer? ___",
+      "antwort": "Warum?",
+      "falsch": [
+        "Wie alt?",
+        "Welche Farbe?",
+        "Wie spät ist es?"
+      ],
+      "erklaerung": "Fünf W-Fragen: <b>Was? Wann? Wo? Wer? Warum?</b>",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-aufruf-002",
+      "fach": "religion",
+      "thema": "Einen Aufruf gestalten",
+      "typ": "auswahl",
+      "frage": "Im Beispiel-Aufruf steht \"In unserer Schule\". Welche Frage ist das?",
+      "antwort": "Wo?",
+      "falsch": [
+        "Wann?",
+        "Was?",
+        "Wer?"
+      ],
+      "erklaerung": "Ein Ort beantwortet die Frage <b>Wo?</b>",
+      "quelle": "Scan 5 S. 2 (Beispiel-Aufruf Große Strickaktion)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-aufruf-003",
+      "fach": "religion",
+      "thema": "Einen Aufruf gestalten",
+      "typ": "auswahl",
+      "frage": "\"Am Donnerstag von 15 bis 17 Uhr\" beantwortet welche Frage?",
+      "antwort": "Wann?",
+      "falsch": [
+        "Wo?",
+        "Was?",
+        "Warum?"
+      ],
+      "erklaerung": "Tag und Uhrzeit beantworten <b>Wann?</b>",
+      "quelle": "Scan 5 S. 2 (Beispiel-Aufruf Große Strickaktion)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-aufruf-004",
+      "fach": "religion",
+      "thema": "Einen Aufruf gestalten",
+      "typ": "auswahl",
+      "frage": "\"Alle, die ein wenig oder gut stricken können\" beantwortet welche Frage?",
+      "antwort": "Wer?",
+      "falsch": [
+        "Wo?",
+        "Wann?",
+        "Was?"
+      ],
+      "erklaerung": "Hier geht es um Personen, also <b>Wer?</b>",
+      "quelle": "Scan 5 S. 2 (Beispiel-Aufruf Große Strickaktion)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-aufruf-005",
+      "fach": "religion",
+      "thema": "Einen Aufruf gestalten",
+      "typ": "auswahl",
+      "frage": "\"Wir stricken Babymützen\" beantwortet welche Frage?",
+      "antwort": "Was?",
+      "falsch": [
+        "Wer?",
+        "Wann?",
+        "Wo?"
+      ],
+      "erklaerung": "Was gemacht wird, beantwortet <b>Was?</b>",
+      "quelle": "Scan 5 S. 2 (Beispiel-Aufruf Große Strickaktion)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-aufruf-006",
+      "fach": "religion",
+      "thema": "Einen Aufruf gestalten",
+      "typ": "auswahl",
+      "frage": "Was gehört laut Tipps in den Inhalt eines guten Aufrufs?",
+      "antwort": "nur Wichtiges",
+      "falsch": [
+        "möglichst viel Text",
+        "alle Kleinigkeiten",
+        "eine lange Geschichte"
+      ],
+      "erklaerung": "Beim Inhalt gilt: <b>nur Wichtiges</b> und <b>überzeugende Argumente</b>.",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-aufruf-007",
+      "fach": "religion",
+      "thema": "Einen Aufruf gestalten",
+      "typ": "auswahl",
+      "frage": "Welche Sprache passt zu einem guten Aufruf?",
+      "antwort": "kurze Sätze",
+      "falsch": [
+        "lange, verschachtelte Sätze",
+        "nur Zahlen",
+        "möglichst leise Wörter"
+      ],
+      "erklaerung": "Ein Plakat liest man im Vorbeigehen. Darum: <b>kurze Sätze</b> und Signalwörter.",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-aufruf-008",
+      "fach": "religion",
+      "thema": "Einen Aufruf gestalten",
+      "typ": "auswahl",
+      "frage": "Was hilft bei der Gestaltung (Layout) eines Aufrufs?",
+      "antwort": "Piktogramme",
+      "falsch": [
+        "winzige Schrift",
+        "lange Textblöcke",
+        "keine Überschrift"
+      ],
+      "erklaerung": "Zur Gestaltung gehören <b>Überschriften</b>, <b>Piktogramme</b> und eine übersichtliche Anordnung.",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-aufruf-009",
+      "fach": "religion",
+      "thema": "Einen Aufruf gestalten",
+      "typ": "tor",
+      "frage": "Signalwörter, die Aufmerksamkeit erregen, gehören zu ...",
+      "antwort": "Sprache",
+      "falsch": [
+        "Gestaltung",
+        "Inhalt"
+      ],
+      "erklaerung": "In der Mindmap stehen die <b>Signalwörter</b> beim Ast <b>Sprache</b>.",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-aufruf-010",
+      "fach": "religion",
+      "thema": "Einen Aufruf gestalten",
+      "typ": "tor",
+      "frage": "Überschriften gehören zu ...",
+      "antwort": "Gestaltung",
+      "falsch": [
+        "Inhalt",
+        "Sprache"
+      ],
+      "erklaerung": "Überschriften, Piktogramme, übersichtlich platzieren: alles <b>Gestaltung</b>.",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-aufruf-011",
+      "fach": "religion",
+      "thema": "Einen Aufruf gestalten",
+      "typ": "tor",
+      "frage": "Überzeugende Argumente gehören zu ...",
+      "antwort": "Inhalt",
+      "falsch": [
+        "Gestaltung"
+      ],
+      "erklaerung": "Argumente sind das, <b>was</b> du sagst. Das ist der <b>Inhalt</b>.",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-aufruf-012",
+      "fach": "religion",
+      "thema": "Einen Aufruf gestalten",
+      "typ": "tor",
+      "frage": "\"Deine Hilfe wird gebraucht\" steht in der Mindmap bei ...",
+      "antwort": "Inhalt",
+      "falsch": [
+        "Gestaltung"
+      ],
+      "erklaerung": "Der Satz steht beim Ast <b>Inhalt</b>, zusammen mit den Argumenten.",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "re-aufruf-013",
+      "fach": "religion",
+      "thema": "Einen Aufruf gestalten",
+      "typ": "auswahl",
+      "frage": "Wer sorgt im Beispiel dafür, dass die Mützen die Babys erreichen?",
+      "antwort": "\"Save the children\"",
+      "falsch": [
+        "die Post",
+        "der Schulbus",
+        "die Feuerwehr"
+      ],
+      "erklaerung": "Die Organisation <b>\"Save the children\"</b>, auf Deutsch \"Rettet die Kinder\".",
+      "quelle": "Scan 5 S. 2 (Beispiel-Aufruf Große Strickaktion)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-aufruf-014",
+      "fach": "religion",
+      "thema": "Einen Aufruf gestalten",
+      "typ": "buchstaben",
+      "frage": "Ein Plakat, das zum Mitmachen auffordert",
+      "antwort": "Aufruf",
+      "falsch": [],
+      "erklaerung": "Wer andere zum Mitmachen ruft, macht einen <b>Aufruf</b>.",
+      "quelle": "Scan 5 S. 1 (Arbeitsblatt M5 Die Welt bewahren)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-001",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "auswahl",
+      "frage": "Was gehört zum Elektroschrott?",
+      "antwort": "alte Handys und Kabel",
+      "falsch": [
+        "Bananenschalen",
+        "alte Zeitungen",
+        "Glasflaschen"
+      ],
+      "erklaerung": "Elektroschrott sind alte <b>Elektrogeräte</b>: Handys, Laptops, Fernseher und Kabel.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-002",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "buchstaben",
+      "frage": "Alte Handys, Laptops, Fernseher und Kabel",
+      "antwort": "Elektroschrott",
+      "falsch": [],
+      "erklaerung": "Elektro plus Schrott: <b>Elektroschrott</b>.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-003",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "auswahl",
+      "frage": "Wie viel Elektroschrott gibt es in Deutschland pro Person im Jahr?",
+      "antwort": "rund 20 Kilogramm",
+      "falsch": [
+        "2 Kilogramm",
+        "200 Kilogramm",
+        "20 Gramm"
+      ],
+      "erklaerung": "Rund <b>20 Kilogramm</b> pro Person und Jahr, nur in Deutschland.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-004",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "auswahl",
+      "frage": "Wie oft kaufen sich viele Menschen ein neues Handy?",
+      "antwort": "alle zwei bis drei Jahre",
+      "falsch": [
+        "jeden Monat",
+        "alle zwanzig Jahre",
+        "nur einmal im Leben"
+      ],
+      "erklaerung": "Laut Text <b>alle zwei bis drei Jahre</b>, oft obwohl das alte noch geht.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-005",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "auswahl",
+      "frage": "Warum kaufen viele ein neues Handy, obwohl das alte noch geht?",
+      "antwort": "Das neue ist schneller oder hat eine bessere Kamera",
+      "falsch": [
+        "Alte Handys sind verboten",
+        "Alte Handys werden giftig",
+        "Neue Handys sind kostenlos"
+      ],
+      "erklaerung": "Der Text sagt: Das neue ist <b>schneller</b> oder hat eine <b>bessere Kamera</b>.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-006",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "auswahl",
+      "frage": "Warum wird ein Handy oft nicht repariert?",
+      "antwort": "Die Reparatur ist oft teurer als ein neues Gerät",
+      "falsch": [
+        "Reparieren ist verboten",
+        "Handys gehen nie kaputt",
+        "Akkus halten ewig"
+      ],
+      "erklaerung": "Lässt sich der Akku nicht tauschen, ist die <b>Reparatur oft teurer</b> als ein neues Handy.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-007",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "auswahl",
+      "frage": "Welche wertvollen Rohstoffe stecken in einem Handy?",
+      "antwort": "Gold, Silber, Kupfer",
+      "falsch": [
+        "Holz, Papier, Wolle",
+        "Sand, Salz, Zucker",
+        "Blei, Quecksilber, Rauch"
+      ],
+      "erklaerung": "Wertvoll sind <b>Gold, Silber und Kupfer</b>. Blei und Quecksilber sind die giftigen Stoffe.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-008",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "auswahl",
+      "frage": "Welche giftigen Stoffe stecken in Elektrogeräten?",
+      "antwort": "Blei und Quecksilber",
+      "falsch": [
+        "Gold und Silber",
+        "Kupfer und Gold",
+        "Wasser und Luft"
+      ],
+      "erklaerung": "Giftig sind <b>Blei</b> und <b>Quecksilber</b>. Gold, Silber und Kupfer sind die wertvollen Rohstoffe.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-009",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "buchstaben",
+      "frage": "Giftiger Stoff in Elektrogeräten, neben Blei",
+      "antwort": "Quecksilber",
+      "falsch": [],
+      "erklaerung": "Que<b>ck</b>silber schreibt man mit ck.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 2,
+      "fehlerbild": "Queksilber statt Quecksilber",
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-010",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "auswahl",
+      "frage": "Was sind Rohstoffe?",
+      "antwort": "Stoffe aus der Natur, aus denen Dinge hergestellt werden",
+      "falsch": [
+        "Stoffe, die man roh isst",
+        "alte Geräte im Müll",
+        "giftiger Rauch"
+      ],
+      "erklaerung": "Laut Wörter-Hilfe: <b>Stoffe aus der Natur</b>, aus denen Dinge hergestellt werden.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-011",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "auswahl",
+      "frage": "Was bedeutet \"entsorgen\"?",
+      "antwort": "Müll so wegbringen, dass er keinen Schaden anrichtet",
+      "falsch": [
+        "Müll einfach verbrennen",
+        "Müll in die Schublade legen",
+        "sich keine Sorgen machen"
+      ],
+      "erklaerung": "Entsorgen heißt: Müll so <b>wegbringen</b>, dass er <b>keinen Schaden</b> anrichtet.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-012",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "auswahl",
+      "frage": "Warum ist das Gewinnen von Rohstoffen ein Problem?",
+      "antwort": "In Bergwerken wird viel Natur zerstört",
+      "falsch": [
+        "Es gibt zu viele Rohstoffe",
+        "Rohstoffe sind giftig",
+        "Bergwerke sind zu klein"
+      ],
+      "erklaerung": "Für Gold, Silber und Kupfer wird in <b>Bergwerken viel Natur zerstört</b>.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-013",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "tor",
+      "frage": "Wohin wird Elektroschrott laut Text oft verbotenerweise gebracht?",
+      "antwort": "nach Ghana",
+      "falsch": [
+        "nach Eden"
+      ],
+      "erklaerung": "Mit Schiffen in Länder wie <b>Ghana</b> in Afrika.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-014",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "auswahl",
+      "frage": "Warum werden in Ghana Kabel verbrannt?",
+      "antwort": "um an das Kupfer zu kommen",
+      "falsch": [
+        "um zu heizen",
+        "um Licht zu machen",
+        "um Platz zu sparen"
+      ],
+      "erklaerung": "In Kabeln steckt <b>Kupfer</b>. Beim Verbrennen entsteht aber giftiger Rauch.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-015",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "auswahl",
+      "frage": "Wohin gelangt das Gift vom Verbrennen?",
+      "antwort": "in Boden, Wasser und Menschen",
+      "falsch": [
+        "nirgendwohin, es verschwindet",
+        "nur in die Wolken",
+        "zurück ins Handy"
+      ],
+      "erklaerung": "Das Gift gelangt in den <b>Boden</b>, ins <b>Wasser</b> und in die <b>Körper der Menschen</b>.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-016",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "tor",
+      "frage": "Altes Handy in den Hausmüll?",
+      "antwort": "Nein",
+      "falsch": [
+        "Ja"
+      ],
+      "erklaerung": "Niemals in den Hausmüll. Alte Handys gehören zur <b>Sammelstelle</b> oder ins Geschäft.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-017",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "tor",
+      "frage": "Altes Handy zur Sammelstelle bringen?",
+      "antwort": "Ja",
+      "falsch": [
+        "Nein"
+      ],
+      "erklaerung": "Genau dort werden alte Geräte richtig <b>entsorgt</b>.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-018",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "tor",
+      "frage": "Hilft es, gebrauchte Geräte zu kaufen?",
+      "antwort": "Ja",
+      "falsch": [
+        "Nein"
+      ],
+      "erklaerung": "Gebraucht kaufen heißt: Das Gerät wird <b>länger genutzt</b>, es entsteht weniger Schrott.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-019",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "auswahl",
+      "frage": "Was kann man gegen Elektroschrott tun?",
+      "antwort": "Geräte lange nutzen und reparieren",
+      "falsch": [
+        "jedes Jahr ein neues Handy kaufen",
+        "alte Handys in der Schublade lassen",
+        "Handys in den Hausmüll werfen"
+      ],
+      "erklaerung": "Am besten: <b>lange nutzen</b>, <b>reparieren lassen</b> und alte Geräte zur Sammelstelle bringen.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-schrott-020",
+      "fach": "religion",
+      "thema": "Elektroschrott",
+      "typ": "auswahl",
+      "frage": "Was sollen strengere Gesetze erreichen?",
+      "antwort": "Firmen bauen Geräte, die man reparieren kann",
+      "falsch": [
+        "Handys werden schneller",
+        "Jeder bekommt ein neues Handy",
+        "Kabel dürfen verbrannt werden"
+      ],
+      "erklaerung": "Gesetze sollen dafür sorgen, dass Geräte <b>reparierbar</b> sind und Schrott nicht ins Ausland kommt.",
+      "quelle": "Scan 5 S. 3 (Arbeitsblatt M1 Elektroschrott)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "re-vortrag-001",
+      "fach": "religion",
+      "thema": "Kurzvortrag halten",
+      "typ": "auswahl",
+      "frage": "Welcher Tipp für den Kurzvortrag steht auf dem Stichwortzettel?",
+      "antwort": "Nur Stichworte aufschreiben",
+      "falsch": [
+        "Den ganzen Text vorlesen",
+        "Leise und schnell sprechen",
+        "Auf den Boden schauen"
+      ],
+      "erklaerung": "Stichworte statt Ablesen. Dazu: <b>laut, langsam</b> sprechen und die Klasse anschauen.",
+      "quelle": "Scan 5 S. 4 (M4 Stichwortzettel Kurzvortrag)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-vortrag-002",
+      "fach": "religion",
+      "thema": "Kurzvortrag halten",
+      "typ": "tor",
+      "frage": "Beim Vortrag laut und langsam sprechen?",
+      "antwort": "Ja",
+      "falsch": [
+        "Nein"
+      ],
+      "erklaerung": "Laut, langsam und mit Blick zur Klasse, dann hören alle zu.",
+      "quelle": "Scan 5 S. 4 (M4 Stichwortzettel Kurzvortrag)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-vortrag-003",
+      "fach": "religion",
+      "thema": "Kurzvortrag halten",
+      "typ": "auswahl",
+      "frage": "Welche Frage steht als erste auf dem Stichwortzettel?",
+      "antwort": "Was ist das Problem?",
+      "falsch": [
+        "Wer hat Schuld?",
+        "Wie spät ist es?",
+        "Wer ist der Beste?"
+      ],
+      "erklaerung": "Drei Fragen: <b>Was ist das Problem?</b> Warum gefährdet das unseren Lebensraum? Was kann man dagegen tun?",
+      "quelle": "Scan 5 S. 4 (M4 Stichwortzettel Kurzvortrag)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-huete-001",
+      "fach": "religion",
+      "thema": "Herrschaftsauftrag und Hüteauftrag",
+      "typ": "auswahl",
+      "frage": "Das hebräische Wort, das wir mit \"unterwerfen\" übersetzen, bedeutet ...",
+      "antwort": "seinen Fuß auf etwas setzen",
+      "falsch": [
+        "etwas kaputt machen",
+        "etwas verkaufen",
+        "etwas wegwerfen"
+      ],
+      "erklaerung": "Im Hebräischen heißt es <b>\"seinen Fuß auf etwas setzen\"</b>. Das meinte so viel wie: die Hand darüber halten.",
+      "quelle": "Scan 5 S. 6 (Arbeitsblatt Herrschaftsauftrag M1 bis M3)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "re-huete-002",
+      "fach": "religion",
+      "thema": "Herrschaftsauftrag und Hüteauftrag",
+      "typ": "auswahl",
+      "frage": "\"Seinen Fuß auf etwas setzen\" sagte man damals etwa so, wie wir heute sagen: ...",
+      "antwort": "seine Hand über etwas halten",
+      "falsch": [
+        "jemandem auf den Fuß treten",
+        "schnell weglaufen",
+        "etwas zertreten"
+      ],
+      "erklaerung": "Wer die <b>Hand über etwas hält</b>, beschützt es.",
+      "quelle": "Scan 5 S. 6 (Arbeitsblatt Herrschaftsauftrag M1 bis M3)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "re-huete-003",
+      "fach": "religion",
+      "thema": "Herrschaftsauftrag und Hüteauftrag",
+      "typ": "auswahl",
+      "frage": "Das hebräische Wort für \"herrschen\" beschreibt, wie ...",
+      "antwort": "Hirten ihre Herde versorgen und schützen",
+      "falsch": [
+        "Könige Steuern eintreiben",
+        "Soldaten kämpfen",
+        "Jäger Tiere jagen"
+      ],
+      "erklaerung": "Gemeint sind <b>Hirten</b>, die mit ihrer Herde umherziehen, sie <b>versorgen</b> und <b>schützen</b>.",
+      "quelle": "Scan 5 S. 6 (Arbeitsblatt Herrschaftsauftrag M1 bis M3)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-huete-004",
+      "fach": "religion",
+      "thema": "Herrschaftsauftrag und Hüteauftrag",
+      "typ": "auswahl",
+      "frage": "Laut Arbeitsblatt passt für den Herrschaftsauftrag besser das Wort \"Hüteauftrag\". Warum?",
+      "antwort": "Der Mensch soll die Erde behüten wie ein Hirte die Herde",
+      "falsch": [
+        "Der Mensch soll Hüte tragen",
+        "Der Mensch darf mit der Erde machen, was er will",
+        "Nur Gott darf die Erde behüten"
+      ],
+      "erklaerung": "Herrschen meint hier: wie ein Hirte <b>versorgen und schützen</b>. Darum passt <b>Hüteauftrag</b> besser.",
+      "quelle": "Scan 5 S. 6 (Arbeitsblatt Herrschaftsauftrag M1 bis M3)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-huete-005",
+      "fach": "religion",
+      "thema": "Herrschaftsauftrag und Hüteauftrag",
+      "typ": "buchstaben",
+      "frage": "Besserer Name für den Herrschaftsauftrag",
+      "antwort": "Hüteauftrag",
+      "falsch": [],
+      "erklaerung": "Hüten wie ein Hirte: <b>Hüteauftrag</b>.",
+      "quelle": "Scan 5 S. 6 (Arbeitsblatt Herrschaftsauftrag M1 bis M3)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-huete-006",
+      "fach": "religion",
+      "thema": "Herrschaftsauftrag und Hüteauftrag",
+      "typ": "tor",
+      "frage": "Sind \"unterwerfen\" und \"herrschen\" laut Blatt missverständliche Übersetzungen?",
+      "antwort": "Ja",
+      "falsch": [
+        "Nein"
+      ],
+      "erklaerung": "Das Blatt sagt: Die deutschen Wörter sind <b>missverständlich</b>. Im Hebräischen geht es ums Beschützen.",
+      "quelle": "Scan 5 S. 6 (Arbeitsblatt Herrschaftsauftrag M1 bis M3)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-huete-007",
+      "fach": "religion",
+      "thema": "Herrschaftsauftrag und Hüteauftrag",
+      "typ": "tor",
+      "frage": "Guter oder schlechter Herrscher: beschützt die anderen",
+      "antwort": "guter",
+      "falsch": [
+        "schlechter"
+      ],
+      "erklaerung": "Wie der Hirte seine Herde: Ein <b>guter</b> Herrscher ist ein Beschützer.",
+      "quelle": "Scan 5 S. 10 (Arbeitsblatt M2 guter und schlechter Herrscher)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-huete-008",
+      "fach": "religion",
+      "thema": "Herrschaftsauftrag und Hüteauftrag",
+      "typ": "tor",
+      "frage": "Guter oder schlechter Herrscher: versorgt die anderen",
+      "antwort": "guter",
+      "falsch": [
+        "schlechter"
+      ],
+      "erklaerung": "Versorgen gehört zum Bild vom Hirten, also zum <b>guten</b> Herrscher.",
+      "quelle": "Scan 5 S. 6 (Arbeitsblatt Herrschaftsauftrag M1 bis M3)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-huete-009",
+      "fach": "religion",
+      "thema": "Herrschaftsauftrag und Hüteauftrag",
+      "typ": "tor",
+      "frage": "Guter oder schlechter Herrscher: macht kaputt, was ihm anvertraut ist",
+      "antwort": "schlechter",
+      "falsch": [
+        "guter"
+      ],
+      "erklaerung": "Wer kaputt macht statt zu bewahren, ist ein <b>schlechter</b> Herrscher.",
+      "quelle": "Scan 5 S. 6 (Arbeitsblatt Herrschaftsauftrag M1 bis M3)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-bild-001",
+      "fach": "religion",
+      "thema": "Der Mensch als Bild Gottes",
+      "typ": "auswahl",
+      "frage": "Wo steht, dass Gott den Menschen \"zu seinem Bilde\" schuf?",
+      "antwort": "1. Mose 1,27",
+      "falsch": [
+        "1. Mose 2,15",
+        "im Gedicht vom Ich",
+        "auf dem Plakat zur Strickaktion"
+      ],
+      "erklaerung": "Das steht in <b>1. Mose 1,27</b>, direkt vor dem Herrschaftsauftrag.",
+      "quelle": "Scan 5 S. 6 (Arbeitsblatt Herrschaftsauftrag M1 bis M3)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-bild-002",
+      "fach": "religion",
+      "thema": "Der Mensch als Bild Gottes",
+      "typ": "auswahl",
+      "frage": "Laut Überschrift ist der Mensch als Bild Gottes geschaffen, um ...",
+      "antwort": "die Erde zu hüten",
+      "falsch": [
+        "die Erde zu verbrauchen",
+        "Hüte zu sammeln",
+        "allein zu leben"
+      ],
+      "erklaerung": "Die Überschrift: Als Bild Gottes geschaffen, <b>um die Erde zu hüten</b>.",
+      "quelle": "Scan 5 S. 6 (Arbeitsblatt Herrschaftsauftrag M1 bis M3)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-bild-003",
+      "fach": "religion",
+      "thema": "Der Mensch als Bild Gottes",
+      "typ": "tor",
+      "frage": "In 1. Mose 1,27 heißt es: Gott schuf den Menschen zu seinem ...",
+      "antwort": "Bilde",
+      "falsch": [
+        "Diener"
+      ],
+      "erklaerung": "In 1. Mose 1,27 heißt es: Gott schuf den Menschen <b>zu seinem Bilde</b>.",
+      "quelle": "Scan 5 S. 6 (Arbeitsblatt Herrschaftsauftrag M1 bis M3)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-karikatur-001",
+      "fach": "religion",
+      "thema": "Karikatur \"Krone der Schöpfung\"",
+      "typ": "auswahl",
+      "frage": "Wer hat die Karikatur \"Krone der Schöpfung\" gezeichnet?",
+      "antwort": "Thomas Plaßmann",
+      "falsch": [
+        "Fredrik Vahle",
+        "Mose",
+        "ein Kartograf"
+      ],
+      "erklaerung": "Die Karikatur ist von <b>Thomas Plaßmann</b>. Fredrik Vahle hat das Gedicht vom Ich geschrieben.",
+      "quelle": "Scan 5 S. 9 (Arbeitsblatt M4 Krone der Schöpfung?)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-karikatur-002",
+      "fach": "religion",
+      "thema": "Karikatur \"Krone der Schöpfung\"",
+      "typ": "auswahl",
+      "frage": "Was hält der Mann auf der Karikatur in der Hand?",
+      "antwort": "eine angebissene Erdkugel",
+      "falsch": [
+        "ein Handy",
+        "eine Krone",
+        "eine Babymütze"
+      ],
+      "erklaerung": "Er hält die <b>Erde</b> wie einen Apfel, und sie ist schon <b>angebissen</b>.",
+      "quelle": "Scan 5 S. 9 (Arbeitsblatt M4 Krone der Schöpfung?)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-karikatur-003",
+      "fach": "religion",
+      "thema": "Karikatur \"Krone der Schöpfung\"",
+      "typ": "auswahl",
+      "frage": "Was will der Zeichner mit \"Krone der Schöpfung\" wohl sagen?",
+      "antwort": "Der Mensch hält sich für das Größte und macht dabei die Erde kaputt",
+      "falsch": [
+        "Der Mensch passt gut auf die Erde auf",
+        "Kronen sind wertvoller als die Erde",
+        "Die Erde schmeckt gut"
+      ],
+      "erklaerung": "Die Unterschrift ist ironisch gemeint: Der Mensch fühlt sich als König, <b>macht die Erde aber kaputt</b>.",
+      "quelle": "Scan 5 S. 7 (Heft, Karikatur Beschreibung und Deutung)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "re-karikatur-004",
+      "fach": "religion",
+      "thema": "Karikatur \"Krone der Schöpfung\"",
+      "typ": "tor",
+      "frage": "Beschreibung oder Deutung? \"Der Mensch kaut Erde.\"",
+      "antwort": "Beschreibung",
+      "falsch": [
+        "Deutung"
+      ],
+      "erklaerung": "Das sieht man direkt auf dem Bild, also <b>Beschreibung</b>. Die Deutung sagt, was es bedeutet.",
+      "quelle": "Scan 5 S. 7 (Heft, Karikatur Beschreibung und Deutung)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-karikatur-005",
+      "fach": "religion",
+      "thema": "Karikatur \"Krone der Schöpfung\"",
+      "typ": "tor",
+      "frage": "Beschreibung oder Deutung? \"Menschen machen die Erde kaputt.\"",
+      "antwort": "Deutung",
+      "falsch": [
+        "Beschreibung"
+      ],
+      "erklaerung": "Das steht so nicht im Bild, das ist die Bedeutung dahinter: <b>Deutung</b>.",
+      "quelle": "Scan 5 S. 7 (Heft, Karikatur Beschreibung und Deutung)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-karikatur-006",
+      "fach": "religion",
+      "thema": "Karikatur \"Krone der Schöpfung\"",
+      "typ": "tor",
+      "frage": "Beschreibung oder Deutung? \"Menschen sind verwöhnt.\"",
+      "antwort": "Deutung",
+      "falsch": [
+        "Beschreibung"
+      ],
+      "erklaerung": "Verwöhnt kann man nicht sehen, das schließt man daraus: <b>Deutung</b>.",
+      "quelle": "Scan 5 S. 7 (Heft, Karikatur Beschreibung und Deutung)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-karikatur-007",
+      "fach": "religion",
+      "thema": "Karikatur \"Krone der Schöpfung\"",
+      "typ": "tor",
+      "frage": "Passt der Mann auf der Karikatur zum Hüteauftrag?",
+      "antwort": "Nein",
+      "falsch": [
+        "Ja"
+      ],
+      "erklaerung": "Ein Hirte schützt seine Herde. Der Mann <b>beißt die Erde an</b>, statt sie zu behüten.",
+      "quelle": "Scan 5 S. 9 (Arbeitsblatt M4 Krone der Schöpfung?)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-ich-001",
+      "fach": "religion",
+      "thema": "Gedicht vom Ich",
+      "typ": "auswahl",
+      "frage": "Wer hat das \"Gedicht vom Ich\" geschrieben?",
+      "antwort": "Fredrik Vahle",
+      "falsch": [
+        "Thomas Plaßmann",
+        "Mose",
+        "Rumpelstilzchen"
+      ],
+      "erklaerung": "Das Gedicht ist von <b>Fredrik Vahle</b>. Rumpelstilzchen kommt nur im Gedicht vor.",
+      "quelle": "Scan 5 S. 14 (Gedicht vom Ich, Zeilen 39 bis 75)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-ich-002",
+      "fach": "religion",
+      "thema": "Gedicht vom Ich",
+      "typ": "auswahl",
+      "frage": "Im Heft steht: Ich = ...",
+      "antwort": "Persönlichkeit, der ganze Mensch",
+      "falsch": [
+        "nur der Kopf",
+        "nur der Körper",
+        "nur die Haare"
+      ],
+      "erklaerung": "Das Ich ist die <b>Persönlichkeit</b>, der <b>ganze Mensch</b> als Individuum.",
+      "quelle": "Scan 5 S. 15 (Heft, Gedicht vom Ich)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-ich-003",
+      "fach": "religion",
+      "thema": "Gedicht vom Ich",
+      "typ": "buchstaben",
+      "frage": "Ich ist der ganze Mensch als ...",
+      "antwort": "Individuum",
+      "falsch": [],
+      "erklaerung": "Zwei u am Ende: Individu<b>u</b>m.",
+      "quelle": "Scan 5 S. 15 (Heft, Gedicht vom Ich)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "re-ich-004",
+      "fach": "religion",
+      "thema": "Gedicht vom Ich",
+      "typ": "auswahl",
+      "frage": "Wie oft kann es dich laut Gedicht auf der ganzen Welt geben?",
+      "antwort": "nur einmal",
+      "falsch": [
+        "zweimal",
+        "dreizehnmal",
+        "beliebig oft"
+      ],
+      "erklaerung": "Im Gedicht: So, wie du bist, kann es dich <b>nur einmal</b> geben.",
+      "quelle": "Scan 5 S. 14 (Gedicht vom Ich, Zeilen 39 bis 75)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-ich-005",
+      "fach": "religion",
+      "thema": "Gedicht vom Ich",
+      "typ": "auswahl",
+      "frage": "Wo musst du dein Ich laut Gedicht suchen?",
+      "antwort": "gar nicht, du bist mit allem dein Ich",
+      "falsch": [
+        "in einem Ich-findungs-buch",
+        "beim Friseur",
+        "nur im kleinen Zeh"
+      ],
+      "erklaerung": "Das Gedicht sagt: Dein Ich brauchst du <b>gar nicht gesondert zu suchen</b>. Alles, was du tust, ist dein Ich.",
+      "quelle": "Scan 5 S. 14 (Gedicht vom Ich, Zeilen 39 bis 75)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "re-ich-006",
+      "fach": "religion",
+      "thema": "Gedicht vom Ich",
+      "typ": "auswahl",
+      "frage": "Was nennt das Gedicht \"philosophischen Käsekuchen\"?",
+      "antwort": "das Ich gesondert zu suchen",
+      "falsch": [
+        "einen Kuchen beim Friseur",
+        "einen Zahn mit Loch",
+        "viel Geld haben"
+      ],
+      "erklaerung": "Direkt davor steht: Dein Ich brauchst du <b>gar nicht gesondert zu suchen</b>. Das ist der Käsekuchen.",
+      "quelle": "Scan 5 S. 14 (Gedicht vom Ich, Zeilen 39 bis 75)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "re-ich-007",
+      "fach": "religion",
+      "thema": "Gedicht vom Ich",
+      "typ": "tor",
+      "frage": "Der erste Teil des Gedichts besteht vor allem aus ...",
+      "antwort": "Fragen",
+      "falsch": [
+        "Antworten"
+      ],
+      "erklaerung": "Wo fängt ich an? Wo hört ich auf? Der erste Teil steckt voller <b>Fragen</b>.",
+      "quelle": "Scan 5 S. 13 (Gedicht vom Ich, Zeilen 1 bis 38)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-ich-008",
+      "fach": "religion",
+      "thema": "Gedicht vom Ich",
+      "typ": "auswahl",
+      "frage": "An wen gehen die Grüße am Ende des Gedichts?",
+      "antwort": "an dein Ich",
+      "falsch": [
+        "an den Friseur",
+        "an den Zahnarzt",
+        "an Rumpelstilzchen"
+      ],
+      "erklaerung": "Das Gedicht endet mit: Viele Grüße von meinem ... <b>an dein Ich</b>.",
+      "quelle": "Scan 5 S. 14 (Gedicht vom Ich, Zeilen 39 bis 75)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "re-ich-009",
+      "fach": "religion",
+      "thema": "Gedicht vom Ich",
+      "typ": "auswahl",
+      "frage": "Welche Frage stellt das Gedicht zum Zahnarzt?",
+      "antwort": "Fehlt vom Ich ein Stück, wenn ein Zahn gezogen wird?",
+      "falsch": [
+        "Wie teuer ist der Zahnarzt?",
+        "Wie viele Zähne hat ein Hai?",
+        "Warum putzt man Zähne?"
+      ],
+      "erklaerung": "Der Zahn kommt nie zurück. Darum fragt das Gedicht: <b>Fehlt dann vom Ich ein kleines Stück?</b>",
+      "quelle": "Scan 5 S. 13 (Gedicht vom Ich, Zeilen 1 bis 38)",
+      "stufe": 2,
+      "vorgriff": false
+    }
+  ]
+}

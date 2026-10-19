@@ -1,0 +1,3502 @@
+{
+  "fach": "mathe",
+  "stand": "2026-10-18",
+  "aufgaben": [
+    {
+      "id": "ma-zahl-001",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "vierhundertdreiundzwanzigtausendeinhundertundsieben",
+      "hinweis": "Schreib als Zahl.",
+      "antwort": "423 107",
+      "falsch": [
+        "423 170",
+        "4 231 007",
+        "42 317"
+      ],
+      "erklaerung": "Bis \"tausend\": 423. Danach: einhundertundsieben = 107. Zusammen <b>423 107</b>.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-002",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "sechs Milliarden fünfunddreißig Millionen neunhundertsechzigtausend",
+      "hinweis": "Schreib als Zahl.",
+      "antwort": "6 035 960 000",
+      "falsch": [
+        "635 960 000",
+        "6 359 600 000",
+        "6 035 096 000"
+      ],
+      "erklaerung": "Jede Stufe hat drei Stellen: 6 | 035 | 960 | 000. Leere Stellen füllst du mit 0 auf: <b>6 035 960 000</b>.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 1)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-003",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "einhundertsiebentausenddrei",
+      "hinweis": "Schreib als Zahl.",
+      "antwort": "107 003",
+      "falsch": [
+        "107 300",
+        "17 003",
+        "1 073"
+      ],
+      "erklaerung": "107 Tausender und 3 Einer. Die Lücken bekommen Nullen: <b>107 003</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 1a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-004",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "zehntausendsiebenhundertdrei",
+      "hinweis": "Schreib als Zahl.",
+      "antwort": "10 703",
+      "falsch": [
+        "10 730",
+        "17 003",
+        "100 703"
+      ],
+      "erklaerung": "10 Tausender, 7 Hunderter, 0 Zehner, 3 Einer: <b>10 703</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 1c)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-005",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "eintausendachthundertsiebenundneunzig",
+      "hinweis": "Schreib als Zahl.",
+      "antwort": "1 897",
+      "falsch": [
+        "1 879",
+        "10 897",
+        "18 097"
+      ],
+      "erklaerung": "1 Tausender, 8 Hunderter, dann siebenundneunzig = 97: <b>1 897</b>. Achtung, im Wort kommt die 7 vor der 90.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 1e)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-006",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "elf Millionen achtzehntausendacht",
+      "hinweis": "Schreib als Zahl.",
+      "antwort": "11 018 008",
+      "falsch": [
+        "11 180 008",
+        "11 108 008",
+        "1 118 008"
+      ],
+      "erklaerung": "11 Millionen | 018 Tausend | 008. Jede Dreiergruppe wird mit Nullen aufgefüllt: <b>11 018 008</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 1d)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-007",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "elf Millionen einhundertachttausendacht",
+      "hinweis": "Schreib als Zahl.",
+      "antwort": "11 108 008",
+      "falsch": [
+        "11 018 008",
+        "11 180 008",
+        "1 110 808"
+      ],
+      "erklaerung": "11 Millionen | 108 Tausend | 008: <b>11 108 008</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 1f)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-008",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "neunhundertsechzigtausend",
+      "hinweis": "Schreib als Zahl.",
+      "antwort": "960 000",
+      "falsch": [
+        "96 000",
+        "9 600 000",
+        "900 060"
+      ],
+      "erklaerung": "960 Tausender: 960 und drei Nullen = <b>960 000</b>.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 1b)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-009",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "17 Mio.",
+      "hinweis": "Schreib als Zahl.",
+      "antwort": "17 000 000",
+      "falsch": [
+        "17 000",
+        "1 700 000",
+        "170 000 000"
+      ],
+      "erklaerung": "Mio. heißt Millionen. Eine Million hat 6 Nullen: <b>17 000 000</b>.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 4.1 l)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-010",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "94 Mrd.",
+      "hinweis": "Schreib als Zahl.",
+      "antwort": "94 000 000 000",
+      "falsch": [
+        "94 000 000",
+        "940 000 000",
+        "9 400 000 000"
+      ],
+      "erklaerung": "Mrd. heißt Milliarden. Eine Milliarde hat 9 Nullen: <b>94 000 000 000</b>.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 4.1 m)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-011",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "412 001",
+      "hinweis": "Welches Zahlwort passt?",
+      "antwort": "vierhundertzwölftausendeins",
+      "falsch": [
+        "vierhundertzwölftausendeinhundert",
+        "vierhundertzwanzigtausendeins",
+        "vierhundertzweitausendeins"
+      ],
+      "erklaerung": "Vor dem Leerzeichen 412 = vierhundertzwölf, also vierhundertzwölf<b>tausend</b>. Dahinter 001 = eins.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 1b)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-012",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "11 018 008",
+      "hinweis": "Welches Zahlwort passt?",
+      "antwort": "elf Millionen achtzehntausendacht",
+      "falsch": [
+        "elf Millionen achttausendachtzehn",
+        "elf Millionen einhundertachttausendacht",
+        "eine Million achtzehntausendacht"
+      ],
+      "erklaerung": "11 | 018 | 008: elf Millionen, achtzehntausend, acht.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 1d)",
+      "stufe": 2,
+      "fehlerbild": "achtzen statt achtzehn",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-013",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "buchstaben",
+      "frage": "18 als Zahlwort",
+      "antwort": "achtzehn",
+      "falsch": [],
+      "erklaerung": "Acht und zehn: <b>acht-zehn</b>, mit h am Ende wie bei zehn.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 1d)",
+      "stufe": 1,
+      "fehlerbild": "achtzen statt achtzehn",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-014",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "buchstaben",
+      "frage": "Die nächstgrößere Stelle nach den Hunderttausendern",
+      "antwort": "Millionen",
+      "falsch": [],
+      "erklaerung": "In der Stellenwerttafel kommt nach H Z E der Tausender die Gruppe <b>Mio</b>, die Millionen.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 1)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-015",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "86 945 456",
+      "hinweis": "Welche Ziffer steht an der Millionenstelle?",
+      "antwort": "6",
+      "falsch": [
+        "8",
+        "9",
+        "4"
+      ],
+      "erklaerung": "Von rechts zählen: Einer, Zehner, Hunderter, Tausender, Zehntausender, Hunderttausender, Millionen. An der Millionenstelle steht <b>6</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 2c)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-016",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "435 840 032",
+      "hinweis": "Welche Ziffer steht an der Hunderttausenderstelle?",
+      "antwort": "8",
+      "falsch": [
+        "4",
+        "3",
+        "5"
+      ],
+      "erklaerung": "Von rechts zählen: Einer, Zehner, Hunderter, Tausender, Zehntausender, Hunderttausender, Millionen. An der Hunderttausenderstelle steht <b>8</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 2d)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-017",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "45 347",
+      "hinweis": "Welche Ziffer steht an der Tausenderstelle?",
+      "antwort": "5",
+      "falsch": [
+        "4",
+        "3",
+        "7"
+      ],
+      "erklaerung": "Von rechts zählen: Einer, Zehner, Hunderter, Tausender, Zehntausender, Hunderttausender, Millionen. An der Tausenderstelle steht <b>5</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 2b)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-018",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "1 235",
+      "hinweis": "Welche Ziffer steht an der Zehnerstelle?",
+      "antwort": "3",
+      "falsch": [
+        "1",
+        "2",
+        "5"
+      ],
+      "erklaerung": "Von rechts zählen: Einer, Zehner, Hunderter, Tausender, Zehntausender, Hunderttausender, Millionen. An der Zehnerstelle steht <b>3</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 2a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-zahl-019",
+      "fach": "mathe",
+      "thema": "Große Zahlen",
+      "typ": "auswahl",
+      "frage": "6 035 960 000",
+      "hinweis": "Wie viele Stellen hat die Zahl?",
+      "antwort": "10",
+      "falsch": [
+        "9",
+        "7",
+        "13"
+      ],
+      "erklaerung": "Zähl die Ziffern: 1 vorne und dreimal drei: 1 + 3 + 3 + 3 = <b>10</b>.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 1b)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-001",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "21 496",
+      "hinweis": "Runde auf Hunderter.",
+      "antwort": "21 500",
+      "falsch": [
+        "215 000",
+        "21 400",
+        "21 000"
+      ],
+      "erklaerung": "Rundungsstelle: Hunderter. Die Ziffer danach ist <b>9</b>, also wird <b>aufgerundet</b>: 21 496 ≈ 21 500.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 2b)",
+      "stufe": 2,
+      "fehlerbild": "beim Runden Nullen angehängt (215 000 statt 21 500)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-002",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "6 546",
+      "hinweis": "Runde auf Hunderter.",
+      "antwort": "6 500",
+      "falsch": [
+        "65 000",
+        "6 600",
+        "7 000"
+      ],
+      "erklaerung": "Rundungsstelle: Hunderter. Die Ziffer danach ist <b>4</b>, also wird <b>abgerundet</b>: 6 546 ≈ 6 500.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 2a)",
+      "stufe": 1,
+      "fehlerbild": "beim Runden Nullen angehängt (215 000 statt 21 500)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-003",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "94 800",
+      "hinweis": "Runde auf Hunderttausender.",
+      "antwort": "100 000",
+      "falsch": [
+        "1 000 000",
+        "0",
+        "90 000"
+      ],
+      "erklaerung": "Rundungsstelle: Hunderttausender. Die Ziffer danach ist <b>9</b>, also wird <b>aufgerundet</b>: 94 800 ≈ 100 000.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 3b)",
+      "stufe": 3,
+      "fehlerbild": "beim Runden Nullen angehängt (215 000 statt 21 500)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-004",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "209 500",
+      "hinweis": "Runde auf Hunderttausender.",
+      "antwort": "200 000",
+      "falsch": [
+        "2 000 000",
+        "210 000",
+        "300 000"
+      ],
+      "erklaerung": "Rundungsstelle: Hunderttausender. Die Ziffer danach ist <b>0</b>, also wird <b>abgerundet</b>: 209 500 ≈ 200 000.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 3c)",
+      "stufe": 3,
+      "fehlerbild": "beim Runden Nullen angehängt (215 000 statt 21 500)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-005",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "1 235",
+      "hinweis": "Runde auf Zehner.",
+      "antwort": "1 240",
+      "falsch": [
+        "1 200",
+        "1 230",
+        "1 300"
+      ],
+      "erklaerung": "Rundungsstelle: Zehner. Die Ziffer danach ist <b>5</b>, also wird <b>aufgerundet</b>: 1 235 ≈ 1 240.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 2a)",
+      "stufe": 1,
+      "fehlerbild": "1235 auf Zehner zu 1200",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-006",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "24 999",
+      "hinweis": "Runde auf Zehntausender.",
+      "antwort": "20 000",
+      "falsch": [
+        "24 000",
+        "25 000",
+        "30 000"
+      ],
+      "erklaerung": "Rundungsstelle: Zehntausender. Die Ziffer danach ist <b>4</b>, also wird <b>abgerundet</b>: 24 999 ≈ 20 000.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 3b)",
+      "stufe": 2,
+      "fehlerbild": "24 999 auf Zehntausender zu 24 000",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-007",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "3 458",
+      "hinweis": "Runde auf Hunderter.",
+      "antwort": "3 500",
+      "falsch": [
+        "3 400",
+        "34 000",
+        "3 000"
+      ],
+      "erklaerung": "Rundungsstelle: Hunderter. Die Ziffer danach ist <b>5</b>, also wird <b>aufgerundet</b>: 3 458 ≈ 3 500.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 2c)",
+      "stufe": 1,
+      "fehlerbild": "Aufgabe leer gelassen",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-008",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "41 289",
+      "hinweis": "Runde auf Zehner.",
+      "antwort": "41 290",
+      "falsch": [
+        "41 280",
+        "41 300",
+        "41 200"
+      ],
+      "erklaerung": "Rundungsstelle: Zehner. Die Ziffer danach ist <b>9</b>, also wird <b>aufgerundet</b>: 41 289 ≈ 41 290.",
+      "quelle": "Scan 4 S. 19 (Arbeitsblatt Runden natürlicher Zahlen, a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-009",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "315 289",
+      "hinweis": "Runde auf Zehntausender.",
+      "antwort": "320 000",
+      "falsch": [
+        "315 000",
+        "310 000",
+        "300 000"
+      ],
+      "erklaerung": "Rundungsstelle: Zehntausender. Die Ziffer danach ist <b>5</b>, also wird <b>aufgerundet</b>: 315 289 ≈ 320 000.",
+      "quelle": "Scan 4 S. 19 (Arbeitsblatt Runden natürlicher Zahlen, b)",
+      "stufe": 2,
+      "fehlerbild": "zuerst 315 000 geschrieben",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-010",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "3 872",
+      "hinweis": "Runde auf Zehntausender.",
+      "antwort": "0",
+      "falsch": [
+        "10 000",
+        "4 000",
+        "3 000"
+      ],
+      "erklaerung": "Rundungsstelle: Zehntausender. Die Ziffer danach ist <b>3</b>, also wird <b>abgerundet</b>: 3 872 ≈ 0.",
+      "quelle": "Scan 4 S. 19 (Arbeitsblatt Runden natürlicher Zahlen, c)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-011",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "12 999",
+      "hinweis": "Runde auf Zehner.",
+      "antwort": "13 000",
+      "falsch": [
+        "12 990",
+        "12 900",
+        "13 990"
+      ],
+      "erklaerung": "Rundungsstelle: Zehner. Die Ziffer danach ist <b>9</b>, also wird <b>aufgerundet</b>: 12 999 ≈ 13 000.",
+      "quelle": "Scan 4 S. 19 (Arbeitsblatt Runden natürlicher Zahlen, j)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-012",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "399 999",
+      "hinweis": "Runde auf Hunderter.",
+      "antwort": "400 000",
+      "falsch": [
+        "399 900",
+        "390 000",
+        "400 900"
+      ],
+      "erklaerung": "Rundungsstelle: Hunderter. Die Ziffer danach ist <b>9</b>, also wird <b>aufgerundet</b>: 399 999 ≈ 400 000.",
+      "quelle": "Scan 4 S. 19 (Arbeitsblatt Runden natürlicher Zahlen, k)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-013",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "999 999",
+      "hinweis": "Runde auf Tausender.",
+      "antwort": "1 000 000",
+      "falsch": [
+        "999 000",
+        "100 000",
+        "10 000 000"
+      ],
+      "erklaerung": "Rundungsstelle: Tausender. Die Ziffer danach ist <b>9</b>, also wird <b>aufgerundet</b>: 999 999 ≈ 1 000 000.",
+      "quelle": "Scan 4 S. 19 (Arbeitsblatt Runden natürlicher Zahlen, l)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-014",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "82 809",
+      "hinweis": "Runde auf Hunderter.",
+      "antwort": "82 800",
+      "falsch": [
+        "82 900",
+        "82 000",
+        "83 000"
+      ],
+      "erklaerung": "Rundungsstelle: Hunderter. Die Ziffer danach ist <b>0</b>, also wird <b>abgerundet</b>: 82 809 ≈ 82 800.",
+      "quelle": "Scan 4 S. 19 (Arbeitsblatt Runden natürlicher Zahlen, e)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-015",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "7 889",
+      "hinweis": "Runde auf Zehntausender.",
+      "antwort": "10 000",
+      "falsch": [
+        "0",
+        "8 000",
+        "7 000"
+      ],
+      "erklaerung": "Rundungsstelle: Zehntausender. Die Ziffer danach ist <b>7</b>, also wird <b>aufgerundet</b>: 7 889 ≈ 10 000.",
+      "quelle": "Scan 4 S. 19 (Arbeitsblatt Runden natürlicher Zahlen, f)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-016",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "57 804",
+      "hinweis": "Runde auf Zehner.",
+      "antwort": "57 800",
+      "falsch": [
+        "57 810",
+        "57 000",
+        "57 900"
+      ],
+      "erklaerung": "Rundungsstelle: Zehner. Die Ziffer danach ist <b>4</b>, also wird <b>abgerundet</b>: 57 804 ≈ 57 800.",
+      "quelle": "Scan 4 S. 19 (Arbeitsblatt Runden natürlicher Zahlen, h)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-017",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "827",
+      "hinweis": "Runde auf Hunderter.",
+      "antwort": "800",
+      "falsch": [
+        "900",
+        "820",
+        "8 000"
+      ],
+      "erklaerung": "Rundungsstelle: Hunderter. Die Ziffer danach ist <b>2</b>, also wird <b>abgerundet</b>: 827 ≈ 800.",
+      "quelle": "Scan 4 S. 17 (Probearbeit 30.09.2026, Aufg. 5)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-018",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "1 384",
+      "hinweis": "Runde auf Hunderter.",
+      "antwort": "1 400",
+      "falsch": [
+        "1 300",
+        "1 380",
+        "14 000"
+      ],
+      "erklaerung": "Rundungsstelle: Hunderter. Die Ziffer danach ist <b>8</b>, also wird <b>aufgerundet</b>: 1 384 ≈ 1 400.",
+      "quelle": "Scan 4 S. 17 (Probearbeit 30.09.2026, Aufg. 5)",
+      "stufe": 1,
+      "fehlerbild": "beim Runden Nullen angehängt (215 000 statt 21 500)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-019",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "76",
+      "hinweis": "Runde auf Hunderter.",
+      "antwort": "100",
+      "falsch": [
+        "0",
+        "80",
+        "70"
+      ],
+      "erklaerung": "Rundungsstelle: Hunderter. Die Ziffer danach ist <b>7</b>, also wird <b>aufgerundet</b>: 76 ≈ 100.",
+      "quelle": "Scan 4 S. 17 (Probearbeit 30.09.2026, Aufg. 5)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-020",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "355",
+      "hinweis": "Runde auf Hunderter.",
+      "antwort": "400",
+      "falsch": [
+        "300",
+        "350",
+        "360"
+      ],
+      "erklaerung": "Rundungsstelle: Hunderter. Die Ziffer danach ist <b>5</b>, also wird <b>aufgerundet</b>: 355 ≈ 400.",
+      "quelle": "Scan 4 S. 17 (Probearbeit 30.09.2026, Aufg. 5)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-021",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "19 854",
+      "hinweis": "Runde auf Tausender.",
+      "antwort": "20 000",
+      "falsch": [
+        "19 000",
+        "19 900",
+        "200 000"
+      ],
+      "erklaerung": "Rundungsstelle: Tausender. Die Ziffer danach ist <b>8</b>, also wird <b>aufgerundet</b>: 19 854 ≈ 20 000.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden)",
+      "stufe": 1,
+      "fehlerbild": "beim Runden Nullen angehängt (215 000 statt 21 500)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-022",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "86 945 456",
+      "hinweis": "Runde auf Millionen.",
+      "antwort": "87 000 000",
+      "falsch": [
+        "86 000 000",
+        "870 000 000",
+        "90 000 000"
+      ],
+      "erklaerung": "Rundungsstelle: Millionen. Die Ziffer danach ist <b>9</b>, also wird <b>aufgerundet</b>: 86 945 456 ≈ 87 000 000.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 2c)",
+      "stufe": 3,
+      "fehlerbild": "beim Runden Nullen angehängt (215 000 statt 21 500)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-023",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "435 840 032",
+      "hinweis": "Runde auf Hunderttausender.",
+      "antwort": "435 800 000",
+      "falsch": [
+        "435 900 000",
+        "436 000 000",
+        "4 358 000 000"
+      ],
+      "erklaerung": "Rundungsstelle: Hunderttausender. Die Ziffer danach ist <b>4</b>, also wird <b>abgerundet</b>: 435 840 032 ≈ 435 800 000.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 2d)",
+      "stufe": 3,
+      "fehlerbild": "beim Runden Nullen angehängt (215 000 statt 21 500)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-024",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "34 568",
+      "hinweis": "Runde auf Tausender.",
+      "antwort": "35 000",
+      "falsch": [
+        "34 000",
+        "34 600",
+        "350 000"
+      ],
+      "erklaerung": "Rundungsstelle: Tausender. Die Ziffer danach ist <b>5</b>, also wird <b>aufgerundet</b>: 34 568 ≈ 35 000.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. Rundungsregel)",
+      "stufe": 1,
+      "fehlerbild": "beim Runden Nullen angehängt (215 000 statt 21 500)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-025",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "658 725",
+      "hinweis": "Runde auf Hunderttausender.",
+      "antwort": "700 000",
+      "falsch": [
+        "600 000",
+        "7 000 000",
+        "660 000"
+      ],
+      "erklaerung": "Rundungsstelle: Hunderttausender. Die Ziffer danach ist <b>5</b>, also wird <b>aufgerundet</b>: 658 725 ≈ 700 000.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 3a)",
+      "stufe": 2,
+      "fehlerbild": "beim Runden Nullen angehängt (215 000 statt 21 500)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-026",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "6 958",
+      "hinweis": "Runde auf die 1. Stelle von links.",
+      "antwort": "7 000",
+      "falsch": [
+        "6 000",
+        "69 000",
+        "7 900"
+      ],
+      "erklaerung": "Rundungsstelle: Tausender. Die Ziffer danach ist <b>9</b>, also wird <b>aufgerundet</b>: 6 958 ≈ 7 000.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 4a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-027",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "24 965",
+      "hinweis": "Runde auf die 1. Stelle von links.",
+      "antwort": "20 000",
+      "falsch": [
+        "30 000",
+        "25 000",
+        "24 000"
+      ],
+      "erklaerung": "Rundungsstelle: Zehntausender. Die Ziffer danach ist <b>4</b>, also wird <b>abgerundet</b>: 24 965 ≈ 20 000.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 4b)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-028",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "9 536",
+      "hinweis": "Runde auf die 1. Stelle von links.",
+      "antwort": "10 000",
+      "falsch": [
+        "9 000",
+        "9 500",
+        "100 000"
+      ],
+      "erklaerung": "Rundungsstelle: Tausender. Die Ziffer danach ist <b>5</b>, also wird <b>aufgerundet</b>: 9 536 ≈ 10 000.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 4d)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-029",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "629 987",
+      "hinweis": "Runde auf die 1. Stelle von links.",
+      "antwort": "600 000",
+      "falsch": [
+        "700 000",
+        "630 000",
+        "6 000 000"
+      ],
+      "erklaerung": "Rundungsstelle: Hunderttausender. Die Ziffer danach ist <b>2</b>, also wird <b>abgerundet</b>: 629 987 ≈ 600 000.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 4h)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-030",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "tor",
+      "frage": "812 456 ≈ ?",
+      "hinweis": "Runde 812 456 auf Hunderter. Lauf durchs richtige Tor.",
+      "antwort": "812 500",
+      "falsch": [
+        "812 400"
+      ],
+      "erklaerung": "Die Ziffer nach der Hunderterstelle ist 5. Darum 812 456 ≈ <b>812 500</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 3a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-031",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "tor",
+      "frage": "95 686 ≈ ?",
+      "hinweis": "Runde 95 686 auf Hunderter. Lauf durchs richtige Tor.",
+      "antwort": "95 700",
+      "falsch": [
+        "95 500"
+      ],
+      "erklaerung": "Die Ziffer nach der Hunderterstelle ist 8. Darum 95 686 ≈ <b>95 700</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 3a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-032",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "tor",
+      "frage": "884 753 ≈ ?",
+      "hinweis": "Runde 884 753 auf Zehntausender. Lauf durchs richtige Tor.",
+      "antwort": "880 000",
+      "falsch": [
+        "870 000"
+      ],
+      "erklaerung": "Die Ziffer nach der Zehntausenderstelle ist 4. Darum 884 753 ≈ <b>880 000</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 3b)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-033",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "tor",
+      "frage": "24 999 ≈ ?",
+      "hinweis": "Runde 24 999 auf Zehntausender. Lauf durchs richtige Tor.",
+      "antwort": "20 000",
+      "falsch": [
+        "25 000"
+      ],
+      "erklaerung": "Die Ziffer nach der Zehntausenderstelle ist 4. Darum 24 999 ≈ <b>20 000</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 3b)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-034",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "Bei welchen Ziffern danach wird aufgerundet?",
+      "hinweis": "Rundungsregel",
+      "antwort": "5, 6, 7, 8, 9",
+      "falsch": [
+        "6, 7, 8, 9",
+        "0, 1, 2, 3, 4",
+        "4, 5, 6, 7, 8, 9"
+      ],
+      "erklaerung": "Bei 0, 1, 2, 3, 4 wird abgerundet, ab <b>5</b> wird aufgerundet.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. Rundungsregel)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-035",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "Welche Ziffer entscheidet?",
+      "hinweis": "Runde 34 568 auf Tausender.",
+      "antwort": "5",
+      "falsch": [
+        "4",
+        "6",
+        "8"
+      ],
+      "erklaerung": "Rundungsstelle ist die 4 (Tausender). Entscheidend ist die Ziffer <b>rechts daneben</b>: die 5.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. Rundungsregel)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-036",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "tor",
+      "frage": "Was bedeutet das Zeichen ≈ ?",
+      "antwort": "rund",
+      "falsch": [
+        "genau gleich"
+      ],
+      "erklaerung": "≈ liest man <b>rund</b> oder ungefähr. Für genau gleich nimmt man =.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-037",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "tor",
+      "frage": "Welche Zahl muss genau bleiben?",
+      "hinweis": "Was darf man nicht runden?",
+      "antwort": "Kontonummer",
+      "falsch": [
+        "Einwohnerzahl"
+      ],
+      "erklaerung": "Eine gerundete Kontonummer wäre eine ganz andere Nummer. Einwohnerzahlen darf man runden.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 6)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-038",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "tor",
+      "frage": "Welche Zahl muss genau bleiben?",
+      "hinweis": "Was darf man nicht runden?",
+      "antwort": "Zahlenschloss",
+      "falsch": [
+        "Zuschauerzahl"
+      ],
+      "erklaerung": "Mit einem gerundeten Code geht das Schloss nicht auf. Zuschauerzahlen darf man runden.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 6)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-039",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "Welche Zahl ist die kleinste?",
+      "hinweis": "Runden auf Tausender ergibt 55 000.",
+      "antwort": "54 500",
+      "falsch": [
+        "54 000",
+        "54 499",
+        "55 499"
+      ],
+      "erklaerung": "Ab Hunderterziffer 5 wird aufgerundet. Die kleinste Zahl ist <b>54 500</b>, denn 54 499 wird zu 54 000.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 5a)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-040",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "Welche Zahl ist die größte?",
+      "hinweis": "Runden auf Tausender ergibt 55 000.",
+      "antwort": "55 499",
+      "falsch": [
+        "55 500",
+        "55 999",
+        "54 999"
+      ],
+      "erklaerung": "Bis Hunderterziffer 4 wird abgerundet. Die größte Zahl ist <b>55 499</b>, denn 55 500 wird schon zu 56 000.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 5a)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-041",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "Welche Zahl ist die kleinste?",
+      "hinweis": "Runden auf Hunderter ergibt 100 000.",
+      "antwort": "99 950",
+      "falsch": [
+        "99 900",
+        "99 500",
+        "99 949"
+      ],
+      "erklaerung": "Ab Zehnerziffer 5 wird aufgerundet: 99 950 ≈ 100 000. Aber 99 949 ≈ 99 900.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 5b)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-042",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "Welche Zahl ist die größte?",
+      "hinweis": "Runden auf Hunderter ergibt 100 000.",
+      "antwort": "100 049",
+      "falsch": [
+        "100 050",
+        "140 000",
+        "100 099"
+      ],
+      "erklaerung": "Bis Zehnerziffer 4 wird abgerundet: 100 049 ≈ 100 000. Aber 100 050 ≈ 100 100.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 5b)",
+      "stufe": 3,
+      "fehlerbild": "14 0000 als größte Zahl",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-043",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "Auf Tausender gerundet: rund 14 000 Fans. Wie viele waren es mindestens?",
+      "hinweis": "In der Zeitung: rund 14 000 Fans.",
+      "antwort": "13 500",
+      "falsch": [
+        "13 000",
+        "13 999",
+        "14 000"
+      ],
+      "erklaerung": "Auf Tausender gerundet: Ab 13 500 wird auf 14 000 aufgerundet. Also <b>mindestens 13 500</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 5)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-044",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "Auf Tausender gerundet: rund 14 000 Fans. Wie viele waren es höchstens?",
+      "hinweis": "In der Zeitung: rund 14 000 Fans.",
+      "antwort": "14 499",
+      "falsch": [
+        "14 999",
+        "14 500",
+        "14 000"
+      ],
+      "erklaerung": "Auf Tausender gerundet: 14 500 würde schon zu 15 000. Also <b>höchstens 14 499</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 5)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-045",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "auswahl",
+      "frage": "Auf Tausender gerundet: rund 14 000 Fans. Wie viele genaue Zahlen sind möglich?",
+      "hinweis": "Rund 14 000 Fans: 13 500 bis 14 499.",
+      "antwort": "1 000",
+      "falsch": [
+        "999",
+        "14 000",
+        "500"
+      ],
+      "erklaerung": "14 499 − 13 500 = 999. Die erste Zahl zählt mit: 999 + 1 = <b>1 000</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 5)",
+      "stufe": 3,
+      "fehlerbild": "Differenz 14000 statt 1 000 Möglichkeiten",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-046",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "buchstaben",
+      "frage": "Nicht mehr als: ___",
+      "antwort": "höchstens",
+      "falsch": [],
+      "erklaerung": "Hoch, höher, am höchsten: <b>höchstens</b> mit ch.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 5)",
+      "stufe": 1,
+      "fehlerbild": "höstens statt höchstens",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-rund-047",
+      "fach": "mathe",
+      "thema": "Runden",
+      "typ": "buchstaben",
+      "frage": "Nicht weniger als: ___",
+      "antwort": "mindestens",
+      "falsch": [],
+      "erklaerung": "Von minder, also weniger: <b>mindestens</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 5)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-001",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "tor",
+      "frage": "123 ___ 133",
+      "hinweis": "Welches Zeichen passt?",
+      "antwort": "<",
+      "falsch": [
+        ">",
+        "="
+      ],
+      "erklaerung": "Die Spitze zeigt zur kleineren Zahl: 123 <b>&lt;</b> 133.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 1a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-002",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "tor",
+      "frage": "82 ___ 29",
+      "hinweis": "Welches Zeichen passt?",
+      "antwort": ">",
+      "falsch": [
+        "<",
+        "="
+      ],
+      "erklaerung": "Die Spitze zeigt zur kleineren Zahl: 82 <b>></b> 29.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 1b)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-003",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "tor",
+      "frage": "1000 ___ 8 · 125",
+      "hinweis": "Welches Zeichen passt?",
+      "antwort": "=",
+      "falsch": [
+        "<",
+        ">"
+      ],
+      "erklaerung": "Beide Seiten ergeben 1 000, also <b>=</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 1c)",
+      "stufe": 2,
+      "fehlerbild": "Zeichen bei 1000 und 8 · 125 unklar",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-004",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "tor",
+      "frage": "1233 ___ 1232",
+      "hinweis": "Welches Zeichen passt?",
+      "antwort": ">",
+      "falsch": [
+        "<",
+        "="
+      ],
+      "erklaerung": "Die Spitze zeigt zur kleineren Zahl: 1233 <b>></b> 1232.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 1d)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-005",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "tor",
+      "frage": "4789 ___ 4780",
+      "hinweis": "Welches Zeichen passt?",
+      "antwort": ">",
+      "falsch": [
+        "<",
+        "="
+      ],
+      "erklaerung": "Die Spitze zeigt zur kleineren Zahl: 4789 <b>></b> 4780.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 1e)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-006",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "tor",
+      "frage": "60 711 ___ 404 171",
+      "hinweis": "Welches Zeichen passt?",
+      "antwort": "<",
+      "falsch": [
+        ">",
+        "="
+      ],
+      "erklaerung": "Die Spitze zeigt zur kleineren Zahl: 60 711 <b>&lt;</b> 404 171.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 1f)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-007",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "tor",
+      "frage": "12 · 12 ___ 6 · 24",
+      "hinweis": "Welches Zeichen passt?",
+      "antwort": "=",
+      "falsch": [
+        "<",
+        ">"
+      ],
+      "erklaerung": "Beide Seiten ergeben 144, also <b>=</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 1g)",
+      "stufe": 2,
+      "fehlerbild": "< statt = bei 12 · 12 und 6 · 24",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-008",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "tor",
+      "frage": "456 564 ___ 456 654",
+      "hinweis": "Welches Zeichen passt?",
+      "antwort": "<",
+      "falsch": [
+        ">",
+        "="
+      ],
+      "erklaerung": "Die Spitze zeigt zur kleineren Zahl: 456 564 <b>&lt;</b> 456 654.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 2)",
+      "stufe": 1,
+      "fehlerbild": "< und > verwechselt",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-009",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "auswahl",
+      "frage": "Welche Zahl ist die kleinste?",
+      "hinweis": "Ordne: 465 654; 456 564; 456 654; 466 554; 455 646",
+      "antwort": "455 646",
+      "falsch": [
+        "456 564",
+        "456 654",
+        "465 654"
+      ],
+      "erklaerung": "Von links vergleichen. Bei 455 646 ist die Tausenderziffer am kleinsten (5). Ganz geordnet: 455 646 &lt; 456 564 &lt; 456 654 &lt; 465 654 &lt; 466 554.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-010",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "auswahl",
+      "frage": "Welche Zahl ist die größte?",
+      "hinweis": "Ordne: 465 654; 456 564; 456 654; 466 554; 455 646",
+      "antwort": "466 554",
+      "falsch": [
+        "465 654",
+        "456 654",
+        "456 564"
+      ],
+      "erklaerung": "Von links: 46… ist größer als 45…, und bei 466 554 ist die Tausenderziffer 6. Ganz geordnet: 455 646 &lt; 456 564 &lt; 456 654 &lt; 465 654 &lt; 466 554.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-011",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "auswahl",
+      "frage": "Welche Zahl kommt an 2. Stelle (von klein)?",
+      "hinweis": "Ordne: 465 654; 456 564; 456 654; 466 554; 455 646",
+      "antwort": "456 564",
+      "falsch": [
+        "456 654",
+        "455 646",
+        "465 654"
+      ],
+      "erklaerung": "456 564 und 456 654 unterscheiden sich erst bei den Hundertern: 5 &lt; 6. Reihe: 455 646 &lt; 456 564 &lt; 456 654 &lt; 465 654 &lt; 466 554.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 2)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-012",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "auswahl",
+      "frage": "Welche Reihe stimmt?",
+      "hinweis": "Ordne 1222; 2122; 899; 989.",
+      "antwort": "899 < 989 < 1222 < 2122",
+      "falsch": [
+        "2122 < 1222 < 989 < 899",
+        "989 < 899 < 1222 < 2122",
+        "899 < 989 < 2122 < 1222"
+      ],
+      "erklaerung": "Das Kleinerzeichen &lt; braucht die <b>kleinste Zahl links</b>. Von groß nach klein schreibst du >: 2122 > 1222 > 989 > 899.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 2b)",
+      "stufe": 2,
+      "fehlerbild": "< und > verwechselt",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-013",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "auswahl",
+      "frage": "Welche Reihe stimmt?",
+      "hinweis": "Ordne 122; 245; 232; 199; 213.",
+      "antwort": "245 > 232 > 213 > 199 > 122",
+      "falsch": [
+        "245 > 213 > 232 > 199 > 122",
+        "122 > 199 > 213 > 232 > 245",
+        "245 < 232 < 213 < 199 < 122"
+      ],
+      "erklaerung": "Bei > steht die größte Zahl vorn. 232 und 213: Zehner 3 > 1.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 2a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-014",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "tor",
+      "frage": "Welches ist das Kleinerzeichen?",
+      "antwort": "<",
+      "falsch": [
+        ">"
+      ],
+      "erklaerung": "Die Spitze zeigt zur kleineren Zahl. 3 <b>&lt;</b> 5: kleiner links.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 2)",
+      "stufe": 1,
+      "fehlerbild": "< und > verwechselt",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-015",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "auswahl",
+      "frage": "313 < 316 < 340 < 318 < 335",
+      "hinweis": "Eine Zahl steht an der falschen Stelle. Welche muss raus?",
+      "antwort": "340",
+      "falsch": [
+        "313",
+        "316",
+        "318"
+      ],
+      "erklaerung": "Ohne 340 stimmt die Reihe: 313 &lt; 316 &lt; 318 &lt; 335.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 3a)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-016",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "auswahl",
+      "frage": "2 072 < 2 282 < 2 188 < 2 189",
+      "hinweis": "Eine Zahl steht an der falschen Stelle. Welche muss raus?",
+      "antwort": "2 282",
+      "falsch": [
+        "2 072",
+        "2 188",
+        "2 189"
+      ],
+      "erklaerung": "Ohne 2 282 stimmt die Reihe: 2 072 &lt; 2 188 &lt; 2 189.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 3b)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-017",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "auswahl",
+      "frage": "8 499 > 4 899 > 8 500 > 999",
+      "hinweis": "Eine Zahl steht an der falschen Stelle. Welche muss raus?",
+      "antwort": "8 500",
+      "falsch": [
+        "8 499",
+        "4 899",
+        "999"
+      ],
+      "erklaerung": "Ohne 8 500 stimmt die Reihe: 8 499 > 4 899 > 999.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 3e)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-verg-018",
+      "fach": "mathe",
+      "thema": "Vergleichen und ordnen",
+      "typ": "auswahl",
+      "frage": "Welcher Betrag ist am größten?",
+      "hinweis": "Ordne die Geldbeträge.",
+      "antwort": "6,55 €",
+      "falsch": [
+        "6,05 €",
+        "5,65 €",
+        "5,56 €"
+      ],
+      "erklaerung": "Zuerst die Euro: 6 ist mehr als 5. Dann die Cent: 55 ct ist mehr als 5 ct.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 3b)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-strahl-001",
+      "fach": "mathe",
+      "thema": "Zahlenstrahl",
+      "typ": "auswahl",
+      "frage": "2000, ___, ___, 8000. Was steht beim 2. Strich?",
+      "hinweis": "Zahlenstrahl mit 4 Strichen, gleiche Abstände",
+      "antwort": "4 000",
+      "falsch": [
+        "3 000",
+        "5 000",
+        "2 500"
+      ],
+      "erklaerung": "Von 2000 bis 8000 sind es 6000. Drei gleiche Abstände: 6000 : 3 = 2000. Also <b>4000</b>, dann 6000.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 5a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-strahl-002",
+      "fach": "mathe",
+      "thema": "Zahlenstrahl",
+      "typ": "auswahl",
+      "frage": "Die Zahlen 0; 150; 300; 450; 600; 750 kommen auf den Strahl. Wie groß ist ein Schritt?",
+      "antwort": "150",
+      "falsch": [
+        "100",
+        "50",
+        "750"
+      ],
+      "erklaerung": "Von einer Zahl zur nächsten: 300 − 150 = <b>150</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 5b)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-strahl-003",
+      "fach": "mathe",
+      "thema": "Zahlenstrahl",
+      "typ": "auswahl",
+      "frage": "Wie viel ist 1 cm?",
+      "hinweis": "Zahlenstrahl: 10 cm lang, von 0 bis 500",
+      "antwort": "50",
+      "falsch": [
+        "5",
+        "10",
+        "100"
+      ],
+      "erklaerung": "500 verteilt auf 10 cm: 500 : 10 = <b>50</b> pro cm.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 6)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-strahl-004",
+      "fach": "mathe",
+      "thema": "Zahlenstrahl",
+      "typ": "auswahl",
+      "frage": "Wo liegt 125?",
+      "hinweis": "Zahlenstrahl: 10 cm, 0 bis 500, 1 cm = 50",
+      "antwort": "2,5 cm",
+      "falsch": [
+        "1,25 cm",
+        "12,5 cm",
+        "2 cm"
+      ],
+      "erklaerung": "125 : 50 = 2,5. Also bei <b>2,5 cm</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 6)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-strahl-005",
+      "fach": "mathe",
+      "thema": "Zahlenstrahl",
+      "typ": "auswahl",
+      "frage": "Wo liegt 325?",
+      "hinweis": "Zahlenstrahl: 10 cm, 0 bis 500, 1 cm = 50",
+      "antwort": "6,5 cm",
+      "falsch": [
+        "3,25 cm",
+        "6 cm",
+        "7 cm"
+      ],
+      "erklaerung": "325 : 50 = 6,5. Also bei <b>6,5 cm</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 6)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-strahl-006",
+      "fach": "mathe",
+      "thema": "Zahlenstrahl",
+      "typ": "auswahl",
+      "frage": "Wo liegt 450?",
+      "hinweis": "Zahlenstrahl: 10 cm, 0 bis 500, 1 cm = 50",
+      "antwort": "9 cm",
+      "falsch": [
+        "4,5 cm",
+        "8 cm",
+        "45 cm"
+      ],
+      "erklaerung": "450 : 50 = 9. Also bei <b>9 cm</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 6)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-strahl-007",
+      "fach": "mathe",
+      "thema": "Zahlenstrahl",
+      "typ": "auswahl",
+      "frage": "Der Pfeil zeigt 4 kleine Striche rechts von 600.",
+      "hinweis": "Zahlenstrahl 500 bis 1000, ein kleiner Strich = 10",
+      "antwort": "640",
+      "falsch": [
+        "604",
+        "610",
+        "680"
+      ],
+      "erklaerung": "4 Striche mal 10 = 40. 600 + 40 = <b>640</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 4a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-strahl-008",
+      "fach": "mathe",
+      "thema": "Zahlenstrahl",
+      "typ": "auswahl",
+      "frage": "Der Pfeil zeigt 5 kleine Striche rechts von 1000. Welche Zahl ist das?",
+      "hinweis": "Zahlenstrahl ab 500 bis über 1000 hinaus, ein kleiner Strich = 10",
+      "antwort": "1 050",
+      "falsch": [
+        "1 005",
+        "1 500",
+        "1 010"
+      ],
+      "erklaerung": "5 Striche mal 10 = 50. 1000 + 50 = <b>1 050</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 4a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-strahl-009",
+      "fach": "mathe",
+      "thema": "Zahlenstrahl",
+      "typ": "auswahl",
+      "frage": "Wie groß ist ein Abstand?",
+      "hinweis": "Zwischen 1500 und 1600 liegen 5 gleiche kleine Abstände.",
+      "antwort": "20",
+      "falsch": [
+        "5",
+        "10",
+        "50"
+      ],
+      "erklaerung": "100 : 5 = <b>20</b>. Die Striche heißen also 1520, 1540, 1560 …",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 4b)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-strahl-010",
+      "fach": "mathe",
+      "thema": "Zahlenstrahl",
+      "typ": "auswahl",
+      "frage": "Wie viele natürliche Zahlen sind größer als 10 und kleiner als 30?",
+      "antwort": "19",
+      "falsch": [
+        "20",
+        "21",
+        "18"
+      ],
+      "erklaerung": "Die 10 und die 30 zählen nicht mit. Von 11 bis 29 sind es <b>19</b> Zahlen, jede bekommt einen Punkt.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 8a)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-strahl-011",
+      "fach": "mathe",
+      "thema": "Zahlenstrahl",
+      "typ": "auswahl",
+      "frage": "0 < ___ < 10. Wie viele natürliche Zahlen passen in die Lücke?",
+      "antwort": "9",
+      "falsch": [
+        "1",
+        "10",
+        "8"
+      ],
+      "erklaerung": "Alle von 1 bis 9 passen: <b>9</b> Zahlen. Auf dem Strahl bekommt jede einen Punkt.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 8b)",
+      "stufe": 2,
+      "fehlerbild": "nur eine Zahl (5) eingetragen",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-strahl-012",
+      "fach": "mathe",
+      "thema": "Zahlenstrahl",
+      "typ": "tor",
+      "frage": "Gehört 10 zu den Zahlen, die größer als 10 sind?",
+      "antwort": "Nein",
+      "falsch": [
+        "Ja"
+      ],
+      "erklaerung": "10 ist gleich 10, nicht größer. Die erste passende Zahl ist 11.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 8a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-nach-001",
+      "fach": "mathe",
+      "thema": "Vorgänger, Nachfolger, Gegenbeispiel",
+      "typ": "tor",
+      "frage": "Welche natürliche Zahl hat keinen Vorgänger?",
+      "antwort": "0",
+      "falsch": [
+        "1"
+      ],
+      "erklaerung": "Die natürlichen Zahlen beginnen bei <b>0</b>. Davor gibt es keine.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 7)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-nach-002",
+      "fach": "mathe",
+      "thema": "Vorgänger, Nachfolger, Gegenbeispiel",
+      "typ": "auswahl",
+      "frage": "Welches Gegenbeispiel zeigt, dass das nicht stimmt?",
+      "hinweis": "Aussage: Jede natürliche Zahl hat einen Vorgänger.",
+      "antwort": "0",
+      "falsch": [
+        "1",
+        "10",
+        "100"
+      ],
+      "erklaerung": "Ein Gegenbeispiel ist eine Zahl, bei der die Aussage <b>nicht</b> klappt. 0 hat keinen Vorgänger.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 7)",
+      "stufe": 2,
+      "fehlerbild": "Gegenbeispiele nicht verstanden (mit Ja geantwortet)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-nach-003",
+      "fach": "mathe",
+      "thema": "Vorgänger, Nachfolger, Gegenbeispiel",
+      "typ": "auswahl",
+      "frage": "Vorgänger von 5 ist 4, Nachfolger ist 6. Wie groß ist der Unterschied?",
+      "hinweis": "Aussage: Der Unterschied zwischen Vorgänger und Nachfolger ist 1.",
+      "antwort": "2",
+      "falsch": [
+        "1",
+        "0",
+        "3"
+      ],
+      "erklaerung": "6 − 4 = <b>2</b>. Die 5 liegt dazwischen. Damit ist 5 ein Gegenbeispiel.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 7)",
+      "stufe": 1,
+      "fehlerbild": "Gegenbeispiele nicht verstanden (mit Ja geantwortet)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-nach-004",
+      "fach": "mathe",
+      "thema": "Vorgänger, Nachfolger, Gegenbeispiel",
+      "typ": "auswahl",
+      "frage": "Welches Gegenbeispiel passt?",
+      "hinweis": "Aussage: Von drei Zahlen hintereinander sind immer zwei gerade.",
+      "antwort": "1, 2, 3",
+      "falsch": [
+        "2, 3, 4",
+        "4, 5, 6",
+        "10, 11, 12"
+      ],
+      "erklaerung": "Bei 1, 2, 3 ist nur die 2 gerade. Die Aussage klappt hier nicht, also ist es ein <b>Gegenbeispiel</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 7)",
+      "stufe": 2,
+      "fehlerbild": "Gegenbeispiele nicht verstanden (mit Ja geantwortet)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-nach-005",
+      "fach": "mathe",
+      "thema": "Vorgänger, Nachfolger, Gegenbeispiel",
+      "typ": "auswahl",
+      "frage": "Welches Gegenbeispiel passt?",
+      "hinweis": "Aussage: Der Vorgänger jeder sechsstelligen Zahl ist auch sechsstellig.",
+      "antwort": "100 000",
+      "falsch": [
+        "800 000",
+        "999 999",
+        "500 000"
+      ],
+      "erklaerung": "Der Vorgänger von 100 000 ist 99 999. Der hat nur <b>fünf</b> Stellen.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 7)",
+      "stufe": 3,
+      "fehlerbild": "800 000 als Gegenbeispiel",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-nach-006",
+      "fach": "mathe",
+      "thema": "Vorgänger, Nachfolger, Gegenbeispiel",
+      "typ": "auswahl",
+      "frage": "Was ist ein Gegenbeispiel?",
+      "antwort": "Ein Beispiel, bei dem die Aussage nicht stimmt",
+      "falsch": [
+        "Ein Beispiel, bei dem die Aussage stimmt",
+        "Die Antwort Ja oder Nein",
+        "Die Zahl mit dem Minuszeichen"
+      ],
+      "erklaerung": "Mit einem einzigen Gegenbeispiel zeigst du: Die Aussage gilt <b>nicht immer</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 7)",
+      "stufe": 1,
+      "fehlerbild": "Gegenbeispiele nicht verstanden (mit Ja geantwortet)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-nach-007",
+      "fach": "mathe",
+      "thema": "Vorgänger, Nachfolger, Gegenbeispiel",
+      "typ": "auswahl",
+      "frage": "Vorgänger von 100 000",
+      "antwort": "99 999",
+      "falsch": [
+        "100 001",
+        "99 000",
+        "10 000"
+      ],
+      "erklaerung": "Vorgänger heißt eins weniger: 100 000 − 1 = <b>99 999</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 7)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-nach-008",
+      "fach": "mathe",
+      "thema": "Vorgänger, Nachfolger, Gegenbeispiel",
+      "typ": "auswahl",
+      "frage": "Nachfolger von 999 999",
+      "antwort": "1 000 000",
+      "falsch": [
+        "999 998",
+        "1 000 999",
+        "100 000"
+      ],
+      "erklaerung": "Nachfolger heißt eins mehr: 999 999 + 1 = <b>1 000 000</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 7)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-nach-009",
+      "fach": "mathe",
+      "thema": "Vorgänger, Nachfolger, Gegenbeispiel",
+      "typ": "auswahl",
+      "frage": "Nachfolger von 49 999",
+      "antwort": "50 000",
+      "falsch": [
+        "49 998",
+        "59 999",
+        "40 000"
+      ],
+      "erklaerung": "Nachfolger heißt eins mehr: 49 999 + 1 = <b>50 000</b>.",
+      "quelle": "Scan 4 S. 20 (Buch oder Arbeitsheft S. 10, Zahlen runden, Aufg. 3.1 l)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-nach-010",
+      "fach": "mathe",
+      "thema": "Vorgänger, Nachfolger, Gegenbeispiel",
+      "typ": "auswahl",
+      "frage": "Vorgänger von 1 000 000",
+      "antwort": "999 999",
+      "falsch": [
+        "100 000",
+        "1 000 001",
+        "9 999 999"
+      ],
+      "erklaerung": "Vorgänger heißt eins weniger: 1 000 000 − 1 = <b>999 999</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 7)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-001",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Pkw: 1 384, gerundet 1 400. Wie hoch wird die Säule?",
+      "hinweis": "Säulendiagramm: 1 cm für 100 Fahrzeuge",
+      "antwort": "14 cm",
+      "falsch": [
+        "1,4 cm",
+        "13 cm",
+        "140 cm"
+      ],
+      "erklaerung": "1 384 ≈ 1 400. 1 400 : 100 = <b>14 cm</b>.",
+      "quelle": "Scan 4 S. 17 (Probearbeit 30.09.2026, Aufg. 5)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-002",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Lkw: 827, gerundet 800. Wie hoch wird die Säule?",
+      "hinweis": "Säulendiagramm: 1 cm für 100 Fahrzeuge",
+      "antwort": "8 cm",
+      "falsch": [
+        "8,3 cm",
+        "9 cm",
+        "80 cm"
+      ],
+      "erklaerung": "827 ≈ 800. 800 : 100 = <b>8 cm</b>.",
+      "quelle": "Scan 4 S. 17 (Probearbeit 30.09.2026, Aufg. 5)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-003",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Motorräder: 355, gerundet 400. Wie hoch wird die Säule?",
+      "hinweis": "Säulendiagramm: 1 cm für 100 Fahrzeuge",
+      "antwort": "4 cm",
+      "falsch": [
+        "3 cm",
+        "3,5 cm",
+        "40 cm"
+      ],
+      "erklaerung": "355 ≈ 400. 400 : 100 = <b>4 cm</b>.",
+      "quelle": "Scan 4 S. 17 (Probearbeit 30.09.2026, Aufg. 5)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-004",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Autobusse: 76, gerundet 100. Wie hoch wird die Säule?",
+      "hinweis": "Säulendiagramm: 1 cm für 100 Fahrzeuge",
+      "antwort": "1 cm",
+      "falsch": [
+        "0 cm",
+        "7 cm",
+        "10 cm"
+      ],
+      "erklaerung": "76 ≈ 100. 100 : 100 = <b>1 cm</b>.",
+      "quelle": "Scan 4 S. 17 (Probearbeit 30.09.2026, Aufg. 5)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-005",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Wie viele Stimmen hat Fußball insgesamt?",
+      "hinweis": "AG-Wahl Fußball: 5a 8, 5b 4, 5c 5, 5d 7",
+      "antwort": "24",
+      "falsch": [
+        "23",
+        "25",
+        "20"
+      ],
+      "erklaerung": "8 + 4 = 12, 12 + 5 = 17, 17 + 7 = <b>24</b>.",
+      "quelle": "Scan 4 S. 23 (Arbeitsheft Zahlen und Größen S. 3, Aufg. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-006",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Wie viele Stimmen hat Umwelt insgesamt?",
+      "hinweis": "AG-Wahl Umwelt: 5a 3, 5b 6, 5c 3, 5d 5",
+      "antwort": "17",
+      "falsch": [
+        "16",
+        "18",
+        "15"
+      ],
+      "erklaerung": "3 + 6 = 9, 9 + 3 = 12, 12 + 5 = <b>17</b>.",
+      "quelle": "Scan 4 S. 23 (Arbeitsheft Zahlen und Größen S. 3, Aufg. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-007",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Fußball hat 24 Stimmen. Wie viele Kästchen hoch ist die Säule?",
+      "hinweis": "Säulendiagramm: 1 Kästchen = 2 Stimmen",
+      "antwort": "12",
+      "falsch": [
+        "24",
+        "48",
+        "6"
+      ],
+      "erklaerung": "24 : 2 = <b>12</b> Kästchen.",
+      "quelle": "Scan 4 S. 23 (Arbeitsheft Zahlen und Größen S. 3, Aufg. 1)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-008",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Umwelt hat 17 Stimmen. Wie hoch wird die Säule?",
+      "hinweis": "Säulendiagramm: 1 Kästchen = 2 Stimmen",
+      "antwort": "8 und ein halbes Kästchen",
+      "falsch": [
+        "17 Kästchen",
+        "8 Kästchen",
+        "9 und ein halbes Kästchen"
+      ],
+      "erklaerung": "16 Stimmen sind 8 Kästchen. Die eine Stimme übrig ist ein <b>halbes</b> Kästchen.",
+      "quelle": "Scan 4 S. 23 (Arbeitsheft Zahlen und Größen S. 3, Aufg. 1)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-009",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Welche AG ist in der 5b am beliebtesten?",
+      "hinweis": "AG-Wahl in der 5b: Chor 8, Fußball 4, Umwelt 6, Schwimmen 7",
+      "antwort": "Chor",
+      "falsch": [
+        "Schwimmen",
+        "Umwelt",
+        "Fußball"
+      ],
+      "erklaerung": "Die meisten Stimmen hat Chor mit <b>8</b>.",
+      "quelle": "Scan 4 S. 23 (Arbeitsheft Zahlen und Größen S. 3, Aufg. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-010",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Welche AG wurde am seltensten gewählt?",
+      "hinweis": "Gesamt: Chor 21, Fußball 24, Umwelt 17, Schwimmen 22, Computer 21, Handball 18",
+      "antwort": "Umwelt",
+      "falsch": [
+        "Handball",
+        "Chor",
+        "Computer"
+      ],
+      "erklaerung": "Am seltensten heißt: die wenigsten Stimmen. Umwelt hat nur <b>17</b>.",
+      "quelle": "Scan 4 S. 23 (Arbeitsheft Zahlen und Größen S. 3, Aufg. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-011",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Der Mittellandkanal ist 330 km lang. Wie viele Kästchen hoch?",
+      "hinweis": "Kanäle: 1 Kästchen = 10 km",
+      "antwort": "33",
+      "falsch": [
+        "330",
+        "3",
+        "30"
+      ],
+      "erklaerung": "330 : 10 = <b>33</b> Kästchen.",
+      "quelle": "Scan 4 S. 23 (Arbeitsheft Zahlen und Größen S. 3, Aufg. 3a)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-012",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Welcher Kanal ist am längsten?",
+      "hinweis": "Kanäle in km: 100, 270, 220, 330, 170",
+      "antwort": "Mittellandkanal",
+      "falsch": [
+        "Dortmund-Ems-Kanal",
+        "Elbe-Havel-Kanal",
+        "Nord-Ostsee-Kanal"
+      ],
+      "erklaerung": "Mittellandkanal: 330 km, das ist der größte Wert.",
+      "quelle": "Scan 4 S. 23 (Arbeitsheft Zahlen und Größen S. 3, Aufg. 3a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-013",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Wie viel länger ist der Mittellandkanal?",
+      "hinweis": "Mittellandkanal 330 km, Nord-Ostsee-Kanal 100 km",
+      "antwort": "230 km",
+      "falsch": [
+        "430 km",
+        "330 km",
+        "220 km"
+      ],
+      "erklaerung": "Differenz: 330 − 100 = <b>230 km</b>.",
+      "quelle": "Scan 4 S. 23 (Arbeitsheft Zahlen und Größen S. 3, Aufg. 3a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-014",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Was ist der Vorteil eines Diagramms gegenüber einer Tabelle?",
+      "antwort": "Man sieht sofort, was am größten ist",
+      "falsch": [
+        "Man kann genauere Zahlen ablesen",
+        "Es braucht keine Achsen",
+        "Es hat mehr Zahlen"
+      ],
+      "erklaerung": "Die Säulen zeigen auf einen Blick, was groß und was klein ist. Genaue Werte stehen besser in der Tabelle.",
+      "quelle": "Scan 4 S. 23 (Arbeitsheft Zahlen und Größen S. 3, Aufg. 3b)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-015",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Hamburg hat 1 766 537 Einwohner, gerundet 2 000 000. Wie hoch wird die Säule?",
+      "hinweis": "Säulendiagramm: 1 cm = 1 000 000 Einwohner",
+      "antwort": "2 cm",
+      "falsch": [
+        "1,7 cm",
+        "20 cm",
+        "1 cm"
+      ],
+      "erklaerung": "1 766 537 ≈ 2 000 000. 2 000 000 : 1 000 000 = <b>2 cm</b>.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 4)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-016",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Der Balken vom Gepard endet genau bei der Marke 2 000. Wie weit läuft er in einer Minute?",
+      "hinweis": "Probearbeit: Strecke in 1 Minute",
+      "antwort": "2 000 m",
+      "falsch": [
+        "200 m",
+        "20 000 m",
+        "1 500 m"
+      ],
+      "erklaerung": "Die Achse ist in Metern beschriftet: Marke 2 000 heißt <b>2 000 m</b>.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 4)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-diag-017",
+      "fach": "mathe",
+      "thema": "Diagramme und Tabellen",
+      "typ": "auswahl",
+      "frage": "Welcher Satz passt zum Diagramm?",
+      "hinweis": "Taschengeld-Diagramm: Je älter, desto ...",
+      "antwort": "Je älter die Kinder, desto mehr Taschengeld",
+      "falsch": [
+        "Je älter die Kinder, desto weniger Taschengeld",
+        "Alle Altersgruppen bekommen gleich viel",
+        "Je jünger die Kinder, desto mehr Taschengeld"
+      ],
+      "erklaerung": "Die Säulen werden mit dem Alter immer höher. Also: je älter, desto <b>mehr</b>.",
+      "quelle": "Scan 4 S. 23 (Arbeitsheft Zahlen und Größen S. 3, Aufg. 2a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-001",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "auswahl",
+      "frage": "Die Summe aus 43 und 17",
+      "hinweis": "Notiere als Rechenaufgabe und rechne.",
+      "antwort": "43 + 17 = 60",
+      "falsch": [
+        "43 − 17 = 26",
+        "43 · 17 = 731",
+        "43 + 17 = 50"
+      ],
+      "erklaerung": "Summe heißt <b>plus</b>. Die erste Zahl kommt zuerst: 43 + 17 = 60.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 3a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-002",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "auswahl",
+      "frage": "Den Quotienten aus 77 und 11",
+      "hinweis": "Notiere als Rechenaufgabe und rechne.",
+      "antwort": "77 : 11 = 7",
+      "falsch": [
+        "77 − 11 = 66",
+        "77 · 11 = 847",
+        "77 : 11 = 6"
+      ],
+      "erklaerung": "Quotient heißt <b>geteilt</b>. Die erste Zahl kommt zuerst: 77 : 11 = 7.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 3b)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-003",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "auswahl",
+      "frage": "Die Differenz aus 45 und 18",
+      "hinweis": "Notiere als Rechenaufgabe und rechne.",
+      "antwort": "45 − 18 = 27",
+      "falsch": [
+        "45 + 18 = 63",
+        "18 − 45 = 27",
+        "45 − 18 = 37"
+      ],
+      "erklaerung": "Differenz heißt <b>minus</b>. Die erste Zahl kommt zuerst: 45 − 18 = 27.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 3c)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-004",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "auswahl",
+      "frage": "Die Differenz aus 14499 und 13500",
+      "hinweis": "Notiere als Rechenaufgabe und rechne.",
+      "antwort": "14499 − 13500 = 999",
+      "falsch": [
+        "14499 + 13500 = 27999",
+        "14499 − 13500 = 1000",
+        "14499 − 13500 = 14000"
+      ],
+      "erklaerung": "Differenz heißt <b>minus</b>. Die erste Zahl kommt zuerst: 14499 − 13500 = 999.",
+      "quelle": "Scan 4 S. 21 (Arbeitsheft Zahlen und Größen S. 5, Aufg. 5)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-005",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "auswahl",
+      "frage": "Den Quotienten aus 1400 und 100",
+      "hinweis": "Notiere als Rechenaufgabe und rechne.",
+      "antwort": "1400 : 100 = 14",
+      "falsch": [
+        "1400 : 100 = 140",
+        "1400 − 100 = 1300",
+        "1400 · 100 = 140000"
+      ],
+      "erklaerung": "Quotient heißt <b>geteilt</b>. Die erste Zahl kommt zuerst: 1400 : 100 = 14.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 5b)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-006",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "auswahl",
+      "frage": "Die Summe aus 8 und 4",
+      "hinweis": "Notiere als Rechenaufgabe und rechne.",
+      "antwort": "8 + 4 = 12",
+      "falsch": [
+        "8 − 4 = 4",
+        "8 · 4 = 32",
+        "8 + 4 = 11"
+      ],
+      "erklaerung": "Summe heißt <b>plus</b>. Die erste Zahl kommt zuerst: 8 + 4 = 12.",
+      "quelle": "Scan 4 S. 23 (Arbeitsheft Zahlen und Größen S. 3, Aufg. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-007",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "auswahl",
+      "frage": "Das Produkt aus 8 und 125",
+      "hinweis": "Notiere als Rechenaufgabe und rechne.",
+      "antwort": "8 · 125 = 1000",
+      "falsch": [
+        "8 + 125 = 133",
+        "8 · 125 = 100",
+        "125 : 8 = 15"
+      ],
+      "erklaerung": "Produkt heißt <b>mal</b>. Die erste Zahl kommt zuerst: 8 · 125 = 1000.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 1c) und Scan 4 S. 18 (Lernplan Klassenarbeit 07.10.2026)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-008",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "auswahl",
+      "frage": "Das Produkt aus 12 und 12",
+      "hinweis": "Notiere als Rechenaufgabe und rechne.",
+      "antwort": "12 · 12 = 144",
+      "falsch": [
+        "12 + 12 = 24",
+        "12 · 12 = 124",
+        "12 · 12 = 142"
+      ],
+      "erklaerung": "Produkt heißt <b>mal</b>. Die erste Zahl kommt zuerst: 12 · 12 = 144.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 1g) und Scan 4 S. 18 (Lernplan Klassenarbeit 07.10.2026)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-009",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "tor",
+      "frage": "Was rechnest du bei der Summe?",
+      "antwort": "plus",
+      "falsch": [
+        "minus"
+      ],
+      "erklaerung": "Summe ist das Ergebnis einer <b>plus</b>-Aufgabe.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 3)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-010",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "tor",
+      "frage": "Was rechnest du bei der Differenz?",
+      "antwort": "minus",
+      "falsch": [
+        "plus"
+      ],
+      "erklaerung": "Differenz ist das Ergebnis einer <b>minus</b>-Aufgabe.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 3)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-011",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "tor",
+      "frage": "Was rechnest du beim Quotienten?",
+      "antwort": "geteilt",
+      "falsch": [
+        "mal"
+      ],
+      "erklaerung": "Quotient ist das Ergebnis einer <b>geteilt</b>-Aufgabe.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 3)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-012",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "tor",
+      "frage": "Was rechnest du beim Produkt?",
+      "antwort": "mal",
+      "falsch": [
+        "geteilt"
+      ],
+      "erklaerung": "Produkt ist das Ergebnis einer <b>mal</b>-Aufgabe.",
+      "quelle": "Scan 4 S. 18 (Lernplan Klassenarbeit 07.10.2026)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-013",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "buchstaben",
+      "frage": "Ergebnis einer Plus-Aufgabe",
+      "antwort": "Summe",
+      "falsch": [],
+      "erklaerung": "Plus ergibt die <b>Summe</b>.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 3a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-014",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "buchstaben",
+      "frage": "Ergebnis einer Minus-Aufgabe",
+      "antwort": "Differenz",
+      "falsch": [],
+      "erklaerung": "Minus ergibt die <b>Differenz</b>, mit z am Ende.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 3c)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-015",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "buchstaben",
+      "frage": "Ergebnis einer Geteilt-Aufgabe",
+      "antwort": "Quotient",
+      "falsch": [],
+      "erklaerung": "Geteilt ergibt den <b>Quotienten</b>. Schreibt sich mit Qu.",
+      "quelle": "Scan 4 S. 16 (Probearbeit 30.09.2026, Aufg. 3b)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-016",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "auswahl",
+      "frage": "6 · 24",
+      "hinweis": "Rechne im Kopf.",
+      "antwort": "144",
+      "falsch": [
+        "124",
+        "134",
+        "154"
+      ],
+      "erklaerung": "6 · 20 = 120 und 6 · 4 = 24. 120 + 24 = <b>144</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 1g)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-017",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "auswahl",
+      "frage": "12 · 12",
+      "hinweis": "Rechne im Kopf.",
+      "antwort": "144",
+      "falsch": [
+        "124",
+        "122",
+        "1212"
+      ],
+      "erklaerung": "12 · 10 = 120 und 12 · 2 = 24. 120 + 24 = <b>144</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 1g)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-begr-018",
+      "fach": "mathe",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "typ": "auswahl",
+      "frage": "8 · 125",
+      "hinweis": "Rechne im Kopf.",
+      "antwort": "1 000",
+      "falsch": [
+        "800",
+        "10 000",
+        "825"
+      ],
+      "erklaerung": "8 · 100 = 800 und 8 · 25 = 200. 800 + 200 = <b>1 000</b>.",
+      "quelle": "Scan 4 S. 22 (Arbeitsheft Zahlen und Größen S. 4, Aufg. 1c)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-001",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "6 € 8 ct",
+      "hinweis": "Schreib mit Komma.",
+      "antwort": "6,08 €",
+      "falsch": [
+        "6,8 €",
+        "6,80 €",
+        "68 €"
+      ],
+      "erklaerung": "Nach dem Komma stehen immer <b>zwei</b> Ziffern für die Cent. 8 ct wird zu ,08, also 6,08 €.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 3c)",
+      "stufe": 1,
+      "fehlerbild": "Cent einstellig ohne 0 (6,8 € statt 6,08 €)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-002",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "20 € 2 ct",
+      "hinweis": "Schreib mit Komma.",
+      "antwort": "20,02 €",
+      "falsch": [
+        "20,2 €",
+        "20,20 €",
+        "202 €"
+      ],
+      "erklaerung": "Nach dem Komma stehen immer <b>zwei</b> Ziffern für die Cent. 2 ct wird zu ,02, also 20,02 €.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 3d)",
+      "stufe": 1,
+      "fehlerbild": "Cent einstellig ohne 0 (6,8 € statt 6,08 €)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-003",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "10 € 7 ct",
+      "hinweis": "Schreib mit Komma.",
+      "antwort": "10,07 €",
+      "falsch": [
+        "10,7 €",
+        "10,70 €",
+        "1007 €"
+      ],
+      "erklaerung": "Nach dem Komma stehen immer <b>zwei</b> Ziffern für die Cent. 7 ct wird zu ,07, also 10,07 €.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 5)",
+      "stufe": 1,
+      "fehlerbild": "Cent einstellig ohne 0 (6,8 € statt 6,08 €)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-004",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "6 € 9 ct",
+      "hinweis": "Schreib mit Komma.",
+      "antwort": "6,09 €",
+      "falsch": [
+        "6,9 €",
+        "6,90 €",
+        "69 €"
+      ],
+      "erklaerung": "Nach dem Komma stehen immer <b>zwei</b> Ziffern für die Cent. 9 ct wird zu ,09, also 6,09 €.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 4)",
+      "stufe": 1,
+      "fehlerbild": "Cent einstellig ohne 0 (6,8 € statt 6,08 €)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-005",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "12 € 75 ct",
+      "hinweis": "Schreib mit Komma.",
+      "antwort": "12,75 €",
+      "falsch": [
+        "12,075 €",
+        "1,275 €",
+        "127,5 €"
+      ],
+      "erklaerung": "Nach dem Komma stehen immer <b>zwei</b> Ziffern für die Cent. 75 ct wird zu ,75, also 12,75 €.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 3b)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-006",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "tor",
+      "frage": "8 € 6 ct",
+      "hinweis": "Schreib mit Komma.",
+      "antwort": "8,06 €",
+      "falsch": [
+        "8,6 €"
+      ],
+      "erklaerung": "6 ct sind weniger als 10 ct, darum <b>8,06 €</b>. 8,6 € wären 8 € 60 ct.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 4)",
+      "stufe": 1,
+      "fehlerbild": "Cent einstellig ohne 0 (6,8 € statt 6,08 €)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-007",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "10,5 €",
+      "hinweis": "Rechne in Cent um.",
+      "antwort": "1050 ct",
+      "falsch": [
+        "1005 ct",
+        "105 ct",
+        "10500 ct"
+      ],
+      "erklaerung": "10,5 € ist 10,50 €, also 10 € und <b>50</b> ct. 1000 ct + 50 ct = <b>1050 ct</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 1d)",
+      "stufe": 2,
+      "fehlerbild": "10,5 € = 1005 ct statt 1050 ct",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-008",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "10,50 €",
+      "hinweis": "Rechne in Cent um.",
+      "antwort": "1050 ct",
+      "falsch": [
+        "1005 ct",
+        "10050 ct",
+        "105 ct"
+      ],
+      "erklaerung": "10 € = 1000 ct, dazu 50 ct: <b>1050 ct</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 1d)",
+      "stufe": 1,
+      "fehlerbild": "10,5 € = 1005 ct statt 1050 ct",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-009",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "21 €",
+      "hinweis": "Rechne in Cent um.",
+      "antwort": "2100 ct",
+      "falsch": [
+        "21000 ct",
+        "210 ct",
+        "21 ct"
+      ],
+      "erklaerung": "1 € = 100 ct. 21 · 100 = <b>2100 ct</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 1a)",
+      "stufe": 1,
+      "fehlerbild": "zuerst 21000 statt 2100",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-010",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "0,75 €",
+      "hinweis": "Rechne in Cent um.",
+      "antwort": "75 ct",
+      "falsch": [
+        "750 ct",
+        "7500 ct",
+        "7 ct"
+      ],
+      "erklaerung": "0 € und 75 ct: <b>75 ct</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 1b)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-011",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "1,05 €",
+      "hinweis": "Rechne in Cent um.",
+      "antwort": "105 ct",
+      "falsch": [
+        "15 ct",
+        "150 ct",
+        "1050 ct"
+      ],
+      "erklaerung": "1 € = 100 ct, dazu 5 ct: <b>105 ct</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 1c)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-012",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "150,50 €",
+      "hinweis": "Rechne in Cent um.",
+      "antwort": "15050 ct",
+      "falsch": [
+        "1505 ct",
+        "150050 ct",
+        "15005 ct"
+      ],
+      "erklaerung": "150 € = 15000 ct, dazu 50 ct: <b>15050 ct</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 1e)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-013",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "709 ct",
+      "hinweis": "Rechne in Euro um.",
+      "antwort": "7,09 €",
+      "falsch": [
+        "7,9 €",
+        "70,9 €",
+        "7,90 €"
+      ],
+      "erklaerung": "Die letzten <b>zwei</b> Ziffern sind die Cent: 709 ct = 7 € 9 ct = 7,09 €.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 2e)",
+      "stufe": 1,
+      "fehlerbild": "Cent einstellig ohne 0 (6,8 € statt 6,08 €)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-014",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "908 ct",
+      "hinweis": "Rechne in Euro um.",
+      "antwort": "9,08 €",
+      "falsch": [
+        "9,8 €",
+        "90,8 €",
+        "9,80 €"
+      ],
+      "erklaerung": "Die letzten <b>zwei</b> Ziffern sind die Cent: 908 ct = 9 € 8 ct = 9,08 €.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 3e)",
+      "stufe": 1,
+      "fehlerbild": "Cent einstellig ohne 0 (6,8 € statt 6,08 €)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-015",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "605 ct",
+      "hinweis": "Rechne in Euro um.",
+      "antwort": "6,05 €",
+      "falsch": [
+        "6,5 €",
+        "60,5 €",
+        "6,50 €"
+      ],
+      "erklaerung": "Die letzten <b>zwei</b> Ziffern sind die Cent: 605 ct = 6 € 5 ct = 6,05 €.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 3a)",
+      "stufe": 1,
+      "fehlerbild": "Cent einstellig ohne 0 (6,8 € statt 6,08 €)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-016",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "1435 ct",
+      "hinweis": "Rechne in Euro um.",
+      "antwort": "14,35 €",
+      "falsch": [
+        "143,5 €",
+        "1,435 €",
+        "14,53 €"
+      ],
+      "erklaerung": "Die letzten <b>zwei</b> Ziffern sind die Cent: 1435 ct = 14 € 35 ct = 14,35 €.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 2d)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-017",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "23456 ct",
+      "hinweis": "Rechne in Euro um.",
+      "antwort": "234,56 €",
+      "falsch": [
+        "2345,6 €",
+        "23,456 €",
+        "2,3456 €"
+      ],
+      "erklaerung": "Die letzten <b>zwei</b> Ziffern sind die Cent: 23456 ct = 234 € 56 ct = 234,56 €.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 2f)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-018",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "10101 ct",
+      "hinweis": "Rechne in Euro um.",
+      "antwort": "101,01 €",
+      "falsch": [
+        "10,101 €",
+        "1010,1 €",
+        "101,1 €"
+      ],
+      "erklaerung": "Die letzten <b>zwei</b> Ziffern sind die Cent: 10101 ct = 101 € 1 ct = 101,01 €.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 3f)",
+      "stufe": 3,
+      "fehlerbild": "Cent einstellig ohne 0 (6,8 € statt 6,08 €)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-019",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "89 ct",
+      "hinweis": "Rechne in Euro um.",
+      "antwort": "0,89 €",
+      "falsch": [
+        "89,00 €",
+        "8,90 €",
+        "0,089 €"
+      ],
+      "erklaerung": "Die letzten <b>zwei</b> Ziffern sind die Cent: 89 ct = 0 € 89 ct = 0,89 €.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 2a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-020",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "1205 € 9 ct",
+      "hinweis": "Schreib in Euro.",
+      "antwort": "1205,09 €",
+      "falsch": [
+        "1205,9 €",
+        "1205,90 €",
+        "12059 €"
+      ],
+      "erklaerung": "9 ct sind einstellig, also mit 0 davor: <b>1205,09 €</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 4b)",
+      "stufe": 2,
+      "fehlerbild": "Cent einstellig ohne 0 (6,8 € statt 6,08 €)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-021",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "15 € 19 ct",
+      "hinweis": "Schreib in Cent.",
+      "antwort": "1519 ct",
+      "falsch": [
+        "15190 ct",
+        "1519 €",
+        "15019 ct"
+      ],
+      "erklaerung": "15 € = 1500 ct. 1500 + 19 = <b>1519 ct</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 4c)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-022",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "806 ct",
+      "hinweis": "Schreib anders.",
+      "antwort": "8 € 6 ct",
+      "falsch": [
+        "8 € 60 ct",
+        "80 € 6 ct",
+        "0 € 806 ct"
+      ],
+      "erklaerung": "800 ct = 8 €. Übrig bleiben <b>6 ct</b>.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 4)",
+      "stufe": 1,
+      "fehlerbild": "Cent einstellig ohne 0 (6,8 € statt 6,08 €)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-023",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "4,80 € + 3,40 €",
+      "hinweis": "Rechne im Kopf.",
+      "antwort": "8,20 €",
+      "falsch": [
+        "7,20 €",
+        "8,02 €",
+        "8,40 €"
+      ],
+      "erklaerung": "Erst die Euro, dann die Cent: 4,80 € + 3 € = 7,80 €, dann + 40 ct = <b>8,20 €</b>.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 1a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-024",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "3,90 € + 2,60 €",
+      "hinweis": "Rechne im Kopf.",
+      "antwort": "6,50 €",
+      "falsch": [
+        "5,50 €",
+        "6,05 €",
+        "6,60 €"
+      ],
+      "erklaerung": "Erst die Euro, dann die Cent: 3,90 € + 2 € = 5,90 €, dann + 60 ct = <b>6,50 €</b>.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 1b)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-025",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "9,20 € − 3,70 €",
+      "hinweis": "Rechne im Kopf.",
+      "antwort": "5,50 €",
+      "falsch": [
+        "6,50 €",
+        "5,05 €",
+        "6,10 €"
+      ],
+      "erklaerung": "Erst die Euro, dann die Cent: 9,20 € − 3 € = 6,20 €, dann − 70 ct = <b>5,50 €</b>.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 2a)",
+      "stufe": 2,
+      "fehlerbild": "Aufgabe leer gelassen",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-026",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "10,00 € − 2,90 €",
+      "hinweis": "Rechne im Kopf.",
+      "antwort": "7,10 €",
+      "falsch": [
+        "8,10 €",
+        "7,90 €",
+        "8,90 €"
+      ],
+      "erklaerung": "Erst die Euro, dann die Cent: 10,00 € − 2 € = 8,00 €, dann − 90 ct = <b>7,10 €</b>.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 2b)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-027",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "0,95 € + 6,15 €",
+      "hinweis": "Rechne im Kopf.",
+      "antwort": "7,10 €",
+      "falsch": [
+        "6,10 €",
+        "7,01 €",
+        "7,20 €"
+      ],
+      "erklaerung": "Erst die Euro, dann die Cent: 0,95 € + 6 € = 6,95 €, dann + 15 ct = <b>7,10 €</b>.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 6)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-028",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "7,25 € − 2,50 €",
+      "hinweis": "Rechne im Kopf.",
+      "antwort": "4,75 €",
+      "falsch": [
+        "5,25 €",
+        "4,25 €",
+        "5,75 €"
+      ],
+      "erklaerung": "Erst die Euro, dann die Cent: 7,25 € − 2 € = 5,25 €, dann − 50 ct = <b>4,75 €</b>.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 6)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-029",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "8,30 € − 4,50 €",
+      "hinweis": "Rechne im Kopf.",
+      "antwort": "3,80 €",
+      "falsch": [
+        "4,20 €",
+        "3,20 €",
+        "4,80 €"
+      ],
+      "erklaerung": "Erst die Euro, dann die Cent: 8,30 € − 4 € = 4,30 €, dann − 50 ct = <b>3,80 €</b>.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 6)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-030",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "4,70 € + ___ = 5,00 €",
+      "hinweis": "Was fehlt bis 5,00 €?",
+      "antwort": "0,30 €",
+      "falsch": [
+        "6,30 €",
+        "1,30 €",
+        "0,70 €"
+      ],
+      "erklaerung": "Von 4,70 € bis 5,00 € fehlen 30 ct, also <b>0,30 €</b>.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 6)",
+      "stufe": 2,
+      "fehlerbild": "bis 11 statt bis 5 ergänzt (6,30 €)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-031",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "2,75 € + ___ = 3,00 €",
+      "hinweis": "Was fehlt bis 3,00 €?",
+      "antwort": "0,25 €",
+      "falsch": [
+        "25,00 €",
+        "0,35 €",
+        "1,25 €"
+      ],
+      "erklaerung": "Von 2,75 € bis 3,00 € fehlen 25 ct, also <b>0,25 €</b>.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 6)",
+      "stufe": 2,
+      "fehlerbild": "25 statt 0,25 € (Komma fehlt)",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-032",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "7,45 € + ___ = 8,00 €",
+      "hinweis": "Was fehlt bis 8,00 €?",
+      "antwort": "0,55 €",
+      "falsch": [
+        "0,65 €",
+        "1,55 €",
+        "5,50 €"
+      ],
+      "erklaerung": "Von 7,45 € bis 8,00 € fehlen 55 ct, also <b>0,55 €</b>.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 6)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-033",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "2 €, 1 €, 50 ct, 20 ct",
+      "hinweis": "Wie viel Geld ist in der Börse?",
+      "antwort": "3,70 €",
+      "falsch": [
+        "3,07 €",
+        "73 €",
+        "3,50 €"
+      ],
+      "erklaerung": "2 € + 1 € = 3 €. 50 ct + 20 ct = 70 ct. Zusammen <b>3,70 €</b>.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 5)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-034",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "2 €, 2 €, 5-€-Schein, 1 €, 5 ct, 2 ct",
+      "hinweis": "Wie viel Geld ist in der Börse?",
+      "antwort": "10,07 €",
+      "falsch": [
+        "10,7 €",
+        "10,70 €",
+        "17 €"
+      ],
+      "erklaerung": "2 + 2 + 5 + 1 = 10 €. 5 ct + 2 ct = 7 ct. Einstellige Cent mit 0: <b>10,07 €</b>.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 5)",
+      "stufe": 2,
+      "fehlerbild": "10,7 € statt 10,07 €",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-geld-035",
+      "fach": "mathe",
+      "thema": "Geld: Euro und Cent",
+      "typ": "auswahl",
+      "frage": "Welcher Betrag ist am kleinsten? 605 ct, 556 ct, 6 € 55 ct, 5 € 65 ct",
+      "hinweis": "Ordne die Beträge.",
+      "antwort": "556 ct",
+      "falsch": [
+        "605 ct",
+        "6 € 55 ct",
+        "5 € 65 ct"
+      ],
+      "erklaerung": "Alles als Kommazahl: 6,05 €, <b>5,56 €</b>, 6,55 €, 5,65 €. Bei 5,56 € sind die Cent kleiner als bei 5,65 €.",
+      "quelle": "Scan 4 S. 14 (Arbeitsblatt Rechnen mit Geld 4, Aufg. 3)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-einh-001",
+      "fach": "mathe",
+      "thema": "Sinnvolle Einheiten bei Preisen",
+      "typ": "tor",
+      "frage": "Ein Fahrrad kostet im Angebot 199 ___.",
+      "hinweis": "Welche Einheit passt?",
+      "antwort": "€",
+      "falsch": [
+        "ct"
+      ],
+      "erklaerung": "Das ist zu teuer für Cent. Darum <b>€</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 6a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-einh-002",
+      "fach": "mathe",
+      "thema": "Sinnvolle Einheiten bei Preisen",
+      "typ": "tor",
+      "frage": "Eine Briefmarke kostet 55 ___.",
+      "hinweis": "Welche Einheit passt?",
+      "antwort": "ct",
+      "falsch": [
+        "€"
+      ],
+      "erklaerung": "So wenig kostet nur etwas Kleines. Darum <b>ct</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 6b)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-einh-003",
+      "fach": "mathe",
+      "thema": "Sinnvolle Einheiten bei Preisen",
+      "typ": "tor",
+      "frage": "Turnschuhe kosten 59,99 ___.",
+      "hinweis": "Welche Einheit passt?",
+      "antwort": "€",
+      "falsch": [
+        "ct"
+      ],
+      "erklaerung": "Das ist zu teuer für Cent. Darum <b>€</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 6c)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-einh-004",
+      "fach": "mathe",
+      "thema": "Sinnvolle Einheiten bei Preisen",
+      "typ": "tor",
+      "frage": "Ein Haus kostet 168 000 ___.",
+      "hinweis": "Welche Einheit passt?",
+      "antwort": "€",
+      "falsch": [
+        "ct"
+      ],
+      "erklaerung": "Das ist zu teuer für Cent. Darum <b>€</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 6d)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-einh-005",
+      "fach": "mathe",
+      "thema": "Sinnvolle Einheiten bei Preisen",
+      "typ": "tor",
+      "frage": "Ein Radiergummi kostet 0,99 ct.",
+      "hinweis": "Ist die Angabe sinnvoll?",
+      "antwort": "Nein",
+      "falsch": [
+        "Ja"
+      ],
+      "erklaerung": "Weniger als 1 ct gibt es nicht. Sinnvoll wären <b>0,99 €</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 7b)",
+      "stufe": 2,
+      "fehlerbild": "0,99 ct als sinnvoll angesehen",
+      "vorgriff": false
+    },
+    {
+      "id": "ma-einh-006",
+      "fach": "mathe",
+      "thema": "Sinnvolle Einheiten bei Preisen",
+      "typ": "tor",
+      "frage": "Eine Kaffeemaschine kostet 24,99 €.",
+      "hinweis": "Ist die Angabe sinnvoll?",
+      "antwort": "Ja",
+      "falsch": [
+        "Nein"
+      ],
+      "erklaerung": "Das ist ein normaler Preis für eine Kaffeemaschine.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 7a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-einh-007",
+      "fach": "mathe",
+      "thema": "Sinnvolle Einheiten bei Preisen",
+      "typ": "tor",
+      "frage": "Ein Auto kostet 10 990 €.",
+      "hinweis": "Ist die Angabe sinnvoll?",
+      "antwort": "Ja",
+      "falsch": [
+        "Nein"
+      ],
+      "erklaerung": "Autos kosten viele tausend Euro. Passt.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 7d)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-einh-008",
+      "fach": "mathe",
+      "thema": "Sinnvolle Einheiten bei Preisen",
+      "typ": "tor",
+      "frage": "Ein Besuch im Tierpark kostet 152 €.",
+      "hinweis": "Ist die Angabe sinnvoll?",
+      "antwort": "Nein",
+      "falsch": [
+        "Ja"
+      ],
+      "erklaerung": "Für einen Besuch sind 152 € viel zu viel. Sinnvoll wäre etwa ein Zehntel davon.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 7e)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-einh-009",
+      "fach": "mathe",
+      "thema": "Sinnvolle Einheiten bei Preisen",
+      "typ": "auswahl",
+      "frage": "Was kostet ungefähr 1 €?",
+      "antwort": "Radiergummi",
+      "falsch": [
+        "Herd",
+        "Gebrauchtwagen",
+        "Musik-CD"
+      ],
+      "erklaerung": "Ein Radiergummi kostet ungefähr <b>1 €</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 5a)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-einh-010",
+      "fach": "mathe",
+      "thema": "Sinnvolle Einheiten bei Preisen",
+      "typ": "auswahl",
+      "frage": "Was kostet ungefähr 20 €?",
+      "antwort": "Musik-CD",
+      "falsch": [
+        "Radiergummi",
+        "Herd",
+        "Gebrauchtwagen"
+      ],
+      "erklaerung": "Eine Musik-CD kostet ungefähr <b>20 €</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 5c)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-einh-011",
+      "fach": "mathe",
+      "thema": "Sinnvolle Einheiten bei Preisen",
+      "typ": "auswahl",
+      "frage": "Was kostet ungefähr 1500 €?",
+      "antwort": "Herd",
+      "falsch": [
+        "Hefter",
+        "Musik-CD",
+        "Radiergummi"
+      ],
+      "erklaerung": "Ein Herd kostet ungefähr <b>1500 €</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 5d)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "ma-einh-012",
+      "fach": "mathe",
+      "thema": "Sinnvolle Einheiten bei Preisen",
+      "typ": "auswahl",
+      "frage": "Was kostet ungefähr 10000 €?",
+      "antwort": "Gebrauchtwagen",
+      "falsch": [
+        "Hefter",
+        "Musik-CD",
+        "Radiergummi"
+      ],
+      "erklaerung": "Ein Gebrauchtwagen kostet ungefähr <b>10000 €</b>.",
+      "quelle": "Scan 4 S. 15 (Arbeitsblatt Rechnen mit Geld 2, Aufg. 5e)",
+      "stufe": 1,
+      "vorgriff": false
+    }
+  ],
+  "generatoren": [
+    {
+      "key": "round",
+      "belegt": true,
+      "quelle": "Scan 4 S. 17 (Probearbeit Aufg. 5), S. 19 (Arbeitsblatt Runden), S. 20 (S. 10 Zahlen runden), S. 21 (Arbeitsheft S. 5, Aufg. 2 und 3)",
+      "thema": "Runden",
+      "zahlenbereich": "Im Material: 2- bis 9-stellige Zahlen (76 bis 435 840 032), Rundungsstellen Zehner, Hunderter, Tausender, Zehntausender, Hunderttausender, Millionen und \"auf die 1. Stelle von links\" (bis 94 Mrd.).",
+      "stufen": "Stufe 1: 3- bis 5-stellig auf Zehner, Hunderter, Tausender. Stufe 2: 5- bis 6-stellig auf Zehntausender und erste Stelle. Stufe 3: bis 9-stellig auf Hunderttausender und Millionen, Sonderfälle mit Übertrag (12 999, 399 999, 999 999) und Ergebnis 0 (3 872 auf Zehntausender).",
+      "aenderung": "Generator passt im Kern. Ergänzen: Millionen als Rundungsstelle (PLACE hat sie, places nutzt sie nicht) und Modus \"auf die 1. Stelle\". Ab Stufe 2 gezielt Zahlen mit 9er-Ketten erzeugen (Übertrag) und kleine Zahlen auf große Stellen (Ergebnis 0). Ablenker um Fehler aus dem Heft ergänzen: ans*10 (Nullen angehängt, 215 000 statt 21 500) und abgerundet statt aufgerundet bei Folgeziffer 5 (1235 zu 1230). Trennzeichen: fmt() setzt Punkte, das Buch und die Probearbeit nutzen Leerzeichen (besser schmales geschütztes Leerzeichen U+202F oder U+00A0). Schon ab Level 1 auch Hunderter zulassen (Probearbeit rundet 3- und 4-stellige Zahlen auf Hunderter)."
+    },
+    {
+      "key": "kopf",
+      "belegt": true,
+      "quelle": "Scan 4 S. 18 (Lernplan: Grundrechenarten nicht schriftlich), S. 16 (Probearbeit Aufg. 3: 43 + 17, 77 : 11, 45 − 18), S. 22 (Arbeitsheft S. 4, Aufg. 1: 8 · 125, 12 · 12, 6 · 24)",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "zahlenbereich": "Zweistellig plus und minus bis 100, Einmaleins, Teilen im Einmaleins und durch 11, zweistellig mal einstellig (6 · 24), Rechnen mit Hundertern (8 · 125 = 1000).",
+      "stufen": "Stufe 1: +, −, Einmaleins. Stufe 2: zweistellig mal einstellig, Teilen. Stufe 3: Ergänzen bis 1 000, 8 · 125.",
+      "aenderung": "Belegt, Zahlenbereich passt. Ergänzen: \":\" auch mit Teiler 11 (77 : 11), Fall \"12 · 12\" (zweistellig mal zweistellig, nur 11 bis 15). Kein schriftliches Rechnen (Lernplan). Fachbegriffe als eigener Generator neu:begriffe."
+    },
+    {
+      "key": "nachbar",
+      "belegt": true,
+      "quelle": "Scan 4 S. 22 (Arbeitsheft S. 4, Aufg. 7), S. 20 (Zusatzaufgabe 3.1 l: 49 999)",
+      "thema": "Vorgänger, Nachfolger, Gegenbeispiel",
+      "zahlenbereich": "Bis 1 000 000, besonders Grenzen an Stellenzahlen (99 999 / 100 000, 999 999 / 1 000 000).",
+      "stufen": "Stufe 1: 4-stellig. Stufe 2: 5- bis 6-stellig mit 9er-Ketten. Stufe 3: Übergang zu 7 Stellen.",
+      "aenderung": "Belegt. Muster \"9\" und \"0\" sind genau richtig (Stellenzahl wechselt). Ab Stufe 3 bis 7 Stellen. 0 nie als Startzahl für \"Vorgänger von\" ziehen; dazu feste Aufgabe \"0 hat keinen Vorgänger\"."
+    },
+    {
+      "key": "stelle",
+      "belegt": true,
+      "quelle": "Scan 4 S. 21 (Arbeitsheft S. 5, Aufg. 1 Stellenwerttafel bis Millionen, Aufg. 2 Ziffer an der Rundungsstelle bis 9 Stellen)",
+      "thema": "Große Zahlen",
+      "zahlenbereich": "Bis 9 Stellen (435 840 032), Stellen Einer bis Hundertmillionen.",
+      "stufen": "Stufe 1: 4- bis 5-stellig. Stufe 2: 6- bis 7-stellig. Stufe 3: 8- bis 9-stellig.",
+      "aenderung": "Zahlen bis 9 Stellen zulassen (heute höchstens 6). PLACE und PSHORT um Millionen, Zehnmillionen, Hundertmillionen erweitern. Die Stellenwerttafel im Arbeitsheft ist in Dreiergruppen \"Mio | Tsd | H Z E\" aufgebaut, nicht E Z H T ZT HT; Darstellung angleichen."
+    },
+    {
+      "key": "lesen",
+      "belegt": true,
+      "quelle": "Scan 4 S. 16 (Probearbeit Aufg. 1, bis Milliarden), S. 21 (Arbeitsheft S. 5, Aufg. 1, Zahl und Zahlwort in beide Richtungen)",
+      "thema": "Große Zahlen",
+      "zahlenbereich": "Material: 1 897 bis 6 035 960 000 (Milliarden). Generator heute nur bis 99 999.",
+      "stufen": "Stufe 1: bis 999 999. Stufe 2: Millionen. Stufe 3: Milliarden, auch \"17 Mio.\" und \"94 Mrd.\".",
+      "aenderung": "Erweitern auf Millionen und Milliarden (deNum kann nur bis 999 999; Millionen und Milliarden werden getrennt geschrieben: \"sechs Milliarden fünfunddreißig Millionen ...\"). Zweite Richtung Zahl -> Zahlwort ergänzen (Auswahl aus Zahlwörtern). Ablenker: fehlende Nullgruppe (635 960 000 statt 6 035 960 000), vertauschte Einer und Zehner (1 879 statt 1 897). Mit Nullen in der Mitte (107 003, 11 018 008) gezielt üben."
+    },
+    {
+      "key": "vergleich",
+      "belegt": true,
+      "quelle": "Scan 4 S. 22 (Arbeitsheft S. 4, Aufg. 1), S. 16 (Probearbeit Aufg. 2)",
+      "thema": "Vergleichen und ordnen",
+      "zahlenbereich": "2- bis 6-stellig, auch Zahlen unterschiedlicher Länge (60 711 < 404 171) und Rechenausdrücke (1000 = 8 · 125, 12 · 12 = 6 · 24).",
+      "stufen": "Stufe 1: gleiche Stellenzahl. Stufe 2: unterschiedliche Länge, 6-stellig mit vertauschten Ziffern wie 456 564 / 456 654. Stufe 3: Rechenausdruck gegen Zahl.",
+      "aenderung": "Belegt. Ergänzen: unterschiedliche Stellenzahl, Rechenausdrücke mit \"=\" (im Heft bei 12 · 12 und 6 · 24 ein <). Eignet sich gut als Antwort-Tor (<, >, =)."
+    },
+    {
+      "key": "bausteine",
+      "belegt": false,
+      "quelle": "Nur teilweise: Scan 4 S. 21 (Stellenwerttafel). Die Schreibweise \"3 ZT + 4 H\" kommt im Material nicht vor.",
+      "thema": "Große Zahlen",
+      "zahlenbereich": "-",
+      "stufen": "-",
+      "aenderung": "Umbauen zu \"Zahl aus der Stellenwerttafel\": Ziffern in der Tafel Mio | Tsd | H Z E zeigen, Zahl auswählen. Sonst entfernen."
+    },
+    {
+      "key": "ordnen",
+      "belegt": true,
+      "quelle": "Scan 4 S. 16 (Probearbeit Aufg. 2, 6-stellig), S. 22 (Arbeitsheft S. 4, Aufg. 2 und 3), S. 14 (Geld ordnen, Aufg. 3b)",
+      "thema": "Vergleichen und ordnen",
+      "zahlenbereich": "3- bis 6-stellig. Generator heute nur 4- bis 5-stellig.",
+      "stufen": "Stufe 1: 3- bis 4-stellig. Stufe 2: 6-stellig mit gleichen Ziffern in anderer Reihenfolge (Probearbeit). Stufe 3: \"Welche Zahl muss aus der Reihe?\" (Arbeitsheft Aufg. 3).",
+      "aenderung": "Bis 6 Stellen. Neuer Modus \"Fehler in der Reihe\": geordnete Reihe mit einer falsch eingeschobenen Zahl, Eindeutigkeit prüfen (beim Arbeitsheft sind c, d, f nicht eindeutig). Modus \"Welche Reihe stimmt?\" mit vertauschtem Zeichen als Ablenker (im Heft: 2122 < 1222 < 989 < 899)."
+    },
+    {
+      "key": "mitte",
+      "belegt": false,
+      "quelle": "Kein direkter Beleg. Verwandt: Scan 4 S. 22 (Zahlenstrahl, Aufg. 5a: 2000, ?, ?, 8000)",
+      "thema": "Zahlenstrahl",
+      "zahlenbereich": "-",
+      "stufen": "-",
+      "aenderung": "Entfernen und durch neu:zahlenstrahl ersetzen."
+    },
+    {
+      "key": "roem",
+      "belegt": false,
+      "quelle": "Kein Beleg im Material.",
+      "thema": "-",
+      "zahlenbereich": "-",
+      "stufen": "-",
+      "aenderung": "Entfernen (oder ausgeschaltet lassen), bis römische Zahlen im Material auftauchen. Tim fragen, ob sie im Buch S. 8 bis 21 vorkommen."
+    },
+    {
+      "key": "text",
+      "belegt": false,
+      "quelle": "Kein Beleg für Bus, Sticker, Gummibärchen, Uhrzeit, Training. Teilbeleg nur für Rückgeld: Scan 4 S. 14 (10 € − 2,90 €).",
+      "thema": "-",
+      "zahlenbereich": "-",
+      "stufen": "-",
+      "aenderung": "Entfernen. Rückgeld-Variante in neu:geld übernehmen (mit Cent-Beträgen wie im Arbeitsblatt). Uhrzeiten nicht verwenden."
+    },
+    {
+      "key": "groessen",
+      "belegt": false,
+      "quelle": "Nur € und ct belegt: Scan 4 S. 14 und S. 15. m/cm, kg/g, h/min, km/m, min/s ohne Beleg.",
+      "thema": "Geld: Euro und Cent",
+      "zahlenbereich": "-",
+      "stufen": "-",
+      "aenderung": "Auf € und ct beschränken oder ganz in neu:geld aufgehen lassen. Die anderen Einheiten erst nach Material (Kapitel heißt \"Zahlen und Größen\", Größen sind vermutlich das nächste Thema [Hypothese], Tim fragen; dann ggf. als Vorgriff-Rune)."
+    },
+    {
+      "key": "ueber",
+      "belegt": false,
+      "quelle": "Kein Beleg. Überschlagen kommt im Material nicht vor.",
+      "thema": "-",
+      "zahlenbereich": "-",
+      "stufen": "-",
+      "aenderung": "Entfernen. Runden selbst ist gut belegt und deckt die Grundlage ab."
+    },
+    {
+      "key": "neu:geld",
+      "belegt": true,
+      "quelle": "Scan 4 S. 14 (Rechnen mit Geld 4), S. 15 (Rechnen mit Geld 2)",
+      "thema": "Geld: Euro und Cent",
+      "zahlenbereich": "5 ct bis 23456 ct (234,56 €), Euro bis 79085 €.",
+      "stufen": "Stufe 1: € ct -> Komma und zurück, Cent bis 999. Stufe 2: Plus und Minus mit Zehnercent (4,80 € + 3,40 €), Ergänzen bis zum vollen Euro und bis 10 €. Stufe 3: Beträge über 100 €, Fünfercent (0,95 € + 6,15 €, 7,45 € − 1,55 €).",
+      "spezifikation": "Modi: (1) \"x € y ct mit Komma\" (y in 30 Prozent der Fälle einstellig), (2) \"x ct in Euro\", (3) \"x,yz € in Cent\" (auch mit einer Nachkommastelle wie 10,5 €), (4) Plus/Minus, (5) \"a + ___ = b\" mit b voller Euro, (6) Geldbörse aus Münzen und Scheinen zählen, (7) Rückgeld von 10 € oder 20 €. Intern nur in Cent rechnen, Ausgabe immer mit zwei Nachkommastellen. Pflicht-Ablenker aus Fehler aus dem Heftn: einstellige Cent ohne 0 (6,8 € statt 6,08 €), 10,5 € = 1005 ct, Ergänzen ohne Komma (25 statt 0,25 €). Erklärung mit Weg: erst Euro, dann Cent."
+    },
+    {
+      "key": "neu:begriffe",
+      "belegt": true,
+      "quelle": "Scan 4 S. 16 (Probearbeit Aufg. 3), S. 18 (Lernplan: Begriffe Summe, Differenz, ...)",
+      "thema": "Rechenbegriffe und Kopfrechnen",
+      "zahlenbereich": "Wie Probearbeit: zweistellig (43 und 17, 77 und 11, 45 und 18).",
+      "stufen": "Stufe 1: Summe, Differenz. Stufe 2: Quotient, Produkt. Stufe 3: Begriff zu gegebener Rechnung erkennen.",
+      "spezifikation": "\"Die Summe/Differenz aus a und b\", \"den Quotienten aus a und b\", \"das Produkt aus a und b\". Antwort ist die ganze Rechnung \"a op b = c\". Ablenker: andere Rechenart, vertauschte Reihenfolge (18 − 45), Rechenfehler um 10. Quotient nur ohne Rest. Produkt ist im Material nicht ausdrücklich genannt (Lernplan \"Summe, Differenz, ...\"), Tim fragen."
+    },
+    {
+      "key": "neu:zahlenstrahl",
+      "belegt": true,
+      "quelle": "Scan 4 S. 22 (Arbeitsheft S. 4, Aufg. 4, 5, 6, 8)",
+      "thema": "Zahlenstrahl",
+      "zahlenbereich": "0 bis 8000; Teilungen 10, 20, 50, 150, 2000.",
+      "stufen": "Stufe 1: Pfeil ablesen bei Teilung 10. Stufe 2: Teilung selbst bestimmen (100 : 5 = 20). Stufe 3: Länge in cm bei gegebenem Maßstab (10 cm für 0 bis 500).",
+      "spezifikation": "Kleinen Zahlenstrahl im Overlay als Canvas oder SVG zeichnen: Start- und Endbeschriftung, kleine Striche, ein Pfeil. Frage \"Welche Zahl zeigt der Pfeil?\". Zweiter Modus \"Wie viele natürliche Zahlen liegen zwischen a und b?\" (Grenzen zählen nicht mit). Ablenker: Strich als 1 statt als Teilung gezählt."
+    },
+    {
+      "key": "neu:diagramm",
+      "belegt": true,
+      "quelle": "Scan 4 S. 16 und 17 (Probearbeit Aufg. 4 und 5), S. 21 (Aufg. 4), S. 23 (Arbeitsheft S. 3, Aufg. 1 bis 3), S. 18 (Lernplan)",
+      "thema": "Diagramme und Tabellen",
+      "zahlenbereich": "Werte bis 2 000 (Säugetiere in m), Maßstäbe 1 cm = 100, 1 Kästchen = 2, 1 cm = 1 000 000.",
+      "stufen": "Stufe 1: größten oder kleinsten Wert im Diagramm finden. Stufe 2: Säulenhöhe aus Wert und Maßstab. Stufe 3: Wert aus Säulenhöhe und Maßstab ablesen, erst runden, dann Säule.",
+      "spezifikation": "Kleines Säulen- oder Balkendiagramm mit 4 bis 6 Säulen zeichnen (Kästchenraster), Werte zufällig auf ganze Kästchen. Fragen: \"Wie viel zeigt Säule X?\", \"Welche ist am höchsten?\", \"Wie viele Kästchen hoch wird Wert Y bei 1 Kästchen = Z?\". Strichlisten zählen (Fünferbündel). Bei Wert ungerade und 1 Kästchen = 2 ein halbes Kästchen."
+    },
+    {
+      "key": "neu:rundungsbereich",
+      "belegt": true,
+      "quelle": "Scan 4 S. 20 (Aufg. 5), S. 21 (Aufg. 5, Stadion rund 14 000)",
+      "thema": "Runden",
+      "zahlenbereich": "Gerundete Werte 1 000 bis 100 000 auf Hunderter oder Tausender.",
+      "stufen": "Stufe 2 und 3.",
+      "spezifikation": "\"Runden auf P ergibt R. Kleinste/größte Zahl?\" Antwort R − P/2 bzw. R + P/2 − 1. Ablenker: R − P, R + P/2, R − P/2 − 1, R + P − 1. Variante \"Wie viele Zahlen sind möglich?\" = P (Ablenker P − 1, wie Janas 999)."
+    },
+    {
+      "key": "neu:rundencheck",
+      "belegt": true,
+      "quelle": "Scan 4 S. 21 (Arbeitsheft S. 5, Aufg. 3)",
+      "thema": "Runden",
+      "zahlenbereich": "5- bis 6-stellig, Hunderter und Zehntausender.",
+      "stufen": "Stufe 1 bis 2.",
+      "spezifikation": "Als Antwort-Tor: \"Runde n auf P\" mit zwei Toren: richtiges Ergebnis und typischer Fehler (abgerundet statt aufgerundet, falsche Stelle, Nullen angehängt)."
+    }
+  ]
+}

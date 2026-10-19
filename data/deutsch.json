@@ -1,0 +1,3400 @@
+{
+  "fach": "deutsch",
+  "stand": "2026-10-18",
+  "aufgaben": [
+    {
+      "id": "de-brief-001",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "auswahl",
+      "frage": "Was steht in einem Brief ganz oben?",
+      "antwort": "Ort und Datum",
+      "falsch": [
+        "Grußformel",
+        "Unterschrift",
+        "Brieftext"
+      ],
+      "erklaerung": "Reihenfolge im Brief: <b>Ort und Datum</b>, Anrede, Brieftext, Grußformel, Unterschrift.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-brief-002",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "auswahl",
+      "frage": "Was kommt direkt nach Ort und Datum?",
+      "antwort": "Anrede",
+      "falsch": [
+        "Grußformel",
+        "Unterschrift",
+        "PS"
+      ],
+      "erklaerung": "Nach Ort und Datum sprichst du den Empfänger an: die <b>Anrede</b>, zum Beispiel \"Liebe Frau Greis,\".",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-brief-003",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "auswahl",
+      "frage": "Was kommt nach dem Brieftext?",
+      "antwort": "Grußformel",
+      "falsch": [
+        "Anrede",
+        "Ort und Datum",
+        "Überschrift"
+      ],
+      "erklaerung": "Nach dem Brieftext verabschiedest du dich mit einer <b>Grußformel</b>, danach kommt die Unterschrift.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-brief-004",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "auswahl",
+      "frage": "Was steht in einem Brief ganz unten?",
+      "antwort": "Unterschrift",
+      "falsch": [
+        "Anrede",
+        "Ort und Datum",
+        "Brieftext"
+      ],
+      "erklaerung": "Ganz am Ende steht dein Name: die <b>Unterschrift</b>.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-brief-005",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "auswahl",
+      "frage": "Welche Reihenfolge stimmt?",
+      "antwort": "Anrede, Brieftext, Grußformel",
+      "falsch": [
+        "Grußformel, Anrede, Brieftext",
+        "Brieftext, Anrede, Grußformel",
+        "Anrede, Grußformel, Brieftext"
+      ],
+      "erklaerung": "Erst ansprechen, dann erzählen, dann verabschieden: <b>Anrede, Brieftext, Grußformel</b>.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-brief-006",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "auswahl",
+      "frage": "Wie schreibst du Ort und Datum richtig?",
+      "antwort": "Blockwald, den 24.9.2026",
+      "falsch": [
+        "Blockwald den, 24.9.2026",
+        "Blockwald den 24.9.2026,",
+        "blockwald, den 24.9.2026"
+      ],
+      "erklaerung": "Das Komma kommt direkt hinter den Ort: <b>Blockwald, den</b> 24.9.2026.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 27.9.26, Arbeitsheft S. 20)",
+      "stufe": 2,
+      "fehlerbild": "Komma bei Ort und Datum verrutscht (Essen den, 27.9.26)",
+      "vorgriff": false
+    },
+    {
+      "id": "de-brief-007",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "auswahl",
+      "frage": "Welche Anrede ist richtig gesetzt?",
+      "antwort": "Liebe Frau Greis,",
+      "falsch": [
+        "Liebe Frau Greis.",
+        "Liebe Frau Greis",
+        "Liebe, Frau Greis"
+      ],
+      "erklaerung": "Nach der Anrede steht ein <b>Komma</b>.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 27.9.26, Arbeitsheft S. 20)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-brief-008",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "auswahl",
+      "frage": "\"Sehr geehrter Herr Dr. Dr. Griesgram,\" Wie geht es in der nächsten Zeile weiter?",
+      "antwort": "ich habe erfahren, dass ...",
+      "falsch": [
+        "Ich habe erfahren, dass ...",
+        "Ich Habe erfahren, dass ...",
+        "ICH habe erfahren, dass ..."
+      ],
+      "erklaerung": "Nach dem Komma der Anrede geht es <b>klein</b> weiter: \"ich habe erfahren ...\".",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-brief-009",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "auswahl",
+      "frage": "Was machst du, bevor du einen Brief schreibst?",
+      "antwort": "Ideen sammeln",
+      "falsch": [
+        "Die Unterschrift üben",
+        "Den Brief abschicken",
+        "Die Grußformel weglassen"
+      ],
+      "erklaerung": "Tipp aus deinem Heft: Erst <b>Ideen sammeln</b>, worüber du schreiben möchtest.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-brief-010",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "auswahl",
+      "frage": "Wen sprichst du gleich zu Beginn direkt an?",
+      "antwort": "den Empfänger",
+      "falsch": [
+        "dich selbst",
+        "den Briefträger",
+        "niemanden"
+      ],
+      "erklaerung": "Tipp aus deinem Heft: Sprich den <b>Empfänger</b> gleich zu Beginn direkt an.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-brief-011",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "auswahl",
+      "frage": "Wie heißt die Person, an die der Brief geht?",
+      "antwort": "Adressat",
+      "falsch": [
+        "Absender",
+        "Briefkasten",
+        "Grußformel"
+      ],
+      "erklaerung": "Der <b>Adressat</b> (oder Empfänger) ist die Person, die deinen Brief bekommt.",
+      "quelle": "Scan 4 S. 2 (Deutschheft, Tabelle Adressat/Anrede)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-brief-012",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "tor",
+      "frage": "Was kommt zuerst?",
+      "antwort": "Anrede",
+      "falsch": [
+        "Grußformel"
+      ],
+      "erklaerung": "Erst die <b>Anrede</b>, die Grußformel steht am Ende.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-brief-013",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "tor",
+      "frage": "Was kommt zuletzt?",
+      "antwort": "Unterschrift",
+      "falsch": [
+        "Anrede",
+        "Ort und Datum"
+      ],
+      "erklaerung": "Ganz am Schluss steht die <b>Unterschrift</b>.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-brief-014",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "auswahl",
+      "frage": "Welcher Satz passt in einen förmlichen Brief an Herrn Dr. Dr. Griesgram?",
+      "antwort": "Bitte denken Sie noch einmal über Ihr Vorhaben nach.",
+      "falsch": [
+        "Bitte schimpfen unterlassen.",
+        "Ihr blödes Vorhaben nervt.",
+        "Hi, was geht?"
+      ],
+      "erklaerung": "Im förmlichen Brief bleibst du <b>höflich</b>, auch wenn du anderer Meinung bist.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-brief-015",
+      "fach": "deutsch",
+      "thema": "Brief: Aufbau",
+      "typ": "auswahl",
+      "frage": "Briefende an Lisa: \"Ich finde deinen Vorschlag nicht gut, da\" Schluss. Hinweis aus der Schreibkonferenz: \"Brief nicht fertig.\" Was fehlt?",
+      "antwort": "Die Begründung nach \"da\"",
+      "falsch": [
+        "Das Datum",
+        "Die Anrede",
+        "Der Ort"
+      ],
+      "erklaerung": "Nach \"Ich finde deinen Vorschlag nicht gut, <b>da</b> ...\" muss noch die Begründung kommen. Danach Grußformel und Name.",
+      "quelle": "Scan 4 S. 7 (Deutschheft 29.9.26, Begründungshand und Brief an Lisa)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-001",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "auswahl",
+      "frage": "Du schreibst Herrn Dr. Dr. Griesgram. Welche Anrede passt?",
+      "antwort": "Sehr geehrter Herr Dr. Dr. Griesgram,",
+      "falsch": [
+        "Hi Griesgram,",
+        "Hallo Griesi,",
+        "Na, Herr Griesgram,"
+      ],
+      "erklaerung": "Wen du siezt, sprichst du förmlich an: <b>Sehr geehrter Herr ...</b>",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-002",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "auswahl",
+      "frage": "Du schreibst deiner Freundin Lisa. Welche Anrede passt?",
+      "antwort": "Hallo Lisa,",
+      "falsch": [
+        "Sehr geehrte Lisa,",
+        "Hochachtungsvoll Lisa,",
+        "Mit freundlichen Grüßen Lisa,"
+      ],
+      "erklaerung": "Freunde sprichst du persönlich an: <b>Hallo</b> oder <b>Liebe</b> Lisa.",
+      "quelle": "Scan 4 S. 7 (Deutschheft 29.9.26, Begründungshand und Brief an Lisa)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-003",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "auswahl",
+      "frage": "Welche Grußformel passt zum Brief an Herrn Dr. Dr. Griesgram?",
+      "antwort": "Mit freundlichen Grüßen",
+      "falsch": [
+        "Bis bald",
+        "Hau rein",
+        "Tschüssi"
+      ],
+      "erklaerung": "Förmlich verabschiedest du dich mit <b>Mit freundlichen Grüßen</b> oder <b>Hochachtungsvoll</b>.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-004",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "auswahl",
+      "frage": "Welche Verabschiedung passt zu einem Brief an deinen besten Freund?",
+      "antwort": "Bis bald, dein ...",
+      "falsch": [
+        "Hochachtungsvoll",
+        "Mit freundlichen Grüßen, Ihr ...",
+        "Sehr geehrter ..."
+      ],
+      "erklaerung": "Bei Freunden und Verwandten darf es persönlich sein: <b>Bis bald, dein ...</b>",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-005",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "auswahl",
+      "frage": "Welche Anrede ist förmlich?",
+      "antwort": "Sehr geehrte Frau Greis,",
+      "falsch": [
+        "Hi Frau Greis,",
+        "Hallo Süße,",
+        "Hey du,"
+      ],
+      "erklaerung": "<b>Sehr geehrte/r</b> nimmst du für Personen, die du siezt.",
+      "quelle": "Scan 4 S. 2 (Deutschheft, Tabelle Adressat/Anrede)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-006",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "auswahl",
+      "frage": "Welche Anrede ist vertraut?",
+      "antwort": "Hi",
+      "falsch": [
+        "Sehr geehrte",
+        "Sehr geehrter",
+        "Hochachtungsvoll"
+      ],
+      "erklaerung": "<b>Hallo</b> und <b>Hi</b> nimmst du für Personen, die du gut kennst.",
+      "quelle": "Scan 4 S. 2 (Deutschheft, Tabelle Adressat/Anrede)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-007",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "auswahl",
+      "frage": "Sehr geehrt___ Herr Dr. Dr. Griesgram,",
+      "antwort": "er",
+      "falsch": [
+        "e",
+        "es",
+        "en"
+      ],
+      "erklaerung": "Beim Herrn heißt es <b>Sehr geehrter</b>, bei einer Frau <b>Sehr geehrte</b>.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-008",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "auswahl",
+      "frage": "Sehr geehrt___ Frau Greis,",
+      "antwort": "e",
+      "falsch": [
+        "er",
+        "es",
+        "en"
+      ],
+      "erklaerung": "Bei einer Frau heißt es <b>Sehr geehrte</b>, beim Herrn <b>Sehr geehrter</b>.",
+      "quelle": "Scan 4 S. 2 (Deutschheft, Tabelle Adressat/Anrede)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-009",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Mit freundlichen Grüßen",
+      "falsch": [
+        "Mit freundlichen grüßen",
+        "mit Freundlichen Grüßen",
+        "Mit Freundlichen grüßen"
+      ],
+      "erklaerung": "<b>Grüßen</b> ist ein Nomen und wird großgeschrieben, <b>freundlichen</b> klein.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "fehlerbild": "Mit freundlichen grüßen",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-010",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Sehr geehrter",
+      "falsch": [
+        "Sehr geehter",
+        "Sehr gehrter",
+        "Sehr geerter"
+      ],
+      "erklaerung": "In <b>geehrter</b> stecken \"ehren\" und ein <b>r</b>: ge-ehr-ter.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "fehlerbild": "Sehr geehter",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-011",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "tor",
+      "frage": "Brief an die Lehrerin: Anrede?",
+      "antwort": "Sehr geehrte",
+      "falsch": [
+        "Hi"
+      ],
+      "erklaerung": "Lehrerinnen und Lehrer siezt du, also förmlich: <b>Sehr geehrte</b> oder <b>Liebe Frau ...</b>",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-012",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "tor",
+      "frage": "Brief an Verwandte: Anrede?",
+      "antwort": "Liebe/r",
+      "falsch": [
+        "Sehr geehrte/r"
+      ],
+      "erklaerung": "Verwandte sprichst du persönlich an: <b>Liebe/r</b> oder <b>Hallo</b>.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-013",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "tor",
+      "frage": "Hochachtungsvoll ist ...",
+      "antwort": "förmlich",
+      "falsch": [
+        "vertraut"
+      ],
+      "erklaerung": "<b>Hochachtungsvoll</b> ist eine sehr förmliche Grußformel, zum Beispiel an Herrn Dr. Dr. Griesgram.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-014",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "tor",
+      "frage": "Bis bald ist ...",
+      "antwort": "vertraut",
+      "falsch": [
+        "förmlich"
+      ],
+      "erklaerung": "<b>Bis bald</b> schreibst du Freunden und Verwandten.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-015",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "tor",
+      "frage": "Personen, die du siezt: Anrede?",
+      "antwort": "Sehr geehrte/r",
+      "falsch": [
+        "Hi"
+      ],
+      "erklaerung": "Wen du siezt, sprichst du förmlich an: <b>Sehr geehrte/r</b>.",
+      "quelle": "Scan 4 S. 2 (Deutschheft, Tabelle Adressat/Anrede)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-016",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "auswahl",
+      "frage": "Welche Grußformel ist sehr förmlich?",
+      "antwort": "Hochachtungsvoll",
+      "falsch": [
+        "Bis bald",
+        "Tschüss",
+        "Hau rein"
+      ],
+      "erklaerung": "<b>Hochachtungsvoll</b> passt zu einem sehr förmlichen Brief.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-gruss-017",
+      "fach": "deutsch",
+      "thema": "Brief: Anrede und Grußformel",
+      "typ": "buchstaben",
+      "frage": "Wie heißt der Gruß am Briefende? Grußf...",
+      "antwort": "Grußformel",
+      "falsch": [],
+      "erklaerung": "Mit <b>F</b> wie Form: <b>Grußformel</b>.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "fehlerbild": "Grußvormel",
+      "vorgriff": false
+    },
+    {
+      "id": "de-anrede-001",
+      "fach": "deutsch",
+      "thema": "Brief: Anredepronomen",
+      "typ": "auswahl",
+      "frage": "Sehr geehrter Herr Dr. Dr. Griesgram, ich habe erfahren, dass ___ Klassenfahrten abschaffen wollen.",
+      "antwort": "Sie",
+      "falsch": [
+        "sie",
+        "du",
+        "ihr"
+      ],
+      "erklaerung": "Im förmlichen Brief schreibst du die Anrede <b>Sie</b> groß.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-anrede-002",
+      "fach": "deutsch",
+      "thema": "Brief: Anredepronomen",
+      "typ": "auswahl",
+      "frage": "Bitte denken Sie noch einmal über ___ Vorhaben nach.",
+      "antwort": "Ihr",
+      "falsch": [
+        "ihr",
+        "dein",
+        "sein"
+      ],
+      "erklaerung": "Gemeint ist das Vorhaben der Person, die du siezt: <b>Ihr</b> groß.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 1,
+      "fehlerbild": "ihr Vorhaben klein im förmlichen Brief",
+      "vorgriff": false
+    },
+    {
+      "id": "de-anrede-003",
+      "fach": "deutsch",
+      "thema": "Brief: Anredepronomen",
+      "typ": "auswahl",
+      "frage": "Brief an Herrn Dr. Dr. Griesgram: Ich schlage vor, dass wir uns treffen und ___ Vorhaben bei einer Tasse Tee besprechen.",
+      "antwort": "Ihr",
+      "falsch": [
+        "ihr",
+        "Ihnen",
+        "Sie"
+      ],
+      "erklaerung": "Dein Brief geht an Herrn Dr. Dr. Griesgram, den du siezt. Also <b>Ihr</b> Vorhaben, groß.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 2,
+      "fehlerbild": "ihr Vorhaben klein im förmlichen Brief",
+      "vorgriff": false
+    },
+    {
+      "id": "de-anrede-004",
+      "fach": "deutsch",
+      "thema": "Brief: Anredepronomen",
+      "typ": "auswahl",
+      "frage": "Liebe Frau Greis, ich danke ___ für Ihre Hilfe.",
+      "antwort": "Ihnen",
+      "falsch": [
+        "ihnen",
+        "Ihr",
+        "dir"
+      ],
+      "erklaerung": "Du siezt Frau Greis, also wird <b>Ihnen</b> großgeschrieben.",
+      "quelle": "Scan 4 S. 2 (Deutschheft 11.9.26, Deutschbuch S. 21 und 22)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-anrede-005",
+      "fach": "deutsch",
+      "thema": "Brief: Anredepronomen",
+      "typ": "auswahl",
+      "frage": "Hallo Lisa, ich finde ___ Vorschlag nicht gut.",
+      "antwort": "deinen",
+      "falsch": [
+        "Ihren",
+        "Ihnen",
+        "seinen"
+      ],
+      "erklaerung": "Lisa duzt du, also <b>deinen</b>. Im Brief an jemanden, den du duzt, darfst du dein klein oder groß schreiben.",
+      "quelle": "Scan 4 S. 7 (Deutschheft 29.9.26, Begründungshand und Brief an Lisa)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-anrede-006",
+      "fach": "deutsch",
+      "thema": "Brief: Anredepronomen",
+      "typ": "auswahl",
+      "frage": "Wann schreibst du Sie, Ihnen, Ihr groß?",
+      "antwort": "Wenn ich jemanden sieze",
+      "falsch": [
+        "Am Satzende",
+        "Wenn ich jemanden duze",
+        "Nur in der Überschrift"
+      ],
+      "erklaerung": "Tipp aus deinem Heft: Wenn ich jemanden <b>sieze</b>, schreibe ich die Anredepronomen groß.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-anrede-007",
+      "fach": "deutsch",
+      "thema": "Brief: Anredepronomen",
+      "typ": "auswahl",
+      "frage": "Lisa möchte, dass die 5. und 6. Klassen nicht mehr ins Schülercafé dürfen. Ich finde, ___ hat nicht recht.",
+      "antwort": "sie",
+      "falsch": [
+        "Sie",
+        "Ihr",
+        "Ihnen"
+      ],
+      "erklaerung": "Hier sprichst du <b>über</b> Lisa, nicht mit ihr. Dann bleibt <b>sie</b> klein.",
+      "quelle": "Scan 4 S. 2 (Deutschheft 11.9.26, Deutschbuch S. 21 und 22)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "de-anrede-008",
+      "fach": "deutsch",
+      "thema": "Brief: Anredepronomen",
+      "typ": "auswahl",
+      "frage": "Wie heißen Sie, Ihnen, Ihr mit Fachwort?",
+      "antwort": "Anredepronomen",
+      "falsch": [
+        "Grußformeln",
+        "Begründungen",
+        "Adressaten"
+      ],
+      "erklaerung": "Wörter, mit denen du jemanden im Brief ansprichst, heißen <b>Anredepronomen</b> (Anredewörter).",
+      "quelle": "Scan 4 S. 2 (Deutschheft 11.9.26, Deutschbuch S. 21 und 22)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-anrede-009",
+      "fach": "deutsch",
+      "thema": "Brief: Anredepronomen",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Anredewörter",
+      "falsch": [
+        "Anredewöter",
+        "Anredewörtter",
+        "Anrede Wörter"
+      ],
+      "erklaerung": "In <b>Wörter</b> steckt ein <b>r</b> vor dem t: Wör-ter.",
+      "quelle": "Scan 4 S. 2 (Deutschheft 11.9.26, Deutschbuch S. 21 und 22)",
+      "stufe": 1,
+      "fehlerbild": "Anredewöter",
+      "vorgriff": false
+    },
+    {
+      "id": "de-anrede-010",
+      "fach": "deutsch",
+      "thema": "Brief: Anredepronomen",
+      "typ": "tor",
+      "frage": "Brief an Herrn Griesgram: Ich finde, ___ haben recht.",
+      "antwort": "Sie",
+      "falsch": [
+        "sie"
+      ],
+      "erklaerung": "Herrn Griesgram siezt du. Dann schreibst du <b>Sie</b> groß, auch mitten im Satz.",
+      "quelle": "Scan 4 S. 2 (Deutschheft 11.9.26, Deutschbuch S. 21 und 22)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-anrede-011",
+      "fach": "deutsch",
+      "thema": "Brief: Anredepronomen",
+      "typ": "tor",
+      "frage": "Brief an Frau Greis: Ich danke ___.",
+      "antwort": "Ihnen",
+      "falsch": [
+        "ihnen"
+      ],
+      "erklaerung": "Frau Greis wird gesiezt: <b>Ihnen</b> groß.",
+      "quelle": "Scan 4 S. 2 (Deutschheft 11.9.26, Deutschbuch S. 21 und 22)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-anrede-012",
+      "fach": "deutsch",
+      "thema": "Brief: Anredepronomen",
+      "typ": "tor",
+      "frage": "Brief an Lisa: Danke für ___ Brief!",
+      "antwort": "deinen",
+      "falsch": [
+        "Ihren"
+      ],
+      "erklaerung": "Lisa duzt du, also <b>deinen</b> (im Brief geht auch groß: Deinen). Ihren passt nur, wenn du jemanden siezt.",
+      "quelle": "Scan 4 S. 7 (Deutschheft 29.9.26, Begründungshand und Brief an Lisa)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-anrede-013",
+      "fach": "deutsch",
+      "thema": "Brief: Anredepronomen",
+      "typ": "tor",
+      "frage": "Siezen: Anredepronomen ...",
+      "antwort": "groß",
+      "falsch": [
+        "klein"
+      ],
+      "erklaerung": "Beim Siezen schreibst du <b>Sie, Ihnen, Ihr</b> groß.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-anrede-014",
+      "fach": "deutsch",
+      "thema": "Brief: Anredepronomen",
+      "typ": "tor",
+      "frage": "Über Lisa: Ich mag ___.",
+      "antwort": "sie",
+      "falsch": [
+        "Sie"
+      ],
+      "erklaerung": "Du redest <b>über</b> Lisa, nicht mit ihr: <b>sie</b> klein.",
+      "quelle": "Scan 4 S. 2 (Deutschheft 11.9.26, Deutschbuch S. 21 und 22)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-001",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "tor",
+      "frage": "\"Gruppentische haben auch Nachteile.\"",
+      "antwort": "Meinung",
+      "falsch": [
+        "Begründung"
+      ],
+      "erklaerung": "Das ist die <b>Meinung</b>. Die Begründung sagt warum: Nicht alle können gut zur Tafel sehen.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 22.9.26, Deutschbuch S. 64 Nr. 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-002",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "tor",
+      "frage": "\"Nicht alle können gut auf die Tafel sehen.\"",
+      "antwort": "Begründung",
+      "falsch": [
+        "Meinung"
+      ],
+      "erklaerung": "Das erklärt, <b>warum</b> Gruppentische Nachteile haben. Also eine <b>Begründung</b>.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 22.9.26, Deutschbuch S. 64 Nr. 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-003",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "tor",
+      "frage": "\"Klassenfahrten sollen bleiben!\"",
+      "antwort": "Meinung",
+      "falsch": [
+        "Begründung"
+      ],
+      "erklaerung": "Das ist die <b>Meinung</b>. Auf der Begründungshand steht sie in der Handfläche.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 25.9.26, Begründungshand)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-004",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "tor",
+      "frage": "\"Man lernt sich besser kennen.\"",
+      "antwort": "Begründung",
+      "falsch": [
+        "Meinung"
+      ],
+      "erklaerung": "Das sagt, <b>warum</b> Klassenfahrten gut sind: eine <b>Begründung</b>.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 25.9.26, Begründungshand)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-005",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "tor",
+      "frage": "\"Tische in U-Form stellen!\"",
+      "antwort": "Meinung",
+      "falsch": [
+        "Begründung"
+      ],
+      "erklaerung": "Das ist der Vorschlag, also die <b>Meinung</b>. Die Begründung: so können alle alles sehen.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 22.9.26, Deutschbuch S. 64 Nr. 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-006",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "tor",
+      "frage": "Begründungshand: In der Handfläche steht ...",
+      "antwort": "die Meinung",
+      "falsch": [
+        "ein Beispiel"
+      ],
+      "erklaerung": "In die Handfläche kommt die <b>Meinung</b>, in die Finger die Begründungen.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 25.9.26, Begründungshand)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-007",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "tor",
+      "frage": "Begründungshand: In den Fingern stehen ...",
+      "antwort": "Begründungen",
+      "falsch": [
+        "Grußformeln"
+      ],
+      "erklaerung": "Jeder Finger trägt eine <b>Begründung</b> für deine Meinung.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 25.9.26, Begründungshand)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-008",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "auswahl",
+      "frage": "Mit welchem Satzanfang sagst du deine Meinung?",
+      "antwort": "Ich bin der Meinung, dass ...",
+      "falsch": [
+        "Mit freundlichen Grüßen ...",
+        "Sehr geehrter ...",
+        "Es war einmal ..."
+      ],
+      "erklaerung": "Deine Meinung leitest du zum Beispiel ein mit <b>Ich bin der Meinung, dass</b> oder <b>Ich bin dafür, dass</b>.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 18.9.26, Deutschbuch S. 63 Nr. 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-009",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "auswahl",
+      "frage": "Wie leitest du eine zweite Begründung ein?",
+      "antwort": "Ein weiterer Grund ist, dass ...",
+      "falsch": [
+        "Sehr geehrte ...",
+        "Hochachtungsvoll ...",
+        "Es war einmal ..."
+      ],
+      "erklaerung": "Mit <b>Außerdem</b> oder <b>Ein weiterer Grund ist, dass</b> hängst du die nächste Begründung an.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 27.9.26, Arbeitsheft S. 20)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-010",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "auswahl",
+      "frage": "\"Auf Klassenfahrten lernt man etwas, zum Beispiel Teamarbeit.\" Was ist \"Teamarbeit\" hier?",
+      "antwort": "ein Beispiel",
+      "falsch": [
+        "die Grußformel",
+        "die Anrede",
+        "das Datum"
+      ],
+      "erklaerung": "Mit <b>zum Beispiel</b> machst du deine Begründung anschaulich.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-011",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "auswahl",
+      "frage": "Wie viele Begründungen sollte ein Argumentationsbrief mindestens haben?",
+      "antwort": "2 Begründungen",
+      "falsch": [
+        "keine Begründung",
+        "nur die Meinung",
+        "nur die Unterschrift"
+      ],
+      "erklaerung": "Ein Argumentationsbrief wird stark mit <b>mindestens zwei Begründungen</b>.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-012",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "auswahl",
+      "frage": "Welche Begründung ist am überzeugendsten?",
+      "antwort": "Man lernt dort Teamarbeit.",
+      "falsch": [
+        "Sind halt cool.",
+        "Weil ich es sage.",
+        "Ist mir egal."
+      ],
+      "erklaerung": "Eine gute Begründung erklärt einen <b>echten Grund</b>, zum Beispiel was man dabei lernt.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 25.9.26, Begründungshand)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-013",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "auswahl",
+      "frage": "Herr Dr. Dr. Griesgram: \"Durch Klassenfahrten fällt der Unterricht aus.\" Was ist das?",
+      "antwort": "ein Argument dagegen",
+      "falsch": [
+        "eine Grußformel",
+        "eine Anrede",
+        "ein Argument dafür"
+      ],
+      "erklaerung": "Herr Dr. Dr. Griesgram ist <b>gegen</b> Klassenfahrten, das ist eines seiner Argumente.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 66 Nr. 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-014",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "auswahl",
+      "frage": "Welches Argument hat Herr Dr. Dr. Griesgram gegen Klassenfahrten?",
+      "antwort": "Es kann Unfälle geben.",
+      "falsch": [
+        "Man lernt Teamarbeit.",
+        "Man lernt sich kennen.",
+        "Man lernt reiten."
+      ],
+      "erklaerung": "Seine drei Argumente: Unterricht fällt aus, es geht nur um Spaß, es kann <b>Unfälle</b> geben.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 66 Nr. 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-015",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "auswahl",
+      "frage": "Griesgram: \"Auf Klassenfahrten kann es Unfälle geben.\" Welche Antwort entkräftet das?",
+      "antwort": "Verletzen kann man sich auf dem Schulhof genauso.",
+      "falsch": [
+        "Das ist mir egal.",
+        "Sie sind blöd.",
+        "Klassenfahrten sind halt cool."
+      ],
+      "erklaerung": "Ein gutes Gegenargument geht <b>auf das Argument ein</b>: Auf dem Schulhof kann man sich genauso verletzen.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "de-meinung-016",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Meinung und Begründung",
+      "typ": "auswahl",
+      "frage": "Griesgram: \"Auf Klassenfahrten geht es nur um Spaß.\" Welche Antwort entkräftet das?",
+      "antwort": "Man kann dort etwas lernen, zum Beispiel Teamarbeit.",
+      "falsch": [
+        "Spaß ist mir egal.",
+        "Bitte schimpfen unterlassen.",
+        "Das finde ich blöd."
+      ],
+      "erklaerung": "Du zeigst, dass es <b>nicht nur</b> um Spaß geht, und nennst ein Beispiel.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "de-weil-001",
+      "fach": "deutsch",
+      "thema": "Argumentieren: weil, da, denn",
+      "typ": "auswahl",
+      "frage": "Eine Lesenacht fände ich gut, ___ wir könnten uns dabei besser kennenlernen.",
+      "antwort": "denn",
+      "falsch": [
+        "weil",
+        "da",
+        "dass"
+      ],
+      "erklaerung": "Nach <b>denn</b> steht das Verb an zweiter Stelle: \"denn wir <b>könnten</b> ...\". Bei weil und da rutscht es ans Ende.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-weil-002",
+      "fach": "deutsch",
+      "thema": "Argumentieren: weil, da, denn",
+      "typ": "auswahl",
+      "frage": "Eine Fahrradtour würde mir gefallen, ___ wir dabei den ganzen Tag draußen sind.",
+      "antwort": "weil",
+      "falsch": [
+        "denn",
+        "aber",
+        "und"
+      ],
+      "erklaerung": "Bei <b>weil</b> steht das Verb am Ende: \"weil wir ... draußen <b>sind</b>\".",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-weil-003",
+      "fach": "deutsch",
+      "thema": "Argumentieren: weil, da, denn",
+      "typ": "auswahl",
+      "frage": "Ich würde gern den Aqua-Zoo besuchen, ___ das gut zum Biologieunterricht passt.",
+      "antwort": "da",
+      "falsch": [
+        "denn",
+        "aber",
+        "und"
+      ],
+      "erklaerung": "Bei <b>da</b> steht das Verb am Ende, genau wie bei weil: \"da das gut ... <b>passt</b>\".",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-weil-004",
+      "fach": "deutsch",
+      "thema": "Argumentieren: weil, da, denn",
+      "typ": "auswahl",
+      "frage": "Welcher Satz ist richtig gebaut?",
+      "antwort": "Ich mag Klassenfahrten, weil sie Spaß machen.",
+      "falsch": [
+        "Ich mag Klassenfahrten, weil sie machen Spaß.",
+        "Ich mag Klassenfahrten, denn sie Spaß machen.",
+        "Ich mag Klassenfahrten weil, sie Spaß machen."
+      ],
+      "erklaerung": "Nach <b>weil</b> wandert das Verb ans Ende: \"weil sie Spaß <b>machen</b>\". Das Komma steht vor weil.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "de-weil-005",
+      "fach": "deutsch",
+      "thema": "Argumentieren: weil, da, denn",
+      "typ": "auswahl",
+      "frage": "Welcher Satz ist richtig gebaut?",
+      "antwort": "Ich bin für Gruppentische, denn wir lernen uns kennen.",
+      "falsch": [
+        "Ich bin für Gruppentische, denn wir uns kennen lernen.",
+        "Ich bin für Gruppentische, weil wir lernen uns kennen.",
+        "Ich bin für Gruppentische denn, wir lernen uns kennen."
+      ],
+      "erklaerung": "Nach <b>denn</b> geht der Satz ganz normal weiter: \"denn wir <b>lernen</b> uns kennen\".",
+      "quelle": "Scan 4 S. 3 (Deutschheft 18.9.26, Deutschbuch S. 63 Nr. 2)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "de-weil-006",
+      "fach": "deutsch",
+      "thema": "Argumentieren: weil, da, denn",
+      "typ": "auswahl",
+      "frage": "Wo steht das Verb nach \"weil\"?",
+      "antwort": "am Ende",
+      "falsch": [
+        "ganz vorne",
+        "gleich nach weil",
+        "es fällt weg"
+      ],
+      "erklaerung": "\"..., weil man dann bei seinen Freunden sitzen <b>kann</b>.\" Das Verb kommt <b>ans Ende</b>.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 18.9.26, Deutschbuch S. 63 Nr. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-weil-007",
+      "fach": "deutsch",
+      "thema": "Argumentieren: weil, da, denn",
+      "typ": "auswahl",
+      "frage": "Wo steht das Verb nach \"denn\"?",
+      "antwort": "an zweiter Stelle",
+      "falsch": [
+        "am Ende",
+        "ganz vorne",
+        "es fällt weg"
+      ],
+      "erklaerung": "\"..., denn wir <b>könnten</b> uns besser kennenlernen.\" Nach denn steht das Verb an <b>zweiter</b> Stelle.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "de-weil-008",
+      "fach": "deutsch",
+      "thema": "Argumentieren: weil, da, denn",
+      "typ": "auswahl",
+      "frage": "Wo kommt das Komma hin?",
+      "antwort": "Ich bin für Gruppentische, da man sich kennenlernt.",
+      "falsch": [
+        "Ich bin für Gruppentische da, man sich kennenlernt.",
+        "Ich bin, für Gruppentische da man sich kennenlernt.",
+        "Ich bin für Gruppentische da man sich, kennenlernt."
+      ],
+      "erklaerung": "Das Komma steht <b>vor</b> weil, da und denn.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 18.9.26, Deutschbuch S. 63 Nr. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-weil-009",
+      "fach": "deutsch",
+      "thema": "Argumentieren: weil, da, denn",
+      "typ": "auswahl",
+      "frage": "Mit welchen Wörtern kannst du eine Begründung anhängen?",
+      "antwort": "weil, da, denn",
+      "falsch": [
+        "und, oder, aber",
+        "der, die, das",
+        "Sie, Ihnen, Ihr"
+      ],
+      "erklaerung": "Begründungen leitest du mit <b>weil</b>, <b>da</b> oder <b>denn</b> ein.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-weil-010",
+      "fach": "deutsch",
+      "thema": "Argumentieren: weil, da, denn",
+      "typ": "tor",
+      "frage": "..., ___ wir könnten uns kennenlernen.",
+      "antwort": "denn",
+      "falsch": [
+        "weil"
+      ],
+      "erklaerung": "Verb an zweiter Stelle (\"wir <b>könnten</b>\"), also <b>denn</b>.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-weil-011",
+      "fach": "deutsch",
+      "thema": "Argumentieren: weil, da, denn",
+      "typ": "tor",
+      "frage": "..., ___ dort Löwen geboren sind.",
+      "antwort": "weil",
+      "falsch": [
+        "denn"
+      ],
+      "erklaerung": "Verb am Ende (\"geboren <b>sind</b>\"), also <b>weil</b>.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-weil-012",
+      "fach": "deutsch",
+      "thema": "Argumentieren: weil, da, denn",
+      "typ": "tor",
+      "frage": "..., ___ das gut zum Unterricht passt.",
+      "antwort": "da",
+      "falsch": [
+        "denn"
+      ],
+      "erklaerung": "Verb am Ende (\"<b>passt</b>\"), also <b>da</b>.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-weil-013",
+      "fach": "deutsch",
+      "thema": "Argumentieren: weil, da, denn",
+      "typ": "tor",
+      "frage": "weil mitten im Satz: Komma davor?",
+      "antwort": "ja",
+      "falsch": [
+        "nein"
+      ],
+      "erklaerung": "Steht <b>weil</b> mitten im Satz, kommt davor ein Komma.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-weil-014",
+      "fach": "deutsch",
+      "thema": "Argumentieren: weil, da, denn",
+      "typ": "auswahl",
+      "frage": "Ein Ausflug in den Zoo wäre interessant, ___ dort gerade viele Löwen geboren worden sind.",
+      "antwort": "weil",
+      "falsch": [
+        "denn",
+        "aber",
+        "und"
+      ],
+      "erklaerung": "Das Verb steht am Ende (\"worden <b>sind</b>\"), das passt zu <b>weil</b>.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-pro-001",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Pro und Kontra",
+      "typ": "tor",
+      "frage": "Pro heißt ...",
+      "antwort": "dafür",
+      "falsch": [
+        "dagegen"
+      ],
+      "erklaerung": "<b>Pro</b> = dafür, <b>Kontra</b> = dagegen.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-pro-002",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Pro und Kontra",
+      "typ": "tor",
+      "frage": "Kontra heißt ...",
+      "antwort": "dagegen",
+      "falsch": [
+        "dafür"
+      ],
+      "erklaerung": "<b>Kontra</b> = dagegen, <b>Pro</b> = dafür.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-pro-003",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Pro und Kontra",
+      "typ": "tor",
+      "frage": "Geschenk an Bedürftige abgeben? \"Es ist einfach herzensgut.\"",
+      "antwort": "Pro",
+      "falsch": [
+        "Kontra"
+      ],
+      "erklaerung": "Das spricht <b>dafür</b>, ein Geschenk abzugeben: Pro.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-pro-004",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Pro und Kontra",
+      "typ": "tor",
+      "frage": "Einmal pro Woche jemandem helfen? \"Man lernt sich besser kennen.\"",
+      "antwort": "Pro",
+      "falsch": [
+        "Kontra"
+      ],
+      "erklaerung": "Das spricht <b>dafür</b>: Pro.",
+      "quelle": "Scan 4 S. 9 (Deutschheft 13.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-pro-005",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Pro und Kontra",
+      "typ": "tor",
+      "frage": "Klassenfahrten verbieten? \"Es kann Unfälle geben.\"",
+      "antwort": "dafür",
+      "falsch": [
+        "dagegen"
+      ],
+      "erklaerung": "Wer Unfälle fürchtet, ist <b>für</b> das Verbot. Die Frage ist \"verbieten?\".",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 66 Nr. 2)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "de-pro-006",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Pro und Kontra",
+      "typ": "tor",
+      "frage": "Klassenfahrten verbieten? \"Man lernt Teamarbeit.\"",
+      "antwort": "dagegen",
+      "falsch": [
+        "dafür"
+      ],
+      "erklaerung": "Das spricht <b>gegen</b> das Verbot, denn Klassenfahrten bringen etwas.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 3,
+      "vorgriff": false
+    },
+    {
+      "id": "de-pro-007",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Pro und Kontra",
+      "typ": "tor",
+      "frage": "Café nur ohne 5er und 6er? \"Die Kleinen sind zu laut.\"",
+      "antwort": "dafür",
+      "falsch": [
+        "dagegen"
+      ],
+      "erklaerung": "Das ist Lisas Argument <b>für</b> ihren Vorschlag.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 29.9.26, Deutschbuch S. 76 Nr. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-pro-008",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Pro und Kontra",
+      "typ": "tor",
+      "frage": "Café nur ohne 5er und 6er? \"Die Oberstufe ist auch laut.\"",
+      "antwort": "dagegen",
+      "falsch": [
+        "dafür"
+      ],
+      "erklaerung": "Das spricht <b>gegen</b> Lisas Vorschlag.",
+      "quelle": "Scan 4 S. 7 (Deutschheft 29.9.26, Begründungshand und Brief an Lisa)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-pro-009",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Pro und Kontra",
+      "typ": "tor",
+      "frage": "Café nur ohne 5er und 6er? \"Das Café ist für alle gebaut.\"",
+      "antwort": "dagegen",
+      "falsch": [
+        "dafür"
+      ],
+      "erklaerung": "Wenn es für alle gebaut ist, spricht das <b>gegen</b> den Ausschluss.",
+      "quelle": "Scan 4 S. 7 (Deutschheft 29.9.26, Begründungshand und Brief an Lisa)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-pro-010",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Pro und Kontra",
+      "typ": "tor",
+      "frage": "Freie Platzwahl? \"Dann sitzt man bei Freunden.\"",
+      "antwort": "dafür",
+      "falsch": [
+        "dagegen"
+      ],
+      "erklaerung": "Das spricht <b>für</b> die freie Platzwahl.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 18.9.26, Deutschbuch S. 63 Nr. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-pro-011",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Pro und Kontra",
+      "typ": "tor",
+      "frage": "Gruppentische? \"Nicht alle sehen die Tafel.\"",
+      "antwort": "dagegen",
+      "falsch": [
+        "dafür"
+      ],
+      "erklaerung": "Das ist ein Nachteil, spricht also <b>gegen</b> Gruppentische.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 22.9.26, Deutschbuch S. 64 Nr. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-pro-012",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Pro und Kontra",
+      "typ": "auswahl",
+      "frage": "Lisas Vorschlag: Die 5. und 6. Klassen sollen nicht mehr ins Schülercafé. Ihre Begründung?",
+      "antwort": "Das Café ist ein Ort zum Entspannen.",
+      "falsch": [
+        "Das Café ist für alle gebaut.",
+        "Die Oberstufe ist auch laut.",
+        "Sie mag keinen Kakao."
+      ],
+      "erklaerung": "Lisa sagt: Das Café ist ein <b>Ort zum Entspannen</b>, und die Jüngeren machen zu viel Lärm.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 29.9.26, Deutschbuch S. 76 Nr. 2)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-pro-013",
+      "fach": "deutsch",
+      "thema": "Argumentieren: Pro und Kontra",
+      "typ": "auswahl",
+      "frage": "Wie heißt eine Tabelle mit Dafür und Dagegen?",
+      "antwort": "Pro und Kontra",
+      "falsch": [
+        "Anrede und Gruß",
+        "Ort und Datum",
+        "Steckbrief"
+      ],
+      "erklaerung": "Argumente dafür und dagegen sammelst du in einer <b>Pro-und-Kontra</b>-Tabelle.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-tier-001",
+      "fach": "deutsch",
+      "thema": "Tierbeschreibung und Steckbrief",
+      "typ": "auswahl",
+      "frage": "Steckbrief: Wohin gehört \"dunkelbraun, kurz, glatt, glänzend\"?",
+      "antwort": "Fell",
+      "falsch": [
+        "Ohren",
+        "Größe",
+        "Schnauze"
+      ],
+      "erklaerung": "Farbe, Länge und Glanz beschreiben das <b>Fell</b>.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Steckbrief)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-tier-002",
+      "fach": "deutsch",
+      "thema": "Tierbeschreibung und Steckbrief",
+      "typ": "auswahl",
+      "frage": "Steckbrief: Wohin gehört \"schlank, muskulös\"?",
+      "antwort": "Körperbau",
+      "falsch": [
+        "Fell",
+        "Augen",
+        "Ohren"
+      ],
+      "erklaerung": "Schlank oder muskulös sagt etwas über den <b>Körperbau</b>.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Steckbrief)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-tier-003",
+      "fach": "deutsch",
+      "thema": "Tierbeschreibung und Steckbrief",
+      "typ": "auswahl",
+      "frage": "Steckbrief: Wohin gehört \"1,10 Meter Schulterhöhe\"?",
+      "antwort": "Größe/Gewicht",
+      "falsch": [
+        "Fell",
+        "Augen",
+        "Besonderheiten"
+      ],
+      "erklaerung": "Maße in Metern gehören zu <b>Größe/Gewicht</b>.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Steckbrief)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-tier-004",
+      "fach": "deutsch",
+      "thema": "Tierbeschreibung und Steckbrief",
+      "typ": "auswahl",
+      "frage": "Steckbrief: Wohin gehört \"spitz zulaufend\"?",
+      "antwort": "Schnauze",
+      "falsch": [
+        "Fell",
+        "Größe/Gewicht",
+        "Augen"
+      ],
+      "erklaerung": "Eine <b>Schnauze</b> kann spitz zulaufen.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Steckbrief)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-tier-005",
+      "fach": "deutsch",
+      "thema": "Tierbeschreibung und Steckbrief",
+      "typ": "auswahl",
+      "frage": "Steckbrief: Wohin gehört \"Schlappohren, rund\"?",
+      "antwort": "Ohren",
+      "falsch": [
+        "Schnauze",
+        "Fell",
+        "Körperbau"
+      ],
+      "erklaerung": "Schlappohren sind eine Form der <b>Ohren</b>.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Steckbrief)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-tier-006",
+      "fach": "deutsch",
+      "thema": "Tierbeschreibung und Steckbrief",
+      "typ": "auswahl",
+      "frage": "Steckbrief: Wohin gehört \"breit, groß\"?",
+      "antwort": "Schädel",
+      "falsch": [
+        "Fell",
+        "Ohren",
+        "Augen"
+      ],
+      "erklaerung": "Im Steckbrief steht \"breit, groß\" beim <b>Schädel</b>.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Steckbrief)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-tier-007",
+      "fach": "deutsch",
+      "thema": "Tierbeschreibung und Steckbrief",
+      "typ": "auswahl",
+      "frage": "Steckbrief: Wohin gehört \"unglaubliche Größe des Tiers\"?",
+      "antwort": "Besonderheiten",
+      "falsch": [
+        "Fell",
+        "Augen",
+        "Ohren"
+      ],
+      "erklaerung": "Was ein Tier ganz besonders macht, kommt unter <b>Besonderheiten</b>.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Steckbrief)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-tier-008",
+      "fach": "deutsch",
+      "thema": "Tierbeschreibung und Steckbrief",
+      "typ": "auswahl",
+      "frage": "Welche Angabe passt am besten in einen Steckbrief?",
+      "antwort": "Schulterhöhe: 1,10 Meter",
+      "falsch": [
+        "Der Hund ist mega cool.",
+        "Ich mag den Hund.",
+        "Der Hund ist so groß wie ein Haus."
+      ],
+      "erklaerung": "Ein Steckbrief nennt <b>genaue</b> Angaben, zum Beispiel Maße in Metern.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Steckbrief)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-tier-009",
+      "fach": "deutsch",
+      "thema": "Tierbeschreibung und Steckbrief",
+      "typ": "auswahl",
+      "frage": "Wie beschreibst du die Größe eines Tiers am genauesten?",
+      "antwort": "mit Zentimetern oder Metern",
+      "falsch": [
+        "mit einem Witz",
+        "mit der Grußformel",
+        "gar nicht"
+      ],
+      "erklaerung": "Zum Beispiel: <b>18 cm lang</b> oder <b>1,10 Meter</b> Schulterhöhe.",
+      "quelle": "Scan 4 S. 10 (Deutschheft, Tierbeschreibung Hamster)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-tier-010",
+      "fach": "deutsch",
+      "thema": "Tierbeschreibung und Steckbrief",
+      "typ": "auswahl",
+      "frage": "Die Beschreibung des Grüffelo: Er hat feurige ___.",
+      "antwort": "Augen",
+      "falsch": [
+        "Tatzen",
+        "Stacheln",
+        "Hauer"
+      ],
+      "erklaerung": "Er hat <b>feurige Augen</b>, eine giftige Warze und grässliche Tatzen.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 8.10.26, Tierbeschreibungen)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-tier-011",
+      "fach": "deutsch",
+      "thema": "Tierbeschreibung und Steckbrief",
+      "typ": "auswahl",
+      "frage": "Die Beschreibung des Grüffelo: Er hat eine giftige ___.",
+      "antwort": "Warze",
+      "falsch": [
+        "Augen",
+        "Tatze",
+        "Knie"
+      ],
+      "erklaerung": "Der Grüffelo hat eine <b>giftige Warze</b>.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 8.10.26, Tierbeschreibungen)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-tier-012",
+      "fach": "deutsch",
+      "thema": "Tierbeschreibung und Steckbrief",
+      "typ": "auswahl",
+      "frage": "Wie schreibst du die Farbe richtig? Das Fell hat ___ Tupfen.",
+      "antwort": "grau-weiße",
+      "falsch": [
+        "Grau - weiße",
+        "Grau-Weiße",
+        "grau weise"
+      ],
+      "erklaerung": "Zwei Farben werden mit Bindestrich verbunden und <b>kleingeschrieben</b>: grau-weiße.",
+      "quelle": "Scan 4 S. 10 (Deutschheft, Tierbeschreibung Hamster)",
+      "stufe": 2,
+      "fehlerbild": "Grau - weißen",
+      "vorgriff": false
+    },
+    {
+      "id": "de-tier-013",
+      "fach": "deutsch",
+      "thema": "Tierbeschreibung und Steckbrief",
+      "typ": "auswahl",
+      "frage": "Ihr Fell ist ___.",
+      "antwort": "schwarz",
+      "falsch": [
+        "Schwarz",
+        "schwartz",
+        "schwaz"
+      ],
+      "erklaerung": "Eine Farbe nach \"ist\" ist ein Adjektiv und wird <b>klein</b>geschrieben.",
+      "quelle": "Scan 4 S. 10 (Deutschheft, Tierbeschreibung Hamster)",
+      "stufe": 1,
+      "fehlerbild": "Fell ist Schwarz",
+      "vorgriff": false
+    },
+    {
+      "id": "de-such-001",
+      "fach": "deutsch",
+      "thema": "Suchanzeige",
+      "typ": "auswahl",
+      "frage": "Was gehört in eine Suchanzeige für ein Tier?",
+      "antwort": "Kontaktdaten",
+      "falsch": [
+        "Dein Stundenplan",
+        "Ein Witz",
+        "Das Wetter von gestern"
+      ],
+      "erklaerung": "Wer das Tier findet, muss dich erreichen: <b>Kontaktdaten</b> wie Telefonnummer oder E-Mail.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Suchanzeige)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-such-002",
+      "fach": "deutsch",
+      "thema": "Suchanzeige",
+      "typ": "auswahl",
+      "frage": "Was gehört in eine Suchanzeige für ein Tier?",
+      "antwort": "Wo das Tier zuletzt gesehen wurde",
+      "falsch": [
+        "Was es zu Mittag gab",
+        "Dein Lieblingsfach",
+        "Die Hausaufgaben"
+      ],
+      "erklaerung": "Der <b>Ort, wo das Tier zuletzt gesehen wurde</b>, hilft beim Suchen.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Suchanzeige)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-such-003",
+      "fach": "deutsch",
+      "thema": "Suchanzeige",
+      "typ": "auswahl",
+      "frage": "Was gehört in eine Suchanzeige für ein Tier?",
+      "antwort": "Ein Foto",
+      "falsch": [
+        "Ein Comic",
+        "Ein Gedicht",
+        "Ein Rezept"
+      ],
+      "erklaerung": "Mit einem <b>Foto</b> erkennen andere das Tier sofort.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Suchanzeige)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-such-004",
+      "fach": "deutsch",
+      "thema": "Suchanzeige",
+      "typ": "auswahl",
+      "frage": "Was kann man in einer Suchanzeige noch versprechen?",
+      "antwort": "Finderlohn",
+      "falsch": [
+        "Hausaufgaben",
+        "Nachsitzen",
+        "Sitzordnung"
+      ],
+      "erklaerung": "Eventuell gibt es einen <b>Finderlohn</b>: eine Belohnung für den, der das Tier findet.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Suchanzeige)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-such-005",
+      "fach": "deutsch",
+      "thema": "Suchanzeige",
+      "typ": "auswahl",
+      "frage": "Was ist ein Finderlohn?",
+      "antwort": "Eine Belohnung für den Finder",
+      "falsch": [
+        "Eine Strafe",
+        "Ein Hundename",
+        "Eine Grußformel"
+      ],
+      "erklaerung": "Der <b>Finderlohn</b> ist eine Belohnung für die Person, die das Tier zurückbringt.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Suchanzeige)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-such-006",
+      "fach": "deutsch",
+      "thema": "Suchanzeige",
+      "typ": "auswahl",
+      "frage": "Welche sind Kontaktdaten?",
+      "antwort": "Telefonnummer und E-Mail",
+      "falsch": [
+        "Fellfarbe und Ohren",
+        "Ort und Datum",
+        "Anrede und Gruß"
+      ],
+      "erklaerung": "<b>Telefonnummer</b> und <b>E-Mail</b> sind Kontaktdaten.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Suchanzeige)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-such-007",
+      "fach": "deutsch",
+      "thema": "Suchanzeige",
+      "typ": "auswahl",
+      "frage": "Was braucht eine Suchanzeige außer Kontaktdaten, Ort und Foto?",
+      "antwort": "Eine genaue Beschreibung des Tieres",
+      "falsch": [
+        "Eine Pro-und-Kontra-Tabelle",
+        "Eine Grußformel",
+        "Ein Gedicht"
+      ],
+      "erklaerung": "Grundlage ist die <b>genaue Beschreibung des Tieres</b>, dazu kommen die weiteren Angaben.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Suchanzeige)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-such-008",
+      "fach": "deutsch",
+      "thema": "Suchanzeige",
+      "typ": "tor",
+      "frage": "Foto in die Suchanzeige?",
+      "antwort": "ja",
+      "falsch": [
+        "nein"
+      ],
+      "erklaerung": "Ein <b>Foto</b> gehört rein, damit man das Tier erkennt.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Suchanzeige)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-such-009",
+      "fach": "deutsch",
+      "thema": "Suchanzeige",
+      "typ": "tor",
+      "frage": "Telefonnummer in die Suchanzeige?",
+      "antwort": "ja",
+      "falsch": [
+        "nein"
+      ],
+      "erklaerung": "Ja, als <b>Kontaktdaten</b>, damit der Finder sich melden kann.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Suchanzeige)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-such-010",
+      "fach": "deutsch",
+      "thema": "Suchanzeige",
+      "typ": "tor",
+      "frage": "Dein Lieblingsessen in die Suchanzeige?",
+      "antwort": "nein",
+      "falsch": [
+        "ja"
+      ],
+      "erklaerung": "Das hilft beim Finden nicht. Rein gehören <b>Beschreibung, Kontaktdaten, Ort, Foto</b>.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Suchanzeige)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-such-011",
+      "fach": "deutsch",
+      "thema": "Suchanzeige",
+      "typ": "tor",
+      "frage": "Ort, wo das Tier zuletzt war?",
+      "antwort": "ja",
+      "falsch": [
+        "nein"
+      ],
+      "erklaerung": "Der <b>Ort, wo es zuletzt gesehen wurde</b>, gehört in die Suchanzeige.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Suchanzeige)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "de-such-012",
+      "fach": "deutsch",
+      "thema": "Suchanzeige",
+      "typ": "buchstaben",
+      "frage": "Wie heißt die Anzeige für ein verlorenes Tier? S...",
+      "antwort": "Suchanzeige",
+      "falsch": [],
+      "erklaerung": "<b>Such-an-zeige</b>: drei Teile, am Ende \"zeige\".",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Suchanzeige)",
+      "stufe": 1,
+      "fehlerbild": "Suchanze",
+      "vorgriff": false
+    },
+    {
+      "id": "de-man-001",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: man oder Mann",
+      "typ": "auswahl",
+      "frage": "Personen, die ___ siezt, redet man förmlich an.",
+      "antwort": "man",
+      "falsch": [
+        "Mann",
+        "mann",
+        "Man"
+      ],
+      "erklaerung": "<b>man</b> heißt \"irgendwer\" und hat nur ein n. <b>Mann</b> mit nn ist ein Herr.",
+      "quelle": "Scan 4 S. 2 (Deutschheft, Tabelle Adressat/Anrede)",
+      "stufe": 1,
+      "fehlerbild": "mann statt man",
+      "vorgriff": false
+    },
+    {
+      "id": "de-man-002",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: man oder Mann",
+      "typ": "auswahl",
+      "frage": "Liebe/r schreibt man einer Person, die ___ gut kennt.",
+      "antwort": "man",
+      "falsch": [
+        "Mann",
+        "mann",
+        "Man"
+      ],
+      "erklaerung": "<b>man</b> = irgendwer, ein n. Der <b>Mann</b> ist ein Herr.",
+      "quelle": "Scan 4 S. 2 (Deutschheft, Tabelle Adressat/Anrede)",
+      "stufe": 1,
+      "fehlerbild": "mann statt man",
+      "vorgriff": false
+    },
+    {
+      "id": "de-man-003",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: man oder Mann",
+      "typ": "auswahl",
+      "frage": "___ braucht Spaß in der Schule.",
+      "antwort": "Man",
+      "falsch": [
+        "Mann",
+        "mann",
+        "man"
+      ],
+      "erklaerung": "Am Satzanfang groß, aber trotzdem nur ein n: <b>Man</b>.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 25.9.26, Begründungshand)",
+      "stufe": 1,
+      "fehlerbild": "mann statt man",
+      "vorgriff": false
+    },
+    {
+      "id": "de-man-004",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: man oder Mann",
+      "typ": "auswahl",
+      "frage": "___ muss auf die Umgebung achten.",
+      "antwort": "Man",
+      "falsch": [
+        "Mann",
+        "mann",
+        "man"
+      ],
+      "erklaerung": "Gemeint ist \"irgendwer\", also <b>Man</b> mit einem n. Groß nur, weil es am Satzanfang steht.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 8.10.26, Tierbeschreibungen)",
+      "stufe": 1,
+      "fehlerbild": "Mann statt Man",
+      "vorgriff": false
+    },
+    {
+      "id": "de-man-005",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: man oder Mann",
+      "typ": "auswahl",
+      "frage": "Es ist nett, wenn ___ so etwas tut.",
+      "antwort": "man",
+      "falsch": [
+        "Mann",
+        "mann",
+        "Man"
+      ],
+      "erklaerung": "<b>man</b> = irgendwer, ein n.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "fehlerbild": "mann statt man",
+      "vorgriff": false
+    },
+    {
+      "id": "de-man-006",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: man oder Mann",
+      "typ": "auswahl",
+      "frage": "Auf Klassenfahrten kann ___ etwas lernen.",
+      "antwort": "man",
+      "falsch": [
+        "Mann",
+        "mann",
+        "Man"
+      ],
+      "erklaerung": "Kein bestimmter Herr gemeint, also <b>man</b> mit einem n.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 1,
+      "fehlerbild": "mann statt man",
+      "vorgriff": false
+    },
+    {
+      "id": "de-man-007",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: man oder Mann",
+      "typ": "auswahl",
+      "frage": "Bei einer Suchanzeige muss ___ Kontaktdaten angeben.",
+      "antwort": "man",
+      "falsch": [
+        "Mann",
+        "mann",
+        "Man"
+      ],
+      "erklaerung": "<b>man</b> steht für \"jeder\", ein n.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Suchanzeige)",
+      "stufe": 1,
+      "fehlerbild": "mann statt man",
+      "vorgriff": false
+    },
+    {
+      "id": "de-man-008",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: man oder Mann",
+      "typ": "tor",
+      "frage": "Was kann ___ tun?",
+      "antwort": "man",
+      "falsch": [
+        "mann"
+      ],
+      "erklaerung": "<b>man</b> = irgendwer, nur ein n.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "fehlerbild": "mann statt man",
+      "vorgriff": false
+    },
+    {
+      "id": "de-man-009",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: man oder Mann",
+      "typ": "tor",
+      "frage": "Dort kann ___ sich verletzen.",
+      "antwort": "man",
+      "falsch": [
+        "Mann"
+      ],
+      "erklaerung": "<b>man</b> = irgendwer. Mit nn wäre es ein Herr.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 1,
+      "fehlerbild": "mann statt man",
+      "vorgriff": false
+    },
+    {
+      "id": "de-man-010",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: man oder Mann",
+      "typ": "tor",
+      "frage": "..., dass ___ dort nicht immer sitzen muss.",
+      "antwort": "man",
+      "falsch": [
+        "mann"
+      ],
+      "erklaerung": "<b>man</b> hat nur ein n.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 18.9.26, Deutschbuch S. 63 Nr. 2)",
+      "stufe": 1,
+      "fehlerbild": "mann statt man",
+      "vorgriff": false
+    },
+    {
+      "id": "de-man-011",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: man oder Mann",
+      "typ": "tor",
+      "frage": "___ kann sich kennenlernen.",
+      "antwort": "Man",
+      "falsch": [
+        "Mann"
+      ],
+      "erklaerung": "Satzanfang groß, aber nur ein n: <b>Man</b>.",
+      "quelle": "Scan 4 S. 9 (Deutschheft 13.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "fehlerbild": "Mann statt Man",
+      "vorgriff": false
+    },
+    {
+      "id": "de-komma-001",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: Komma",
+      "typ": "auswahl",
+      "frage": "Wo gehört das Komma hin?",
+      "antwort": "Lisa möchte, dass die 5er nicht mehr kommen.",
+      "falsch": [
+        "Lisa möchte dass, die 5er nicht mehr kommen.",
+        "Lisa, möchte dass die 5er nicht mehr kommen.",
+        "Lisa möchte dass die 5er, nicht mehr kommen."
+      ],
+      "erklaerung": "Das Komma steht <b>vor dass</b>.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 29.9.26, Deutschbuch S. 76 Nr. 2)",
+      "stufe": 2,
+      "fehlerbild": "Komma vor dass fehlt",
+      "vorgriff": false
+    },
+    {
+      "id": "de-komma-002",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: Komma",
+      "typ": "auswahl",
+      "frage": "Wo gehört das Komma hin?",
+      "antwort": "Ich schlage vor, dass wir uns treffen.",
+      "falsch": [
+        "Ich schlage vor dass, wir uns treffen.",
+        "Ich schlage, vor dass wir uns treffen.",
+        "Ich, schlage vor dass wir uns treffen."
+      ],
+      "erklaerung": "Vor <b>dass</b> steht ein Komma.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 2,
+      "fehlerbild": "Komma vor dass fehlt",
+      "vorgriff": false
+    },
+    {
+      "id": "de-komma-003",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: Komma",
+      "typ": "auswahl",
+      "frage": "Wo gehört das Komma hin?",
+      "antwort": "Wir sollten überlegen, wie wir den Raum verschönern.",
+      "falsch": [
+        "Wir sollten überlegen wie, wir den Raum verschönern.",
+        "Wir sollten, überlegen wie wir den Raum verschönern.",
+        "Wir sollten überlegen wie wir, den Raum verschönern."
+      ],
+      "erklaerung": "Vor <b>wie</b> steht hier ein Komma, weil ein neuer Satzteil beginnt.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 27.9.26, Arbeitsheft S. 20)",
+      "stufe": 2,
+      "fehlerbild": "Komma vor wie fehlt",
+      "vorgriff": false
+    },
+    {
+      "id": "de-komma-004",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: Komma",
+      "typ": "auswahl",
+      "frage": "Wo gehört das Komma hin?",
+      "antwort": "Es ist herzensgut, wenn man so etwas tut.",
+      "falsch": [
+        "Es ist herzensgut wenn, man so etwas tut.",
+        "Es ist, herzensgut wenn man so etwas tut.",
+        "Es ist herzensgut wenn man, so etwas tut."
+      ],
+      "erklaerung": "Vor <b>wenn</b> steht ein Komma.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 2,
+      "fehlerbild": "Komma vor wenn fehlt",
+      "vorgriff": false
+    },
+    {
+      "id": "de-komma-005",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: Komma",
+      "typ": "auswahl",
+      "frage": "Wo gehört das Komma hin?",
+      "antwort": "Er heißt George Giant, weil er so groß ist.",
+      "falsch": [
+        "Er heißt George Giant weil, er so groß ist.",
+        "Er heißt, George Giant weil er so groß ist.",
+        "Er heißt George, Giant weil er so groß ist."
+      ],
+      "erklaerung": "Vor <b>weil</b> steht ein Komma.",
+      "quelle": "Scan 4 S. 9 (Deutschheft 13.10.26, Pro und Kontra)",
+      "stufe": 2,
+      "fehlerbild": "Komma vor weil fehlt",
+      "vorgriff": false
+    },
+    {
+      "id": "de-komma-006",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: Komma",
+      "typ": "auswahl",
+      "frage": "Wo gehört das Komma hin?",
+      "antwort": "Sie ist nicht oft im Laufrad, aber sie klettert gern.",
+      "falsch": [
+        "Sie ist nicht oft im Laufrad aber, sie klettert gern.",
+        "Sie ist, nicht oft im Laufrad aber sie klettert gern.",
+        "Sie ist nicht oft, im Laufrad aber sie klettert gern."
+      ],
+      "erklaerung": "Vor <b>aber</b> steht ein Komma.",
+      "quelle": "Scan 4 S. 10 (Deutschheft, Tierbeschreibung Hamster)",
+      "stufe": 2,
+      "fehlerbild": "Komma vor aber fehlt",
+      "vorgriff": false
+    },
+    {
+      "id": "de-komma-007",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: Komma",
+      "typ": "auswahl",
+      "frage": "Wo gehört das Komma hin?",
+      "antwort": "Es gibt einen Hund, der hat lange Beine.",
+      "falsch": [
+        "Es gibt einen Hund der, hat lange Beine.",
+        "Es gibt, einen Hund der hat lange Beine.",
+        "Es gibt einen, Hund der hat lange Beine."
+      ],
+      "erklaerung": "Vor <b>der</b> steht hier ein Komma, weil ein neuer Satzteil über den Hund beginnt.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 8.10.26, Tierbeschreibungen)",
+      "stufe": 3,
+      "fehlerbild": "Komma vor der fehlt",
+      "vorgriff": false
+    },
+    {
+      "id": "de-komma-008",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: Komma",
+      "typ": "auswahl",
+      "frage": "Wo gehört das Komma hin?",
+      "antwort": "Ich sammle Ideen, worüber ich schreibe.",
+      "falsch": [
+        "Ich sammle Ideen worüber, ich schreibe.",
+        "Ich sammle, Ideen worüber ich schreibe.",
+        "Ich, sammle Ideen worüber ich schreibe."
+      ],
+      "erklaerung": "Vor <b>worüber</b> steht ein Komma.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 3,
+      "fehlerbild": "Komma vor worüber fehlt",
+      "vorgriff": false
+    },
+    {
+      "id": "de-komma-009",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: Komma",
+      "typ": "tor",
+      "frage": "dass mitten im Satz: Komma davor?",
+      "antwort": "ja",
+      "falsch": [
+        "nein"
+      ],
+      "erklaerung": "Steht <b>dass</b> mitten im Satz, kommt davor ein Komma.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 29.9.26, Deutschbuch S. 76 Nr. 2)",
+      "stufe": 1,
+      "fehlerbild": "Komma vor dass fehlt",
+      "vorgriff": false
+    },
+    {
+      "id": "de-komma-010",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: Komma",
+      "typ": "tor",
+      "frage": "Komma vor wenn?",
+      "antwort": "ja",
+      "falsch": [
+        "nein"
+      ],
+      "erklaerung": "Vor <b>wenn</b> steht ein Komma, wenn ein Satz davor steht.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "fehlerbild": "Komma vor wenn fehlt",
+      "vorgriff": false
+    },
+    {
+      "id": "de-komma-011",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: Komma",
+      "typ": "tor",
+      "frage": "Ich schlage vor___ dass ...",
+      "antwort": "Komma",
+      "falsch": [
+        "kein Komma"
+      ],
+      "erklaerung": "Vor <b>dass</b> kommt ein Komma.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 1,
+      "fehlerbild": "Komma vor dass fehlt",
+      "vorgriff": false
+    },
+    {
+      "id": "de-komma-012",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: Komma",
+      "typ": "tor",
+      "frage": "Ich hoffe___ meine Idee klappt.",
+      "antwort": "Komma",
+      "falsch": [
+        "kein Komma"
+      ],
+      "erklaerung": "Nach \"Ich hoffe\" beginnt ein neuer Satzteil, also <b>Komma</b>. So steht es auch in den Briefen in deinem Heft.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 27.9.26, Arbeitsheft S. 20)",
+      "stufe": 2,
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-001",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Klasse",
+      "falsch": [
+        "Klase",
+        "Klaße",
+        "Klasee"
+      ],
+      "erklaerung": "Nach dem kurzen a hörst du ein scharfes s: <b>Klasse</b> mit ss.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 1,
+      "fehlerbild": "Klase",
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-002",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "bisschen",
+      "falsch": [
+        "bischen",
+        "bißchen",
+        "bisschenn"
+      ],
+      "erklaerung": "Kurzes i, danach <b>ss</b>: ein bi<b>ss</b>chen.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 8.10.26, Tierbeschreibungen)",
+      "stufe": 1,
+      "fehlerbild": "bischen",
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-003",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Kilogramm",
+      "falsch": [
+        "Kilogram",
+        "Killogramm",
+        "Kilogrham"
+      ],
+      "erklaerung": "<b>Gramm</b> endet auf mm, also auch Kilo<b>gramm</b>.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Steckbrief)",
+      "stufe": 1,
+      "fehlerbild": "Kilogram",
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-004",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "sollte",
+      "falsch": [
+        "solte",
+        "sollthe",
+        "sohlte"
+      ],
+      "erklaerung": "Kurzes o, danach <b>ll</b>: so<b>ll</b>te, wie \"sollen\".",
+      "quelle": "Scan 4 S. 1 (Deutschheft 8.9.26)",
+      "stufe": 1,
+      "fehlerbild": "solte",
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-005",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Adressat",
+      "falsch": [
+        "Adresat",
+        "Addresat",
+        "Adrressat"
+      ],
+      "erklaerung": "Wie die <b>Adresse</b>: ein d, zwei s. Adre<b>ss</b>at.",
+      "quelle": "Scan 4 S. 2 (Deutschheft, Tabelle Adressat/Anrede)",
+      "stufe": 1,
+      "fehlerbild": "Adresat",
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-006",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Hallo",
+      "falsch": [
+        "Halo",
+        "Hallow",
+        "Haloh"
+      ],
+      "erklaerung": "Kurzes a, danach <b>ll</b>: Ha<b>ll</b>o.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "fehlerbild": "Halo",
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-007",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Beginn",
+      "falsch": [
+        "Begin",
+        "Beggin",
+        "Biginn"
+      ],
+      "erklaerung": "Wie \"beginnen\": am Ende <b>nn</b>. Zu Begi<b>nn</b>.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "fehlerbild": "Begin",
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-008",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Unterrichtsbeginn",
+      "falsch": [
+        "Unterichtsbeginn",
+        "Unterrichtsbegin",
+        "Unterichts beginn"
+      ],
+      "erklaerung": "Unter + <b>Richt</b> + s + Beginn: Unte<b>rr</b>ichtsbegi<b>nn</b>.",
+      "quelle": "Scan 4 S. 2 (Deutschheft 11.9.26, Deutschbuch S. 21 und 22)",
+      "stufe": 2,
+      "fehlerbild": "Unterichts beginn",
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-009",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Herrchen",
+      "falsch": [
+        "Herchen",
+        "Hertchen",
+        "Herrschen"
+      ],
+      "erklaerung": "Von <b>Herr</b>: He<b>rr</b>chen.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 8.10.26, Tierbeschreibungen)",
+      "stufe": 2,
+      "fehlerbild": "Herchen",
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-010",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Schülerinnen",
+      "falsch": [
+        "Schülerrinnen",
+        "Schülerinen",
+        "Schühlerinnen"
+      ],
+      "erklaerung": "Schüler + <b>innen</b>: nur ein r, aber nn.",
+      "quelle": "Scan 4 S. 9 (Deutschheft 13.10.26, Pro und Kontra)",
+      "stufe": 2,
+      "fehlerbild": "Schülerrinnen",
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-011",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Parallelklasse",
+      "falsch": [
+        "Parrallel Klasse",
+        "Parralelklasse",
+        "Paralel Klasse"
+      ],
+      "erklaerung": "Pa-ra-<b>ll</b>el: ein r, dann ll. Mit Klasse wird es <b>ein</b> Wort.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 3,
+      "fehlerbild": "Parrallel Klasse",
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-012",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "hat",
+      "falsch": [
+        "hatt",
+        "hadt",
+        "haat"
+      ],
+      "erklaerung": "<b>hat</b> hat nur ein t, auch wenn es kurz klingt.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 8.10.26, Tierbeschreibungen)",
+      "stufe": 1,
+      "fehlerbild": "hatt",
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-013",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "buchstaben",
+      "frage": "Leg das Wort: Die 5A ist meine ___.",
+      "antwort": "Klasse",
+      "falsch": [],
+      "erklaerung": "Kurzes a, dann <b>ss</b>: Kla<b>ss</b>e.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 1,
+      "fehlerbild": "Klase",
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-014",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "buchstaben",
+      "frage": "Leg das Wort: ein ___ übertrieben",
+      "antwort": "bisschen",
+      "falsch": [],
+      "erklaerung": "Bi<b>ss</b>chen mit ss.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 8.10.26, Tierbeschreibungen)",
+      "stufe": 1,
+      "fehlerbild": "bischen",
+      "vorgriff": false
+    },
+    {
+      "id": "de-doppel-015",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: doppelte Mitlaute",
+      "typ": "buchstaben",
+      "frage": "Leg das Wort: 111 ___",
+      "antwort": "Kilogramm",
+      "falsch": [],
+      "erklaerung": "Kilo<b>gramm</b> mit mm am Ende.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Steckbrief)",
+      "stufe": 1,
+      "fehlerbild": "Kilogram",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-001",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Argumente",
+      "falsch": [
+        "Agumente",
+        "Argumende",
+        "Arguhmente"
+      ],
+      "erklaerung": "Ar-gu-men-te: Sprich langsam, dann hörst du das <b>r</b>.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "fehlerbild": "Agumente",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-002",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Argumentieren",
+      "falsch": [
+        "Agumentieren",
+        "Argumentiren",
+        "Argumentihren"
+      ],
+      "erklaerung": "Ar-gu-men-tie-ren: <b>r</b> am Anfang, <b>ie</b> am Ende.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 18.9.26, Deutschbuch S. 63 Nr. 2)",
+      "stufe": 2,
+      "fehlerbild": "Agumentieren",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-003",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Jugendliche",
+      "falsch": [
+        "Jugentliche",
+        "Jugendlische",
+        "Juhgendliche"
+      ],
+      "erklaerung": "Von <b>Jugend</b> mit d: Jugen<b>d</b>liche.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "fehlerbild": "Jugentliche",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-004",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "neugierig",
+      "falsch": [
+        "neugirig",
+        "neugihrig",
+        "neugierich"
+      ],
+      "erklaerung": "Von <b>Gier</b> mit ie: neu-<b>gie</b>-rig.",
+      "quelle": "Scan 4 S. 10 (Deutschheft, Tierbeschreibung Hamster)",
+      "stufe": 1,
+      "fehlerbild": "neugirig",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-005",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Der Hamster ___ sich wohl.",
+      "antwort": "fühlt",
+      "falsch": [
+        "fült",
+        "fühlld",
+        "fühld"
+      ],
+      "erklaerung": "<b>fühlen</b> hat ein Dehnungs-h, also auch \"sie <b>fühlt</b> sich wohl\".",
+      "quelle": "Scan 4 S. 10 (Deutschheft, Tierbeschreibung Hamster)",
+      "stufe": 1,
+      "fehlerbild": "fült",
+      "vorgriff": false,
+      "hinweis": "Welche Schreibung stimmt?"
+    },
+    {
+      "id": "de-wort-006",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "wohlfühlt",
+      "falsch": [
+        "wohlfült",
+        "wolfühlt",
+        "wohlfüllt"
+      ],
+      "erklaerung": "Zwei Dehnungs-h: <b>wohl</b> und <b>fühlt</b>.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 18.9.26, Deutschbuch S. 63 Nr. 2)",
+      "stufe": 2,
+      "fehlerbild": "wohlfült",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-007",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Es ___ schön, wenn alle ins Café dürfen.",
+      "antwort": "wäre",
+      "falsch": [
+        "währe",
+        "wehre",
+        "weere"
+      ],
+      "erklaerung": "<b>wäre</b> hat kein h: es wäre schön.",
+      "quelle": "Scan 4 S. 7 (Deutschheft 29.9.26, Begründungshand und Brief an Lisa)",
+      "stufe": 1,
+      "fehlerbild": "währe",
+      "vorgriff": false,
+      "hinweis": "Welche Schreibung stimmt?"
+    },
+    {
+      "id": "de-wort-008",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Weihnachtsgeschenk",
+      "falsch": [
+        "Weinachtsgeschenk",
+        "Weihnachtsgeschenck",
+        "Weinachsgeschenk"
+      ],
+      "erklaerung": "In <b>Weih</b>nachten steckt ein h: Wei<b>h</b>nachten.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 2,
+      "fehlerbild": "Weinachtsgeschenk",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-009",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Grußformel",
+      "falsch": [
+        "Grußvormel",
+        "Grusformel",
+        "Grußformell"
+      ],
+      "erklaerung": "Mit <b>F</b> wie Form: Gruß<b>f</b>ormel.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "fehlerbild": "Grußvormel",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-010",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "davon",
+      "falsch": [
+        "dafon",
+        "dawon",
+        "davonn"
+      ],
+      "erklaerung": "<b>da</b> + <b>von</b>, also mit v: davon.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "fehlerbild": "dafon",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-011",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Tupfen",
+      "falsch": [
+        "Tubfen",
+        "Tuppfen",
+        "Tupfn"
+      ],
+      "erklaerung": "Tu-<b>pf</b>en: wie \"tupfen\" mit einem Pinsel.",
+      "quelle": "Scan 4 S. 10 (Deutschheft, Tierbeschreibung Hamster)",
+      "stufe": 1,
+      "fehlerbild": "Tubfen",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-012",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "wirklich",
+      "falsch": [
+        "wöklich",
+        "wirklisch",
+        "wircklich"
+      ],
+      "erklaerung": "Wir-k-lich: mit <b>ir</b> wie in \"wir\".",
+      "quelle": "Scan 4 S. 8 (Deutschheft 8.10.26, Tierbeschreibungen)",
+      "stufe": 1,
+      "fehlerbild": "wöklich",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-013",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "überlegen",
+      "falsch": [
+        "übedegen",
+        "überlegn",
+        "übaregen"
+      ],
+      "erklaerung": "über + legen: <b>über</b>-<b>legen</b>.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 27.9.26, Arbeitsheft S. 20)",
+      "stufe": 1,
+      "fehlerbild": "übedegen",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-014",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "worüber",
+      "falsch": [
+        "woüber",
+        "woarüber",
+        "wohrüber"
+      ],
+      "erklaerung": "Zwischen wo und über steht ein <b>r</b>: wo-<b>r</b>-über.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 13.9.26, Deutschbuch S. 25 Nr. 1)",
+      "stufe": 1,
+      "fehlerbild": "woüber",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-015",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Klassenfahrt",
+      "falsch": [
+        "Klassenfaht",
+        "Klassenfart",
+        "Klasenfahrt"
+      ],
+      "erklaerung": "Fahrt kommt von <b>fahren</b>: f-a-h-r-t.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 1,
+      "fehlerbild": "Klassenfaht",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-016",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Nachbarn",
+      "falsch": [
+        "Nachbern",
+        "Nachbaren",
+        "Nachpern"
+      ],
+      "erklaerung": "Der Nach<b>bar</b>, die Nach<b>barn</b>: mit a.",
+      "quelle": "Scan 4 S. 1 (Deutschheft 8.9.26)",
+      "stufe": 1,
+      "fehlerbild": "Nachbern",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-017",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "muskulös",
+      "falsch": [
+        "muskelös",
+        "muskulöß",
+        "muskolös"
+      ],
+      "erklaerung": "Von <b>Muskulatur</b>: musk<b>u</b>lös.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Steckbrief)",
+      "stufe": 2,
+      "fehlerbild": "muskelös",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-018",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "mikroskopisch",
+      "falsch": [
+        "microskopisch",
+        "mikroskobisch",
+        "mickroskopisch"
+      ],
+      "erklaerung": "Im Deutschen mit <b>k</b>: Mikroskop, mikroskopisch.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 8.10.26, Tierbeschreibungen)",
+      "stufe": 3,
+      "fehlerbild": "microskopisch",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-019",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "sonst",
+      "falsch": [
+        "sons",
+        "sonnst",
+        "sohnst"
+      ],
+      "erklaerung": "<b>sonst</b> endet auf st.",
+      "quelle": "Scan 4 S. 7 (Deutschheft 29.9.26, Begründungshand und Brief an Lisa)",
+      "stufe": 1,
+      "fehlerbild": "sons",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-020",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "buchstaben",
+      "frage": "Leg das Wort: Pro- und Kontra-___",
+      "antwort": "Argumente",
+      "falsch": [],
+      "erklaerung": "A-<b>r</b>-gu-men-te.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "fehlerbild": "Agumente",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-021",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "buchstaben",
+      "frage": "Leg das Wort: Der Hamster ist ___.",
+      "antwort": "neugierig",
+      "falsch": [],
+      "erklaerung": "Neu-<b>gie</b>-rig mit ie.",
+      "quelle": "Scan 4 S. 10 (Deutschheft, Tierbeschreibung Hamster)",
+      "stufe": 1,
+      "fehlerbild": "neugirig",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-022",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "buchstaben",
+      "frage": "Leg das Wort: Kinder und ___",
+      "antwort": "Jugendliche",
+      "falsch": [],
+      "erklaerung": "Von Jugen<b>d</b>: Jugendliche.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "fehlerbild": "Jugentliche",
+      "vorgriff": false
+    },
+    {
+      "id": "de-wort-023",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: knifflige Wörter",
+      "typ": "buchstaben",
+      "frage": "Leg das Wort: Sie ___ sich wohl.",
+      "antwort": "fühlt",
+      "falsch": [],
+      "erklaerung": "fü<b>h</b>lt mit Dehnungs-h.",
+      "quelle": "Scan 4 S. 10 (Deutschheft, Tierbeschreibung Hamster)",
+      "stufe": 1,
+      "fehlerbild": "fült",
+      "vorgriff": false
+    },
+    {
+      "id": "de-getrennt-001",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: getrennt oder zusammen",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Klassenraum",
+      "falsch": [
+        "Klassen raum",
+        "Klassen Raum",
+        "Klasenraum"
+      ],
+      "erklaerung": "Aus Klassen + Raum wird <b>ein</b> Wort: Klassenraum.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 27.9.26, Arbeitsheft S. 20)",
+      "stufe": 1,
+      "fehlerbild": "Klassen raum",
+      "vorgriff": false
+    },
+    {
+      "id": "de-getrennt-002",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: getrennt oder zusammen",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "grammweise",
+      "falsch": [
+        "gram weise",
+        "gramm weise",
+        "Grammweise"
+      ],
+      "erklaerung": "Das ist <b>ein</b> Wort, klein, mit mm: grammweise.",
+      "quelle": "Scan 4 S. 10 (Deutschheft, Tierbeschreibung Hamster)",
+      "stufe": 2,
+      "fehlerbild": "gram weise",
+      "vorgriff": false
+    },
+    {
+      "id": "de-getrennt-003",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: getrennt oder zusammen",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "vor allem",
+      "falsch": [
+        "vorallem",
+        "vorAllem",
+        "vor Allem"
+      ],
+      "erklaerung": "<b>vor allem</b> sind zwei Wörter, beide klein.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 2,
+      "fehlerbild": "vorallem",
+      "vorgriff": false
+    },
+    {
+      "id": "de-getrennt-004",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: getrennt oder zusammen",
+      "typ": "auswahl",
+      "frage": "Ich komme mit, ___, ob es regnet.",
+      "antwort": "je nachdem",
+      "falsch": [
+        "jenachdem",
+        "je nach dem",
+        "Je Nachdem"
+      ],
+      "erklaerung": "<b>je nachdem</b>: zwei Wörter.",
+      "quelle": "Scan 4 S. 10 (Deutschheft, Tierbeschreibung Hamster)",
+      "stufe": 2,
+      "fehlerbild": "jenachdem",
+      "vorgriff": false,
+      "hinweis": "Welche Schreibung stimmt?"
+    },
+    {
+      "id": "de-getrennt-005",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: getrennt oder zusammen",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "irgendein",
+      "falsch": [
+        "irgend ein",
+        "irgent ein",
+        "Irgend-ein"
+      ],
+      "erklaerung": "<b>irgendein</b> schreibst du zusammen.",
+      "quelle": "Scan 4 S. 2 (Deutschheft 11.9.26, Deutschbuch S. 21 und 22)",
+      "stufe": 2,
+      "fehlerbild": "irgend ein",
+      "vorgriff": false
+    },
+    {
+      "id": "de-getrennt-006",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: getrennt oder zusammen",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Arbeitsheft",
+      "falsch": [
+        "Arbeits heft",
+        "Arbeits Heft",
+        "arbeitsheft"
+      ],
+      "erklaerung": "Arbeit + s + Heft = <b>ein</b> Wort: Arbeitsheft.",
+      "quelle": "Scan 4 S. 1 (Deutschheft 8.9.26)",
+      "stufe": 1,
+      "fehlerbild": "Arbeits heft",
+      "vorgriff": false
+    },
+    {
+      "id": "de-getrennt-007",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: getrennt oder zusammen",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Teamarbeit",
+      "falsch": [
+        "Team arbeit",
+        "Team Arbeit",
+        "teamarbeit"
+      ],
+      "erklaerung": "Team + Arbeit = <b>ein</b> Nomen: Teamarbeit.",
+      "quelle": "Scan 4 S. 3 (Deutschheft 18.9.26, Deutschbuch S. 63 Nr. 2)",
+      "stufe": 1,
+      "fehlerbild": "Team arbeit",
+      "vorgriff": false
+    },
+    {
+      "id": "de-getrennt-008",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: getrennt oder zusammen",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "in den Zoo",
+      "falsch": [
+        "inden Zoo",
+        "in denZoo",
+        "inden zoo"
+      ],
+      "erklaerung": "<b>in</b> und <b>den</b> sind zwei Wörter.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 1,
+      "fehlerbild": "inden Zoo",
+      "vorgriff": false
+    },
+    {
+      "id": "de-getrennt-009",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: getrennt oder zusammen",
+      "typ": "auswahl",
+      "frage": "Welche Schreibung stimmt?",
+      "antwort": "Schülercafé",
+      "falsch": [
+        "Schüler Café",
+        "Schüler café",
+        "schülercafé"
+      ],
+      "erklaerung": "Schüler + Café = <b>ein</b> Wort: Schülercafé.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 29.9.26, Deutschbuch S. 76 Nr. 2)",
+      "stufe": 2,
+      "fehlerbild": "Schüler Café",
+      "vorgriff": false
+    },
+    {
+      "id": "de-getrennt-010",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: getrennt oder zusammen",
+      "typ": "auswahl",
+      "frage": "Ich kann gut ___.",
+      "antwort": "zuhören",
+      "falsch": [
+        "zu hören",
+        "zuhöhren",
+        "zu-hören"
+      ],
+      "erklaerung": "Nach \"kann\" steht das Verb ohne zu: Ich kann gut <b>zuhören</b>. Zuhören ist ein Wort.",
+      "quelle": "Scan 4 S. 1 (Deutschheft 8.9.26)",
+      "stufe": 2,
+      "fehlerbild": "zu hören",
+      "vorgriff": false,
+      "hinweis": "Welche Schreibung stimmt?"
+    },
+    {
+      "id": "de-getrennt-011",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: getrennt oder zusammen",
+      "typ": "tor",
+      "frage": "Klassen + Raum",
+      "antwort": "Klassenraum",
+      "falsch": [
+        "Klassen raum"
+      ],
+      "erklaerung": "Zusammengesetzte Nomen schreibst du <b>zusammen</b>.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 27.9.26, Arbeitsheft S. 20)",
+      "stufe": 1,
+      "fehlerbild": "Klassen raum",
+      "vorgriff": false
+    },
+    {
+      "id": "de-getrennt-012",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: getrennt oder zusammen",
+      "typ": "tor",
+      "frage": "Welche Schreibung?",
+      "antwort": "vor allem",
+      "falsch": [
+        "vorallem"
+      ],
+      "erklaerung": "<b>vor allem</b> sind zwei Wörter.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 6.10.26, Pro und Kontra)",
+      "stufe": 1,
+      "fehlerbild": "vorallem",
+      "vorgriff": false
+    },
+    {
+      "id": "de-getrennt-013",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: getrennt oder zusammen",
+      "typ": "tor",
+      "frage": "Ich komme mit, ___, ob es regnet.",
+      "antwort": "je nachdem",
+      "falsch": [
+        "jenachdem"
+      ],
+      "erklaerung": "<b>je nachdem</b> sind zwei Wörter.",
+      "quelle": "Scan 4 S. 10 (Deutschheft, Tierbeschreibung Hamster)",
+      "stufe": 1,
+      "fehlerbild": "jenachdem",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gross-001",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: groß oder klein",
+      "typ": "auswahl",
+      "frage": "Wir sind dabei den ___ Tag draußen.",
+      "antwort": "ganzen",
+      "falsch": [
+        "Ganzen",
+        "ganzzen",
+        "Gansen"
+      ],
+      "erklaerung": "<b>ganzen</b> beschreibt den Tag, es ist kein Nomen. Also klein.",
+      "quelle": "Scan 4 S. 4 (Deutschheft 22.9.26, Deutschbuch S. 65 Nr. 2)",
+      "stufe": 1,
+      "fehlerbild": "den Ganzen Tag",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gross-002",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: groß oder klein",
+      "typ": "auswahl",
+      "frage": "Das Café ist ein Ort zum ___.",
+      "antwort": "Entspannen",
+      "falsch": [
+        "entspannen",
+        "Endspannen",
+        "entspanen"
+      ],
+      "erklaerung": "Nach <b>zum</b> (zu dem) wird ein Verb zum Nomen: zum <b>E</b>ntspannen.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 29.9.26, Deutschbuch S. 76 Nr. 2)",
+      "stufe": 2,
+      "fehlerbild": "zum entspannen",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gross-003",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: groß oder klein",
+      "typ": "auswahl",
+      "frage": "Die Kinder machen viel zu viel ___.",
+      "antwort": "Lärm",
+      "falsch": [
+        "lärm",
+        "Lerm",
+        "lerm"
+      ],
+      "erklaerung": "<b>der Lärm</b> ist ein Nomen, also groß.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 29.9.26, Deutschbuch S. 76 Nr. 2)",
+      "stufe": 1,
+      "fehlerbild": "lärm",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gross-004",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: groß oder klein",
+      "typ": "auswahl",
+      "frage": "Klassenfahrten sind eine schöne ___.",
+      "antwort": "Abwechslung",
+      "falsch": [
+        "abwechslung",
+        "Abwexlung",
+        "Abwechselung"
+      ],
+      "erklaerung": "<b>die Abwechslung</b> ist ein Nomen, also groß.",
+      "quelle": "Scan 4 S. 5 (Deutschheft 24.9.26, Deutschbuch S. 68 Nr. 6)",
+      "stufe": 1,
+      "fehlerbild": "abwechslung",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gross-005",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: groß oder klein",
+      "typ": "auswahl",
+      "frage": "Sein Herrchen ist im ___ zu seinem Hund klein.",
+      "antwort": "Gegensatz",
+      "falsch": [
+        "gegensatz",
+        "Gegensaz",
+        "gegen Satz"
+      ],
+      "erklaerung": "<b>der Gegensatz</b> ist ein Nomen: groß.",
+      "quelle": "Scan 4 S. 8 (Deutschheft 8.10.26, Tierbeschreibungen)",
+      "stufe": 2,
+      "fehlerbild": "gegensatz",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gross-006",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: groß oder klein",
+      "typ": "auswahl",
+      "frage": "Giant heißt auf ___: Riese.",
+      "antwort": "Deutsch",
+      "falsch": [
+        "deutsch",
+        "Deutch",
+        "deutch"
+      ],
+      "erklaerung": "Nach <b>auf</b> ist die Sprache ein Nomen: auf <b>D</b>eutsch.",
+      "quelle": "Scan 4 S. 9 (Deutschheft 13.10.26, Pro und Kontra)",
+      "stufe": 2,
+      "fehlerbild": "auf deutsch",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gross-007",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: groß oder klein",
+      "typ": "auswahl",
+      "frage": "Länge: 2,20 ___",
+      "antwort": "Meter",
+      "falsch": [
+        "meter",
+        "Mether",
+        "Metter"
+      ],
+      "erklaerung": "<b>der Meter</b> ist ein Nomen, also groß.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Steckbrief)",
+      "stufe": 1,
+      "fehlerbild": "meter",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gross-008",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: groß oder klein",
+      "typ": "auswahl",
+      "frage": "Der Hund hat ___.",
+      "antwort": "Schlappohren",
+      "falsch": [
+        "schlappohren",
+        "Schlapohren",
+        "Schlapp Ohren"
+      ],
+      "erklaerung": "<b>die Schlappohren</b>: ein Nomen, groß und zusammen.",
+      "quelle": "Scan 4 S. 9 (Deutschheft, Steckbrief)",
+      "stufe": 1,
+      "fehlerbild": "schlappohren",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gross-009",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: groß oder klein",
+      "typ": "auswahl",
+      "frage": "Außerdem ___ sie Kürbiskerne.",
+      "antwort": "liebt",
+      "falsch": [
+        "Liebt",
+        "lieb",
+        "libt"
+      ],
+      "erklaerung": "Hier ist <b>liebt</b> ein Verb mitten im Satz, also klein.",
+      "quelle": "Scan 4 S. 10 (Deutschheft, Tierbeschreibung Hamster)",
+      "stufe": 1,
+      "fehlerbild": "Liebt mitten im Satz",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gross-010",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: groß oder klein",
+      "typ": "auswahl",
+      "frage": "Das Café wäre sonst nicht ___ worden.",
+      "antwort": "gebaut",
+      "falsch": [
+        "Gebaut",
+        "gebaud",
+        "gebaudt"
+      ],
+      "erklaerung": "<b>gebaut</b> ist ein Verb, also klein.",
+      "quelle": "Scan 4 S. 7 (Deutschheft 29.9.26, Begründungshand und Brief an Lisa)",
+      "stufe": 1,
+      "fehlerbild": "Gebaut",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gross-011",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: groß oder klein",
+      "typ": "tor",
+      "frage": "der ___ (laut sein)",
+      "antwort": "Lärm",
+      "falsch": [
+        "lärm"
+      ],
+      "erklaerung": "Mit Artikel \"der\": ein Nomen, also <b>groß</b>.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 29.9.26, Deutschbuch S. 76 Nr. 2)",
+      "stufe": 1,
+      "fehlerbild": "lärm",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gross-012",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: groß oder klein",
+      "typ": "tor",
+      "frage": "zum ___ (sich ausruhen)",
+      "antwort": "Entspannen",
+      "falsch": [
+        "entspannen"
+      ],
+      "erklaerung": "Nach <b>zum</b> schreibst du das Verb groß.",
+      "quelle": "Scan 4 S. 6 (Deutschheft 29.9.26, Deutschbuch S. 76 Nr. 2)",
+      "stufe": 2,
+      "fehlerbild": "zum entspannen",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gross-013",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: groß oder klein",
+      "typ": "tor",
+      "frage": "Das Fell ist ___.",
+      "antwort": "schwarz",
+      "falsch": [
+        "Schwarz"
+      ],
+      "erklaerung": "Farben nach \"ist\" schreibst du <b>klein</b>.",
+      "quelle": "Scan 4 S. 10 (Deutschheft, Tierbeschreibung Hamster)",
+      "stufe": 1,
+      "fehlerbild": "Schwarz",
+      "vorgriff": false
+    },
+    {
+      "id": "de-gross-014",
+      "fach": "deutsch",
+      "thema": "Rechtschreibung: groß oder klein",
+      "typ": "tor",
+      "frage": "___ Überschrift fehlt noch.",
+      "antwort": "Die",
+      "falsch": [
+        "die"
+      ],
+      "erklaerung": "Am <b>Satzanfang</b> schreibst du groß: Die Überschrift ...",
+      "quelle": "Scan 4 S. 1 (Deutschheft 8.9.26)",
+      "stufe": 1,
+      "fehlerbild": "Satzanfang klein",
+      "vorgriff": false
+    }
+  ]
+}

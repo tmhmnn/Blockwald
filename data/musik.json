@@ -1,0 +1,205 @@
+{
+  "fach": "musik",
+  "stand": "2026-10-18",
+  "aufgaben": [
+    {
+      "id": "mu-schluessel-001",
+      "fach": "musik",
+      "thema": "Violinschlüssel",
+      "typ": "auswahl",
+      "frage": "Das Zeichen am Anfang der Notenzeile heißt ...",
+      "antwort": "Violinschlüssel",
+      "falsch": [
+        "Violinenschlüssel",
+        "Violinschüssel",
+        "Violinenschüssel"
+      ],
+      "erklaerung": "Ohne <b>-en</b> und mit <b>l</b>: <b>Violin</b> + <b>Schlüssel</b>. Wie ein Schlüssel für die Tür, nicht wie eine Schüssel zum Essen.",
+      "quelle": "Scan 5 S. 16 (Musikheft, Überschrift)",
+      "stufe": 1,
+      "fehlerbild": "Violinenschüssel statt Violinschlüssel",
+      "vorgriff": false,
+      "hinweis": "Welche Schreibung stimmt?"
+    },
+    {
+      "id": "mu-schluessel-002",
+      "fach": "musik",
+      "thema": "Violinschlüssel",
+      "typ": "buchstaben",
+      "frage": "Welches Wort steckt hinten in Violinschlüssel? Damit schließt du die Tür auf.",
+      "antwort": "Schlüssel",
+      "falsch": [],
+      "erklaerung": "Violin + <b>Schlüssel</b>: wie dein Schlüssel für die Haustür, mit l und ü und ss.",
+      "quelle": "Scan 5 S. 16 (Musikheft, Überschrift)",
+      "stufe": 1,
+      "fehlerbild": "schüssel statt schlüssel (l fehlt)",
+      "vorgriff": false
+    },
+    {
+      "id": "mu-schluessel-003",
+      "fach": "musik",
+      "thema": "Violinschlüssel",
+      "typ": "buchstaben",
+      "frage": "...schlüssel (ohne -en)",
+      "antwort": "Violin",
+      "falsch": [],
+      "erklaerung": "Nur <b>Violin</b>, ohne -en: Violinschlüssel.",
+      "quelle": "Scan 5 S. 16 (Musikheft, Überschrift)",
+      "stufe": 1,
+      "fehlerbild": "Violinen statt Violin",
+      "vorgriff": false
+    },
+    {
+      "id": "mu-schluessel-004",
+      "fach": "musik",
+      "thema": "Violinschlüssel",
+      "typ": "tor",
+      "frage": "Violin___schlüssel: Was gehört in die Lücke?",
+      "antwort": "nichts",
+      "falsch": [
+        "en"
+      ],
+      "erklaerung": "Da kommt nichts dazwischen: <b>Violinschlüssel</b>, kein -en.",
+      "quelle": "Scan 5 S. 16 (Musikheft, Überschrift mit Korrektur)",
+      "stufe": 1,
+      "fehlerbild": "Violinenschüssel statt Violinschlüssel",
+      "vorgriff": false
+    },
+    {
+      "id": "mu-schluessel-005",
+      "fach": "musik",
+      "thema": "Violinschlüssel",
+      "typ": "tor",
+      "frage": "___ Violinschlüssel",
+      "antwort": "der",
+      "falsch": [
+        "die",
+        "das"
+      ],
+      "erklaerung": "<b>Der</b> Violinschlüssel, genau wie <b>der</b> Schlüssel.",
+      "quelle": "Scan 5 S. 16 (Musikheft, Überschrift)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "mu-noten-001",
+      "fach": "musik",
+      "thema": "Ganze und halbe Note",
+      "typ": "auswahl",
+      "frage": "Wie sieht eine ganze Note aus?",
+      "antwort": "leerer Kreis ohne Hals",
+      "falsch": [
+        "leerer Kreis mit Hals",
+        "ausgemalter Kreis mit Hals",
+        "ein geschwungener Schlüssel"
+      ],
+      "erklaerung": "Die <b>ganze Note</b> ist nur ein leerer, runder Kopf. Sie hat keinen Hals.",
+      "quelle": "Scan 5 S. 16 (Musikheft, Ganze Note)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "mu-noten-002",
+      "fach": "musik",
+      "thema": "Ganze und halbe Note",
+      "typ": "auswahl",
+      "frage": "Wie sieht eine halbe Note aus?",
+      "antwort": "leerer Kreis mit Hals",
+      "falsch": [
+        "leerer Kreis ohne Hals",
+        "ausgemalter Kreis ohne Hals",
+        "ein geschwungener Schlüssel"
+      ],
+      "erklaerung": "Die <b>halbe Note</b> hat einen leeren Kopf und einen <b>Hals</b>, also einen Strich daran.",
+      "quelle": "Scan 5 S. 16 (Musikheft, Halbe Note)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "mu-noten-003",
+      "fach": "musik",
+      "thema": "Ganze und halbe Note",
+      "typ": "tor",
+      "frage": "Leerer Kreis, kein Hals. Welche Note?",
+      "antwort": "ganze Note",
+      "falsch": [
+        "halbe Note"
+      ],
+      "erklaerung": "Kein Hals, nur der leere Kreis: die <b>ganze Note</b>.",
+      "quelle": "Scan 5 S. 16 (Musikheft, Ganze Note)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "mu-noten-004",
+      "fach": "musik",
+      "thema": "Ganze und halbe Note",
+      "typ": "tor",
+      "frage": "Leerer Kreis mit Hals. Welche Note?",
+      "antwort": "halbe Note",
+      "falsch": [
+        "ganze Note"
+      ],
+      "erklaerung": "Leerer Kopf mit Strich daran: die <b>halbe Note</b>.",
+      "quelle": "Scan 5 S. 16 (Musikheft, Halbe Note)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "mu-noten-005",
+      "fach": "musik",
+      "thema": "Ganze und halbe Note",
+      "typ": "tor",
+      "frage": "Hat die ganze Note einen Hals?",
+      "antwort": "nein",
+      "falsch": [
+        "ja"
+      ],
+      "erklaerung": "Die <b>ganze Note</b> ist nur ein leerer Kreis. Den Hals hat die halbe Note.",
+      "quelle": "Scan 5 S. 16 (Musikheft, Ganze Note)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "mu-noten-006",
+      "fach": "musik",
+      "thema": "Ganze und halbe Note",
+      "typ": "tor",
+      "frage": "Hat die halbe Note einen Hals?",
+      "antwort": "ja",
+      "falsch": [
+        "nein"
+      ],
+      "erklaerung": "Ja, die <b>halbe Note</b> hat einen leeren Kopf und einen Hals.",
+      "quelle": "Scan 5 S. 16 (Musikheft, Halbe Note)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "mu-noten-007",
+      "fach": "musik",
+      "thema": "Ganze und halbe Note",
+      "typ": "buchstaben",
+      "frage": "Leerer Kreis ohne Hals",
+      "antwort": "ganze Note",
+      "falsch": [],
+      "erklaerung": "<b>ganze Note</b>: der leere Kreis ganz ohne Hals.",
+      "quelle": "Scan 5 S. 16 (Musikheft, Ganze Note)",
+      "stufe": 1,
+      "vorgriff": false
+    },
+    {
+      "id": "mu-noten-008",
+      "fach": "musik",
+      "thema": "Ganze und halbe Note",
+      "typ": "buchstaben",
+      "frage": "Leerer Kreis mit Hals",
+      "antwort": "halbe Note",
+      "falsch": [],
+      "erklaerung": "<b>halbe Note</b>: leerer Kopf, dazu ein Hals.",
+      "quelle": "Scan 5 S. 16 (Musikheft, Halbe Note)",
+      "stufe": 1,
+      "vorgriff": false
+    }
+  ]
+}

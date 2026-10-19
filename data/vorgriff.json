@@ -1,0 +1,2109 @@
+{
+  "fach": "vorgriff",
+  "stand": "2026-10-18",
+  "aufgaben": [
+    {
+      "id": "vg-en-001",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "day",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "Tag",
+      "falsch": [
+        "Fahrrad fahren",
+        "warnen"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>day</b> bedeutet <b>Tag</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "day"
+    },
+    {
+      "id": "vg-en-002",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "Inlineskates",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "skates",
+      "falsch": [
+        "to try",
+        "lucky charm",
+        "traffic light"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>Inlineskates</b> heißt auf Englisch <b>skates</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "skates"
+    },
+    {
+      "id": "vg-en-003",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "to meet",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "treffen",
+      "falsch": [
+        "Fahrrad fahren",
+        "zeigen"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>to meet</b> bedeutet <b>treffen</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to meet"
+    },
+    {
+      "id": "vg-en-004",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "zeigen",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "to show",
+      "falsch": [
+        "plan",
+        "to warn",
+        "to cross"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>zeigen</b> heißt auf Englisch <b>to show</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to show"
+    },
+    {
+      "id": "vg-en-005",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "game",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "Spiel",
+      "falsch": [
+        "Hemd",
+        "fotografieren"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>game</b> bedeutet <b>Spiel</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "game"
+    },
+    {
+      "id": "vg-en-006",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "versuchen",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "to try",
+      "falsch": [
+        "light",
+        "to meet",
+        "bus"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>versuchen</b> heißt auf Englisch <b>to try</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to try"
+    },
+    {
+      "id": "vg-en-007",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "I'm sorry!",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "Tut mir leid!",
+      "falsch": [
+        "Kurznachricht",
+        "Freizeit"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>I'm sorry!</b> bedeutet <b>Tut mir leid!</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "I'm sorry!"
+    },
+    {
+      "id": "vg-en-008",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "Mir geht's gut.",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "I'm fine.",
+      "falsch": [
+        "to try",
+        "pavement",
+        "bus"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>Mir geht's gut.</b> heißt auf Englisch <b>I'm fine.</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "I'm fine."
+    },
+    {
+      "id": "vg-en-009",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "cute",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "niedlich",
+      "falsch": [
+        "Tut mir leid!",
+        "Inlineskates"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>cute</b> bedeutet <b>niedlich</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "cute"
+    },
+    {
+      "id": "vg-en-010",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "Glücksbringer",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "lucky charm",
+      "falsch": [
+        "to find",
+        "to be into",
+        "game"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>Glücksbringer</b> heißt auf Englisch <b>lucky charm</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "lucky charm"
+    },
+    {
+      "id": "vg-en-011",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "text message",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "Kurznachricht",
+      "falsch": [
+        "laut",
+        "mögen"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>text message</b> bedeutet <b>Kurznachricht</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "text message"
+    },
+    {
+      "id": "vg-en-012",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "Hemd",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "shirt",
+      "falsch": [
+        "I'm sorry!",
+        "to cross",
+        "pavement"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>Hemd</b> heißt auf Englisch <b>shirt</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "shirt"
+    },
+    {
+      "id": "vg-en-013",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "wrong",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "falsch",
+      "falsch": [
+        "Freizeit",
+        "Kurznachricht"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>wrong</b> ist das Gegenteil von richtig.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "wrong"
+    },
+    {
+      "id": "vg-en-014",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "schwimmen",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "to swim",
+      "falsch": [
+        "I'm sorry!",
+        "to do",
+        "traffic light"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>schwimmen</b> heißt auf Englisch <b>to swim</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to swim"
+    },
+    {
+      "id": "vg-en-015",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "to read",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "lesen",
+      "falsch": [
+        "Glücksbringer",
+        "warnen"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>to read</b> bedeutet <b>lesen</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to read"
+    },
+    {
+      "id": "vg-en-016",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "Inlineskates fahren",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "to skate",
+      "falsch": [
+        "wrong",
+        "I'm sorry!",
+        "piano"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>Inlineskates fahren</b> heißt auf Englisch <b>to skate</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to skate"
+    },
+    {
+      "id": "vg-en-017",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "to cross",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "überqueren",
+      "falsch": [
+        "schwimmen",
+        "treffen"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>to cross</b> bedeutet <b>überqueren</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to cross"
+    },
+    {
+      "id": "vg-en-018",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "Ampel",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "traffic light",
+      "falsch": [
+        "to find",
+        "cute",
+        "plan"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>Ampel</b> heißt auf Englisch <b>traffic light</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "traffic light"
+    },
+    {
+      "id": "vg-en-019",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "loud",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "laut",
+      "falsch": [
+        "Bus",
+        "Glücksbringer"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>loud</b> bedeutet <b>laut</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "loud"
+    },
+    {
+      "id": "vg-en-020",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "Bus",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "bus",
+      "falsch": [
+        "bell",
+        "to read",
+        "piano"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>Bus</b> heißt auf Englisch <b>bus</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "bus"
+    },
+    {
+      "id": "vg-en-021",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "to cycle",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "Fahrrad fahren",
+      "falsch": [
+        "Licht",
+        "Spiel"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>to cycle</b> bedeutet <b>Fahrrad fahren</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to cycle"
+    },
+    {
+      "id": "vg-en-022",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "Bürgersteig",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "pavement",
+      "falsch": [
+        "cute",
+        "to cross",
+        "to show"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>Bürgersteig</b> heißt auf Englisch <b>pavement</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "pavement"
+    },
+    {
+      "id": "vg-en-023",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "to warn",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "warnen",
+      "falsch": [
+        "Inlineskates",
+        "überqueren"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>to warn</b> bedeutet <b>warnen</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to warn"
+    },
+    {
+      "id": "vg-en-024",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "Klingel",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "bell",
+      "falsch": [
+        "free time",
+        "without",
+        "to be into"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>Klingel</b> heißt auf Englisch <b>bell</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "bell"
+    },
+    {
+      "id": "vg-en-025",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "without",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "ohne",
+      "falsch": [
+        "falsch",
+        "Ampel"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>without</b> bedeutet <b>ohne</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "without"
+    },
+    {
+      "id": "vg-en-026",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "Licht",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "light",
+      "falsch": [
+        "loud",
+        "to skate",
+        "card"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>Licht</b> heißt auf Englisch <b>light</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "light"
+    },
+    {
+      "id": "vg-en-027",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "free time",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "Freizeit",
+      "falsch": [
+        "Ampel",
+        "Kurznachricht"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>free time</b> bedeutet <b>Freizeit</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "free time"
+    },
+    {
+      "id": "vg-en-028",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "zeichnen",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "to draw",
+      "falsch": [
+        "cute",
+        "free time",
+        "game"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>zeichnen</b> heißt auf Englisch <b>to draw</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to draw"
+    },
+    {
+      "id": "vg-en-029",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "to paint",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "malen",
+      "falsch": [
+        "Kurznachricht",
+        "fotografieren"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>to paint</b> bedeutet <b>malen</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to paint"
+    },
+    {
+      "id": "vg-en-030",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "Klavier",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "piano",
+      "falsch": [
+        "card",
+        "to be into",
+        "to find"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>Klavier</b> heißt auf Englisch <b>piano</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "piano"
+    },
+    {
+      "id": "vg-en-031",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "to take photos",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "fotografieren",
+      "falsch": [
+        "Plan",
+        "malen"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>to take photos</b> bedeutet <b>fotografieren</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to take photos"
+    },
+    {
+      "id": "vg-en-032",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "fernsehen",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "to watch TV",
+      "falsch": [
+        "bell",
+        "to cycle",
+        "day"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>fernsehen</b> heißt auf Englisch <b>to watch TV</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to watch TV"
+    },
+    {
+      "id": "vg-en-033",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "card",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "Karte",
+      "falsch": [
+        "falsch",
+        "schwimmen"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>card</b> bedeutet <b>Karte</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "card"
+    },
+    {
+      "id": "vg-en-034",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "Plan",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "plan",
+      "falsch": [
+        "I'm fine.",
+        "to read",
+        "light"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>Plan</b> heißt auf Englisch <b>plan</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "plan"
+    },
+    {
+      "id": "vg-en-035",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "to be lucky",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "Glück haben",
+      "falsch": [
+        "malen",
+        "Hemd"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>to be lucky</b> bedeutet <b>Glück haben</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to be lucky"
+    },
+    {
+      "id": "vg-en-036",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "finden",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "to find",
+      "falsch": [
+        "to be into",
+        "day",
+        "to swim"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>finden</b> heißt auf Englisch <b>to find</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to find"
+    },
+    {
+      "id": "vg-en-037",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "auswahl",
+      "frage": "auf etwas stehen (I'm into music)",
+      "hinweis": "Geheim-Rune! Wie heißt das auf Englisch?",
+      "antwort": "to be into",
+      "falsch": [
+        "pavement",
+        "to skate",
+        "to show"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>mögen</b> heißt auf Englisch <b>to be into</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to be into"
+    },
+    {
+      "id": "vg-en-038",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "tor",
+      "frage": "to do",
+      "hinweis": "Geheim-Rune! Lauf durchs richtige Tor: Was heißt das?",
+      "antwort": "machen",
+      "falsch": [
+        "mögen",
+        "laut"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>to do</b> bedeutet <b>machen</b>.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "to do"
+    },
+    {
+      "id": "vg-en-039",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "buchstaben",
+      "frage": "schwimmen",
+      "hinweis": "Geheim-Rune! Leg das englische Wort.",
+      "antwort": "swim",
+      "falsch": [],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>schwimmen</b> heißt <b>swim</b>: s-w-i-m.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "swim"
+    },
+    {
+      "id": "vg-en-040",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "buchstaben",
+      "frage": "lesen",
+      "hinweis": "Geheim-Rune! Leg das englische Wort.",
+      "antwort": "read",
+      "falsch": [],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>lesen</b> heißt <b>read</b>: r-e-a-d.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "read"
+    },
+    {
+      "id": "vg-en-041",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "buchstaben",
+      "frage": "zeichnen",
+      "hinweis": "Geheim-Rune! Leg das englische Wort.",
+      "antwort": "draw",
+      "falsch": [],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>zeichnen</b> heißt <b>draw</b>: d-r-a-w.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "draw"
+    },
+    {
+      "id": "vg-en-042",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "buchstaben",
+      "frage": "Klavier",
+      "hinweis": "Geheim-Rune! Leg das englische Wort.",
+      "antwort": "piano",
+      "falsch": [],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>Klavier</b> heißt <b>piano</b>: p-i-a-n-o.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "piano"
+    },
+    {
+      "id": "vg-en-043",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "buchstaben",
+      "frage": "Klingel",
+      "hinweis": "Geheim-Rune! Leg das englische Wort.",
+      "antwort": "bell",
+      "falsch": [],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>Klingel</b> heißt <b>bell</b>: b-e-l-l.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "bell"
+    },
+    {
+      "id": "vg-en-044",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "buchstaben",
+      "frage": "laut",
+      "hinweis": "Geheim-Rune! Leg das englische Wort.",
+      "antwort": "loud",
+      "falsch": [],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>laut</b> heißt <b>loud</b>: l-o-u-d.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "loud"
+    },
+    {
+      "id": "vg-en-045",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "buchstaben",
+      "frage": "Hemd",
+      "hinweis": "Geheim-Rune! Leg das englische Wort.",
+      "antwort": "shirt",
+      "falsch": [],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>Hemd</b> heißt <b>shirt</b>: s-h-i-r-t.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "shirt"
+    },
+    {
+      "id": "vg-en-046",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "buchstaben",
+      "frage": "niedlich",
+      "hinweis": "Geheim-Rune! Leg das englische Wort.",
+      "antwort": "cute",
+      "falsch": [],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>niedlich</b> heißt <b>cute</b>: c-u-t-e.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "cute"
+    },
+    {
+      "id": "vg-en-047",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "buchstaben",
+      "frage": "Karte",
+      "hinweis": "Geheim-Rune! Leg das englische Wort.",
+      "antwort": "card",
+      "falsch": [],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>Karte</b> heißt <b>card</b>: c-a-r-d.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "card"
+    },
+    {
+      "id": "vg-en-048",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "buchstaben",
+      "frage": "Ampel",
+      "hinweis": "Geheim-Rune! Leg das englische Wort.",
+      "antwort": "traffic light",
+      "falsch": [],
+      "erklaerung": "<b>traffic light</b> sind zwei Wörter: traffic, dann light.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 2,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "traffic light"
+    },
+    {
+      "id": "vg-en-049",
+      "fach": "englisch",
+      "thema": "Vorgriff: Wörter aus Pick-up B",
+      "typ": "buchstaben",
+      "frage": "Bürgersteig",
+      "hinweis": "Geheim-Rune! Leg das englische Wort.",
+      "antwort": "pavement",
+      "falsch": [],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>Bürgersteig</b> heißt <b>pavement</b>: p-a-v-e-m-e-n-t.",
+      "quelle": "Klett Vokabelliste Green Line 1, Pick-up B (Buch S. 30-35)",
+      "stufe": 2,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "pavement"
+    },
+    {
+      "id": "vg-en-050",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "auswahl",
+      "frage": "I ___ swim.",
+      "hinweis": "Geheim-Rune! Setz das passende Wort ein.",
+      "antwort": "can",
+      "falsch": [
+        "cans",
+        "can to",
+        "am can"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: Nach <b>can</b> kommt das Verb direkt dahinter, ohne to: I can swim.",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "I can swim."
+    },
+    {
+      "id": "vg-en-051",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "auswahl",
+      "frage": "Holly ___ play the piano.",
+      "hinweis": "Geheim-Rune! Setz das passende Wort ein.",
+      "antwort": "can",
+      "falsch": [
+        "cans",
+        "can to",
+        "is can"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>can</b> bleibt immer gleich, auch bei he und she: Holly can play.",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "Holly can play the piano."
+    },
+    {
+      "id": "vg-en-052",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "auswahl",
+      "frage": "Luke ___ draw.",
+      "hinweis": "Geheim-Rune! Setz das passende Wort ein.",
+      "antwort": "can",
+      "falsch": [
+        "cans",
+        "can to",
+        "is can"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>can</b> bekommt nie ein s: Luke can draw.",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "Luke can draw."
+    },
+    {
+      "id": "vg-en-053",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "auswahl",
+      "frage": "I can swim, but I ___ skate.",
+      "hinweis": "Geheim-Rune! Setz das passende Wort ein.",
+      "antwort": "can't",
+      "falsch": [
+        "don't can",
+        "not can",
+        "can'n"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: Kann nicht heißt <b>can't</b>. Kein don't davor!",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "I can swim, but I can't skate."
+    },
+    {
+      "id": "vg-en-054",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "auswahl",
+      "frage": "Dave ___ cycle without a bell.",
+      "hinweis": "Geheim-Rune! Setz das passende Wort ein.",
+      "antwort": "can't",
+      "falsch": [
+        "doesn't can",
+        "not can",
+        "cann't"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: Verneinung mit can: einfach <b>can't</b> sagen.",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 2,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "Dave can't cycle without a bell."
+    },
+    {
+      "id": "vg-en-055",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "auswahl",
+      "frage": "We ___ read without light.",
+      "hinweis": "Geheim-Rune! Setz das passende Wort ein.",
+      "antwort": "can't",
+      "falsch": [
+        "don't can",
+        "not can",
+        "cannot not"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: Kann nicht heißt <b>can't</b>, auch bei we und they.",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 2,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "We can't read without light."
+    },
+    {
+      "id": "vg-en-056",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "auswahl",
+      "frage": "___ you swim?",
+      "hinweis": "Geheim-Rune! Setz das passende Wort ein.",
+      "antwort": "Can",
+      "falsch": [
+        "Cans",
+        "Am",
+        "Is"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: Für die Frage stellst du <b>Can</b> an den Anfang: Can you swim?",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "Can you swim?"
+    },
+    {
+      "id": "vg-en-057",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "auswahl",
+      "frage": "___ Olivia draw?",
+      "hinweis": "Geheim-Rune! Setz das passende Wort ein.",
+      "antwort": "Can",
+      "falsch": [
+        "Cans",
+        "Are",
+        "Is"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: Frage mit can: <b>Can</b> nach vorn, dann die Person, dann das Verb.",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "Can Olivia draw?"
+    },
+    {
+      "id": "vg-en-058",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "auswahl",
+      "frage": "Can you skate? Yes, I ___.",
+      "hinweis": "Geheim-Rune! Setz das passende Wort ein.",
+      "antwort": "can",
+      "falsch": [
+        "do",
+        "am",
+        "cans"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: Kurze Antwort auf eine can-Frage: <b>Yes, I can.</b>",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "Can you skate? Yes, I can."
+    },
+    {
+      "id": "vg-en-059",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "auswahl",
+      "frage": "Can you play the piano? No, I ___.",
+      "hinweis": "Geheim-Rune! Setz das passende Wort ein.",
+      "antwort": "can't",
+      "falsch": [
+        "don't",
+        "am not",
+        "not can"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: Kurze Antwort mit Nein: <b>No, I can't.</b>",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "Can you play the piano? No, I can't."
+    },
+    {
+      "id": "vg-en-060",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "auswahl",
+      "frage": "Can Holly swim? Yes, she ___.",
+      "hinweis": "Geheim-Rune! Setz das passende Wort ein.",
+      "antwort": "can",
+      "falsch": [
+        "does",
+        "is",
+        "cans"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: Die Frage hat can, also hat die Antwort auch <b>can</b>: Yes, she can.",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 2,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "Can Holly swim? Yes, she can."
+    },
+    {
+      "id": "vg-en-061",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "auswahl",
+      "frage": "Can Luke and Dave cycle? No, they ___.",
+      "hinweis": "Geheim-Rune! Setz das passende Wort ein.",
+      "antwort": "can't",
+      "falsch": [
+        "don't",
+        "aren't",
+        "not can"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: Frage mit can, Antwort mit <b>can't</b>: No, they can't.",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 2,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "Can Luke and Dave cycle? No, they can't."
+    },
+    {
+      "id": "vg-en-062",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "tor",
+      "frage": "I can swim.",
+      "hinweis": "Geheim-Rune! Ist der Satz richtig?",
+      "antwort": "Ja",
+      "falsch": [
+        "Nein"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: Nach <b>can</b> oder <b>can't</b> kommt das Verb direkt, ohne to und ohne s. Der Satz passt so.",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "I can swim."
+    },
+    {
+      "id": "vg-en-063",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "tor",
+      "frage": "I can to swim.",
+      "hinweis": "Geheim-Rune! Ist der Satz richtig?",
+      "antwort": "Nein",
+      "falsch": [
+        "Ja"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: Nach <b>can</b> oder <b>can't</b> kommt das Verb direkt, ohne to und ohne s. Richtig wäre: I can swim.",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "vg-en-064",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "tor",
+      "frage": "She cans read.",
+      "hinweis": "Geheim-Rune! Ist der Satz richtig?",
+      "antwort": "Nein",
+      "falsch": [
+        "Ja"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: Nach <b>can</b> oder <b>can't</b> kommt das Verb direkt, ohne to und ohne s. Richtig wäre: She can read.",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "vg-en-065",
+      "fach": "englisch",
+      "thema": "Vorgriff: can und can't",
+      "typ": "tor",
+      "frage": "He can't draw.",
+      "hinweis": "Geheim-Rune! Ist der Satz richtig?",
+      "antwort": "Ja",
+      "falsch": [
+        "Nein"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: Nach <b>can</b> oder <b>can't</b> kommt das Verb direkt, ohne to und ohne s. Der Satz passt so.",
+      "quelle": "Green Line 1 Inhaltsverzeichnis: Pick-up B, S. 32 (can/can't)",
+      "stufe": 1,
+      "vorgriff": true,
+      "sprache": "en-GB",
+      "vorlesen": "He can't draw."
+    },
+    {
+      "id": "vg-ma-001",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Längen)",
+      "typ": "auswahl",
+      "frage": "1 m = ___ cm",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "100",
+      "falsch": [
+        "1000",
+        "10000",
+        "10"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>1 m = 100 cm</b>. Also 1 m = <b>100 cm</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 6 Rechnen mit Längenangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-002",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Längen)",
+      "typ": "auswahl",
+      "frage": "1 km = ___ m",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "1000",
+      "falsch": [
+        "10000",
+        "100000",
+        "100"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>1 km = 1000 m</b>. Also 1 km = <b>1000 m</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 6 Rechnen mit Längenangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-003",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Längen)",
+      "typ": "auswahl",
+      "frage": "1 cm = ___ mm",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "10",
+      "falsch": [
+        "100",
+        "1000",
+        "1"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>1 cm = 10 mm</b>. Also 1 cm = <b>10 mm</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 6 Rechnen mit Längenangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-004",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Längen)",
+      "typ": "auswahl",
+      "frage": "3 m = ___ cm",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "300",
+      "falsch": [
+        "3000",
+        "30000",
+        "30"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>1 m = 100 cm</b>. Also 3 m = <b>300 cm</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 6 Rechnen mit Längenangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-005",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Längen)",
+      "typ": "auswahl",
+      "frage": "2 km = ___ m",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "2000",
+      "falsch": [
+        "20000",
+        "200000",
+        "200"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>1 km = 1000 m</b>. Also 2 km = <b>2000 m</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 6 Rechnen mit Längenangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-006",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Längen)",
+      "typ": "auswahl",
+      "frage": "5 cm = ___ mm",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "50",
+      "falsch": [
+        "500",
+        "5000",
+        "5"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>1 cm = 10 mm</b>. Also 5 cm = <b>50 mm</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 6 Rechnen mit Längenangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-007",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Längen)",
+      "typ": "auswahl",
+      "frage": "400 cm = ___ m",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "4",
+      "falsch": [
+        "40",
+        "400",
+        "240"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>100 cm = 1 m</b>. Also 400 cm = <b>4 m</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 6 Rechnen mit Längenangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-008",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Gewichte)",
+      "typ": "auswahl",
+      "frage": "1 kg = ___ g",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "1000",
+      "falsch": [
+        "10000",
+        "100000",
+        "100"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>1 kg = 1000 g</b>. Also 1 kg = <b>1000 g</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 7 Rechnen mit Gewichtsangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-009",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Gewichte)",
+      "typ": "auswahl",
+      "frage": "1 t = ___ kg",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "1000",
+      "falsch": [
+        "10000",
+        "100000",
+        "100"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>1 t = 1000 kg</b>. Also 1 t = <b>1000 kg</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 7 Rechnen mit Gewichtsangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-010",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Gewichte)",
+      "typ": "auswahl",
+      "frage": "3 kg = ___ g",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "3000",
+      "falsch": [
+        "30000",
+        "300000",
+        "300"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>1 kg = 1000 g</b>. Also 3 kg = <b>3000 g</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 7 Rechnen mit Gewichtsangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-011",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Gewichte)",
+      "typ": "auswahl",
+      "frage": "2000 g = ___ kg",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "2",
+      "falsch": [
+        "20",
+        "200",
+        "120"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>1000 g = 1 kg</b>. Also 2000 g = <b>2 kg</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 7 Rechnen mit Gewichtsangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-012",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Zeit)",
+      "typ": "auswahl",
+      "frage": "1 h = ___ min",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "60",
+      "falsch": [
+        "600",
+        "6000",
+        "6"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>1 h = 60 min</b>. Also 1 h = <b>60 min</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 8 Rechnen mit Zeitangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-013",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Zeit)",
+      "typ": "auswahl",
+      "frage": "1 min = ___ s",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "60",
+      "falsch": [
+        "600",
+        "6000",
+        "6"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>1 min = 60 s</b>. Also 1 min = <b>60 s</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 8 Rechnen mit Zeitangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-014",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Zeit)",
+      "typ": "auswahl",
+      "frage": "1 Tag = ___ h",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "24",
+      "falsch": [
+        "240",
+        "2400",
+        "10"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>1 Tag = 24 h</b>. Also 1 Tag = <b>24 h</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 8 Rechnen mit Zeitangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-015",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Zeit)",
+      "typ": "auswahl",
+      "frage": "2 h = ___ min",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "120",
+      "falsch": [
+        "1200",
+        "12000",
+        "12"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: <b>1 h = 60 min</b>. Also 2 h = <b>120 min</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 8 Rechnen mit Zeitangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-016",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Längen)",
+      "typ": "auswahl",
+      "frage": "1 m 50 cm = ___ cm",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "150",
+      "falsch": [
+        "1050",
+        "15",
+        "105"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: 1 m sind 100 cm, dazu 50 cm. Das sind <b>150 cm</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 6 Rechnen mit Längenangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-017",
+      "fach": "mathe",
+      "thema": "Vorgriff: Größen umrechnen (Zeit)",
+      "typ": "auswahl",
+      "frage": "90 min = 1 h ___ min",
+      "hinweis": "Geheim-Rune! Rechne um.",
+      "antwort": "30",
+      "falsch": [
+        "90",
+        "50",
+        "10"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: 1 h sind 60 min. 90 min minus 60 min bleiben <b>30 min</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 8 Rechnen mit Zeitangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-018",
+      "fach": "mathe",
+      "thema": "Vorgriff: Rechnen mit Größen (Zeit)",
+      "typ": "auswahl",
+      "frage": "1 h 40 min + 20 min = ?",
+      "hinweis": "Geheim-Rune! Rechne.",
+      "antwort": "2 h",
+      "falsch": [
+        "1 h 20 min",
+        "2 h 20 min",
+        "3 h"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: 40 min + 20 min = 60 min, und das ist genau 1 h. Zusammen also <b>2 h</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 8 Rechnen mit Zeitangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-019",
+      "fach": "mathe",
+      "thema": "Vorgriff: Rechnen mit Größen (Längen)",
+      "typ": "auswahl",
+      "frage": "70 cm + 30 cm = ?",
+      "hinweis": "Geheim-Rune! Rechne.",
+      "antwort": "1 m",
+      "falsch": [
+        "100 m",
+        "10 cm",
+        "1 km"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: 70 cm + 30 cm = 100 cm, und 100 cm sind genau <b>1 m</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 6 Rechnen mit Längenangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-020",
+      "fach": "mathe",
+      "thema": "Vorgriff: Passende Einheit (Längen)",
+      "typ": "tor",
+      "frage": "Ein Bleistift ist etwa 17 ___ lang.",
+      "hinweis": "Geheim-Rune! Welche Einheit passt?",
+      "antwort": "cm",
+      "falsch": [
+        "km"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: Ein Bleistift passt in die Hand, also <b>cm</b>. km nimmt man für weite Wege.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 6 Rechnen mit Längenangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-021",
+      "fach": "mathe",
+      "thema": "Vorgriff: Passende Einheit (Gewichte)",
+      "typ": "tor",
+      "frage": "Ein Elefant wiegt etwa 5 ___.",
+      "hinweis": "Geheim-Rune! Welche Einheit passt?",
+      "antwort": "t",
+      "falsch": [
+        "g"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: Sehr schwere Dinge misst man in Tonnen: <b>t</b>. 1 t = 1000 kg.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 7 Rechnen mit Gewichtsangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-022",
+      "fach": "mathe",
+      "thema": "Vorgriff: Passende Einheit (Gewichte)",
+      "typ": "tor",
+      "frage": "Eine Tafel Schokolade wiegt 100 ___.",
+      "hinweis": "Geheim-Rune! Welche Einheit passt?",
+      "antwort": "g",
+      "falsch": [
+        "t"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: Leichte Dinge misst man in Gramm: <b>g</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 7 Rechnen mit Gewichtsangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-ma-023",
+      "fach": "mathe",
+      "thema": "Vorgriff: Passende Einheit (Zeit)",
+      "typ": "tor",
+      "frage": "Eine Schulstunde dauert 45 ___.",
+      "hinweis": "Geheim-Rune! Welche Einheit passt?",
+      "antwort": "min",
+      "falsch": [
+        "h"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: Eine Schulstunde ist kürzer als eine Stunde, also <b>45 min</b>.",
+      "quelle": "Lambacher Schweizer 5, Kap. I, LE 8 Rechnen mit Zeitangaben (Klett-Stoffverteilungsplan)",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-001",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Aufbau einer Erzählung",
+      "typ": "auswahl",
+      "frage": "Aus welchen drei Teilen besteht eine Erzählung?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "Einleitung, Hauptteil, Schluss",
+      "falsch": [
+        "Anrede, Text, Gruß",
+        "Frage, Antwort, Lösung",
+        "Titel, Bild, Seite"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: Eine Erzählung hat <b>Einleitung, Hauptteil und Schluss</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Aufbau einer Erzählung, S. 78",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-002",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Aufbau einer Erzählung",
+      "typ": "tor",
+      "frage": "Was kommt nach der Einleitung?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "Hauptteil",
+      "falsch": [
+        "Schluss"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: Erst die <b>Einleitung</b>, dann der <b>Hauptteil</b>, am Ende der Schluss.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Den Hauptteil schreiben, S. 81",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-003",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Aufbau einer Erzählung",
+      "typ": "tor",
+      "frage": "Womit endet eine Erzählung?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "Schluss",
+      "falsch": [
+        "Einleitung"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: Eine Erzählung endet mit dem <b>Schluss</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Den Schluss schreiben, S. 83",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-004",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Präteritum",
+      "typ": "auswahl",
+      "frage": "Plötzlich ___ das Licht aus. (gehen)",
+      "hinweis": "Geheim-Rune! Setz das Verb im Präteritum ein.",
+      "antwort": "ging",
+      "falsch": [
+        "geht",
+        "gehte",
+        "gang"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: Erzählungen stehen im Präteritum. <b>gehen</b> wird zu <b>ging</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Das Präteritum, S. 84",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-005",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Präteritum",
+      "typ": "auswahl",
+      "frage": "Max ___ schnell nach Hause. (laufen)",
+      "hinweis": "Geheim-Rune! Setz das Verb im Präteritum ein.",
+      "antwort": "lief",
+      "falsch": [
+        "läuft",
+        "laufte",
+        "liefte"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: Erzählungen stehen im Präteritum. <b>laufen</b> wird zu <b>lief</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Das Präteritum, S. 84",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-006",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Präteritum",
+      "typ": "auswahl",
+      "frage": "Lena ___ laut um Hilfe. (rufen)",
+      "hinweis": "Geheim-Rune! Setz das Verb im Präteritum ein.",
+      "antwort": "rief",
+      "falsch": [
+        "ruft",
+        "rufte",
+        "riefte"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: Erzählungen stehen im Präteritum. <b>rufen</b> wird zu <b>rief</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Das Präteritum, S. 84",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-007",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Präteritum",
+      "typ": "auswahl",
+      "frage": "Wir ___ einen Schatten. (sehen)",
+      "hinweis": "Geheim-Rune! Setz das Verb im Präteritum ein.",
+      "antwort": "sahen",
+      "falsch": [
+        "sehen",
+        "sehten",
+        "sahten"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: Erzählungen stehen im Präteritum. <b>sehen</b> wird zu <b>sahen</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Das Präteritum, S. 84",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-008",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Präteritum",
+      "typ": "auswahl",
+      "frage": "Ich ___ ein Knarren. (hören)",
+      "hinweis": "Geheim-Rune! Setz das Verb im Präteritum ein.",
+      "antwort": "hörte",
+      "falsch": [
+        "höre",
+        "hor",
+        "hörtete"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: Erzählungen stehen im Präteritum. <b>hören</b> wird zu <b>hörte</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Das Präteritum, S. 84",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-009",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Präteritum",
+      "typ": "auswahl",
+      "frage": "Langsam ___ sich die Tür. (öffnen)",
+      "hinweis": "Geheim-Rune! Setz das Verb im Präteritum ein.",
+      "antwort": "öffnete",
+      "falsch": [
+        "öffnet",
+        "öffnte",
+        "offnete"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: Erzählungen stehen im Präteritum. <b>öffnen</b> wird zu <b>öffnete</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Das Präteritum, S. 84",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-010",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Präteritum",
+      "typ": "auswahl",
+      "frage": "Dann ___ ein Windstoß. (kommen)",
+      "hinweis": "Geheim-Rune! Setz das Verb im Präteritum ein.",
+      "antwort": "kam",
+      "falsch": [
+        "kommt",
+        "kommte",
+        "kamte"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: Erzählungen stehen im Präteritum. <b>kommen</b> wird zu <b>kam</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Das Präteritum, S. 84",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-011",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Präteritum",
+      "typ": "auswahl",
+      "frage": "Die Katze ___ vom Schrank. (springen)",
+      "hinweis": "Geheim-Rune! Setz das Verb im Präteritum ein.",
+      "antwort": "sprang",
+      "falsch": [
+        "springt",
+        "springte",
+        "sprung"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: Erzählungen stehen im Präteritum. <b>springen</b> wird zu <b>sprang</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Das Präteritum, S. 84",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-012",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Präteritum",
+      "typ": "tor",
+      "frage": "rennen: Präteritum?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "rannte",
+      "falsch": [
+        "rennte"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: <b>rennen</b> wird im Präteritum zu <b>rannte</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Das Präteritum, S. 84",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-013",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Präteritum",
+      "typ": "tor",
+      "frage": "stehen: Präteritum?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "stand",
+      "falsch": [
+        "stehte"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: <b>stehen</b> wird im Präteritum zu <b>stand</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Das Präteritum, S. 84",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-014",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Präteritum",
+      "typ": "tor",
+      "frage": "schreien: Präteritum?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "schrie",
+      "falsch": [
+        "schreite"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>schreien</b> wird im Präteritum zu <b>schrie</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Das Präteritum, S. 84",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-015",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Wörtliche Rede",
+      "typ": "auswahl",
+      "frage": "Welcher Satz ist richtig?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "Tom rief: „Hilfe!“",
+      "falsch": [
+        "Tom rief „Hilfe!“",
+        "Tom rief: Hilfe!",
+        "Tom rief: „Hilfe“!"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: Steht der Begleitsatz vorn, kommt ein <b>Doppelpunkt</b>. Das Gesagte steht in Anführungszeichen, das ! gehört hinein.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Bei der wörtlichen Rede Zeichen setzen, S. 87",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-016",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Wörtliche Rede",
+      "typ": "auswahl",
+      "frage": "Welcher Satz ist richtig?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "„Wer ist da?“, fragte Lena.",
+      "falsch": [
+        "„Wer ist da?“ fragte Lena.",
+        "„Wer ist da“?, fragte Lena.",
+        "„Wer ist da?, fragte Lena.“"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: Steht der Begleitsatz hinten, kommt nach dem Schlusszeichen ein <b>Komma</b>. Das ? bleibt drinnen.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Bei der wörtlichen Rede Zeichen setzen, S. 87",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-017",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Wörtliche Rede",
+      "typ": "auswahl",
+      "frage": "Welcher Satz ist richtig?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "„Komm schnell“, flüsterte Max.",
+      "falsch": [
+        "„Komm schnell.“, flüsterte Max.",
+        "„Komm schnell“ flüsterte Max.",
+        "„Komm schnell,“ flüsterte Max."
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: Steht der Begleitsatz hinten, fällt der Punkt weg. Nach dem Schlusszeichen kommt ein <b>Komma</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Bei der wörtlichen Rede Zeichen setzen, S. 87",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-018",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Wörtliche Rede",
+      "typ": "tor",
+      "frage": "Tom sagte___ „Ich habe Angst.“",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": ":",
+      "falsch": [
+        ","
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: Vor der wörtlichen Rede steht nach dem Begleitsatz ein <b>Doppelpunkt</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Bei der wörtlichen Rede Zeichen setzen, S. 87",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-019",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Wörtliche Rede",
+      "typ": "auswahl",
+      "frage": "Wie heißen die Zeichen „ und “ ?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "Anführungszeichen",
+      "falsch": [
+        "Klammern",
+        "Kommas",
+        "Bindestriche"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: Was jemand sagt, steht in <b>Anführungszeichen</b>: unten „ am Anfang, oben “ am Ende.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Bei der wörtlichen Rede Zeichen setzen, S. 87",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-020",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Wörtliche Rede",
+      "typ": "auswahl",
+      "frage": "Tom sagte: „Ich habe Angst.“ Was ist der Begleitsatz?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "Tom sagte",
+      "falsch": [
+        "Ich habe Angst",
+        "Angst",
+        "Ich"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: Der <b>Begleitsatz</b> sagt, wer spricht: Tom sagte.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Sprachtraining: Bei der wörtlichen Rede Zeichen setzen, S. 87",
+      "stufe": 2,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-021",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Wörtliche Rede",
+      "typ": "auswahl",
+      "frage": "Welches Wort passt, wenn jemand ganz laut ruft? „Hilfe!“, ___ Lena.",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "schrie",
+      "falsch": [
+        "flüsterte",
+        "murmelte",
+        "gähnte"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: Statt immer nur sagte kannst du genauere Wörter nehmen. Ganz laut heißt <b>schrie</b>.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Nach Bildern erzählen, wörtliche Rede verwenden, S. 85",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-022",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Ideen sammeln",
+      "typ": "auswahl",
+      "frage": "Was sind Reizwörter beim Erzählen?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "Wörter, die in die Geschichte sollen",
+      "falsch": [
+        "Schimpfwörter",
+        "Wörter, die man weglässt",
+        "Wörter aus dem Englischen"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: <b>Reizwörter</b> sind vorgegebene Wörter, um die du deine Geschichte baust.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Nach Reizwörtern erzählen, S. 88",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-de-023",
+      "fach": "deutsch",
+      "thema": "Vorgriff: Ideen sammeln",
+      "typ": "auswahl",
+      "frage": "Ein Wort in der Mitte, Ideen drum herum. Wie heißt das?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "Cluster",
+      "falsch": [
+        "Tabelle",
+        "Diagramm",
+        "Steckbrief"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: Beim <b>Cluster</b> schreibst du ein Wort in die Mitte und sammelst Ideen drum herum.",
+      "quelle": "Deutschbuch 5 Inhaltsverzeichnis: Kap. 4.1 Methoden: Ideen in einem Cluster sammeln, S. 89",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-re-001",
+      "fach": "religion",
+      "thema": "Vorgriff: Bilder von Gott",
+      "typ": "tor",
+      "frage": "Wenn Menschen mit Gott sprechen, nennt man das ...",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "Beten",
+      "falsch": [
+        "Turnen"
+      ],
+      "erklaerung": "Kommt bald im Unterricht dran: Mit Gott sprechen heißt <b>beten</b>. Darum geht es im nächsten Kapitel.",
+      "quelle": "Moment mal! 1 Inhaltsverzeichnis: Kap. 2 \"Wie und wann sprechen Menschen zu Gott?\", S. 36",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-re-002",
+      "fach": "religion",
+      "thema": "Vorgriff: Bilder von Gott",
+      "typ": "auswahl",
+      "frage": "Ein Gebet, in dem man Gott Danke sagt, heißt ...",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "Dankgebet",
+      "falsch": [
+        "Wunschzettel",
+        "Rezept",
+        "Zeugnis"
+      ],
+      "erklaerung": "Das kommt bald im Unterricht dran: Wer Gott Danke sagt, spricht ein <b>Dankgebet</b>.",
+      "quelle": "Moment mal! 1 Inhaltsverzeichnis: Kap. 2 \"Warum soll ich Gott danken?\", S. 38",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-re-003",
+      "fach": "religion",
+      "thema": "Vorgriff: Bilder von Gott",
+      "typ": "auswahl",
+      "frage": "Die Bibel beschreibt Gott mit Bildern. Was heißt das?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "Gott wird mit Bekanntem verglichen",
+      "falsch": [
+        "Die Bibel hat nur Fotos",
+        "Gott wird gemalt",
+        "Die Bibel ist ein Comic"
+      ],
+      "erklaerung": "Kleiner Vorgeschmack aufs nächste Kapitel: Mit <b>Bildern</b> sind hier Vergleiche gemeint: Gott wird mit etwas beschrieben, das Menschen kennen.",
+      "quelle": "Moment mal! 1 Inhaltsverzeichnis: Kap. 2 \"Welche Bilder von Gott kennt die Bibel?\", S. 32",
+      "stufe": 1,
+      "vorgriff": true
+    },
+    {
+      "id": "vg-re-004",
+      "fach": "religion",
+      "thema": "Vorgriff: Bilder von Gott",
+      "typ": "tor",
+      "frage": "Kann sich das Bild, das jemand von Gott hat, mit der Zeit ändern?",
+      "hinweis": "Geheim-Rune! Was passt?",
+      "antwort": "Ja",
+      "falsch": [
+        "Nein"
+      ],
+      "erklaerung": "Das lernst du bald im Unterricht: Im Kapitel heißt eine Seite: <b>Wie verändert sich mein Bild von Gott?</b> Vorstellungen können sich also ändern.",
+      "quelle": "Moment mal! 1 Inhaltsverzeichnis: Kap. 2 \"Wie verändert sich mein Bild von Gott?\", S. 42",
+      "stufe": 1,
+      "vorgriff": true
+    }
+  ]
+}

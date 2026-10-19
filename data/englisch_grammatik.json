@@ -1,0 +1,6285 @@
+{
+  "fach": "englisch",
+  "stand": "2026-10-18",
+  "aufgaben": [
+    {
+      "id": "en-gram-be-001",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "The Elliots ___ a big family.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is",
+        "am",
+        "be"
+      ],
+      "erklaerung": "The Elliots sind mehrere Leute, also <b>are</b>. Auch wenn danach \"a big family\" kommt.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5a)",
+      "stufe": 1,
+      "fehlerbild": "is statt are bei mehreren",
+      "vorlesen": "The Elliots are a big family.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-002",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "tor",
+      "frage": "My parents ___ Anna and Jack.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is"
+      ],
+      "erklaerung": "parents sind zwei Personen. Mehrere Personen oder Dinge bekommen <b>are</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5a)",
+      "stufe": 1,
+      "vorlesen": "My parents are Anna and Jack.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-003",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "tor",
+      "frage": "Our dog ___ Sherlock.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "is",
+      "falsch": [
+        "are"
+      ],
+      "erklaerung": "Ein Hund, also <b>is</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5a)",
+      "stufe": 1,
+      "vorlesen": "Our dog is Sherlock.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-004",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "Mr Fluff and Honey ___ her guinea pigs.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Mr Fluff <b>and</b> Honey sind zwei Tiere. Mehrere Personen oder Dinge bekommen <b>are</b>.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "is statt are bei mehreren",
+      "vorlesen": "Mr Fluff and Honey are her guinea pigs.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-005",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "tor",
+      "frage": "Irina ___ my big sister.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "is",
+      "falsch": [
+        "are"
+      ],
+      "erklaerung": "Irina ist eine Person. Eine Person oder ein Ding bekommt <b>is</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5a)",
+      "stufe": 1,
+      "vorlesen": "Irina is my big sister.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-006",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "tor",
+      "frage": "I ___ ten years old.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "am",
+      "falsch": [
+        "is"
+      ],
+      "erklaerung": "<b>I</b> bekommt immer <b>am</b>.",
+      "quelle": "Scan A S. 15 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "I am ten years old.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-007",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "tor",
+      "frage": "We ___ from Greenwich.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is"
+      ],
+      "erklaerung": "Bei <b>we</b> heißt es immer <b>are</b>.",
+      "quelle": "Scan A S. 19 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "We are from Greenwich.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-008",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "tor",
+      "frage": "Holly ___ a quiet girl.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "is",
+      "falsch": [
+        "are"
+      ],
+      "erklaerung": "Holly ist eine Person. Eine Person oder ein Ding bekommt <b>is</b>.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Holly is a quiet girl.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-009",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "The rabbits ___ in the garden.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is",
+        "am",
+        "be"
+      ],
+      "erklaerung": "rabbit<b>s</b> mit s am Ende sind mehrere. Mehrere Personen oder Dinge bekommen <b>are</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "is statt are bei mehreren",
+      "vorlesen": "The rabbits are in the garden.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-010",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "Luke ___ my friend.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "is",
+      "falsch": [
+        "are",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Luke ist einer. Eine Person oder ein Ding bekommt <b>is</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Luke is my friend.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-011",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "You ___ late.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Bei <b>you</b> heißt es immer <b>are</b>, egal ob einer oder mehrere.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "You are late.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-012",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "My dog ___ very old.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "is",
+      "falsch": [
+        "are",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Ein Hund. Eine Person oder ein Ding bekommt <b>is</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "My dog is very old.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-013",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "The students of class 5a ___ cool.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is",
+        "am",
+        "be"
+      ],
+      "erklaerung": "student<b>s</b> sind viele. Mehrere Personen oder Dinge bekommen <b>are</b>.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "is statt are bei mehreren",
+      "vorlesen": "The students of class 5a are cool.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-014",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "Sam and Lisa ___ in your class too.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Sam <b>and</b> Lisa sind zwei. Mehrere Personen oder Dinge bekommen <b>are</b>.",
+      "quelle": "Scan A S. 18 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "is statt are bei mehreren",
+      "vorlesen": "Sam and Lisa are in your class too.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-015",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "She ___ from York.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "is",
+      "falsch": [
+        "are",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Bei he, she und it heißt es <b>is</b>.",
+      "quelle": "Scan A S. 18 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "She is from York.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-016",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "tor",
+      "frage": "They ___ on holiday.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is"
+      ],
+      "erklaerung": "Bei <b>they</b> heißt es immer <b>are</b>.",
+      "quelle": "Scan A S. 19 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "They are on holiday.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-017",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "Luke and Jamie are brothers.",
+      "falsch": [
+        "Luke and Jamie is brothers.",
+        "Luke and Jamie am brothers.",
+        "Luke and Jamie be brothers."
+      ],
+      "erklaerung": "Zwei Jungs, also <b>are</b>: Luke and Jamie are brothers.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5b)",
+      "stufe": 2,
+      "fehlerbild": "is statt are bei mehreren",
+      "vorlesen": "Luke and Jamie are brothers.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-018",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "We are from Greenwich.",
+      "falsch": [
+        "We from Greenwich.",
+        "We is from Greenwich.",
+        "We am from Greenwich."
+      ],
+      "erklaerung": "Im Englischen braucht der Satz ein Verb: We <b>are</b> from ...",
+      "quelle": "Scan A S. 15 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "Verb fehlt (We from not of London)",
+      "vorlesen": "We are from Greenwich.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-019",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "She is from Omsk.",
+      "falsch": [
+        "She from Omsk.",
+        "She are from Omsk.",
+        "She am from Omsk."
+      ],
+      "erklaerung": "Das <b>is</b> darf nicht fehlen: She <b>is</b> from Omsk.",
+      "quelle": "Scan A S. 22 (Workbook S. 6, Ex. 9)",
+      "stufe": 2,
+      "fehlerbild": "is fehlt (she from Omsk)",
+      "vorlesen": "She is from Omsk.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-020",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "Dave and Pia ___ in the park.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Dave <b>and</b> Pia sind zwei. Mehrere Personen oder Dinge bekommen <b>are</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 4, Ex. 3)",
+      "stufe": 1,
+      "fehlerbild": "is statt are bei mehreren",
+      "vorlesen": "Dave and Pia are in the park.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-021",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "My ball ___ nice.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "is",
+      "falsch": [
+        "are",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Ein Ball. Eine Person oder ein Ding bekommt <b>is</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 5, Ex. 4)",
+      "stufe": 1,
+      "vorlesen": "My ball is nice.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-022",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "I ___ Luke.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "am",
+      "falsch": [
+        "is",
+        "are",
+        "be"
+      ],
+      "erklaerung": "<b>I</b> bekommt immer <b>am</b>.",
+      "quelle": "Scan A S. 19 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "I am Luke.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-023",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "tor",
+      "frage": "Luke and Dave ___ my friends.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is"
+      ],
+      "erklaerung": "Zwei Freunde. Mehrere Personen oder Dinge bekommen <b>are</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 5, Ex. 4)",
+      "stufe": 1,
+      "fehlerbild": "is statt are bei mehreren",
+      "vorlesen": "Luke and Dave are my friends.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-be-024",
+      "fach": "englisch",
+      "thema": "to be: am, is, are",
+      "typ": "auswahl",
+      "frage": "Sorry, my dog ___ crazy.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "is",
+      "falsch": [
+        "are",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Ein Hund. Eine Person oder ein Ding bekommt <b>is</b>.",
+      "quelle": "Scan A S. 2 (Vokabelheft)",
+      "stufe": 1,
+      "vorlesen": "Sorry, my dog is crazy.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-001",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "Fritz isn't a girl.",
+      "falsch": [
+        "Fritz is a not girl.",
+        "Fritz not is a girl.",
+        "Fritz don't is a girl."
+      ],
+      "erklaerung": "not kommt direkt hinter is: Fritz <b>is not</b> a girl, kurz <b>isn't</b>.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "is a not girl",
+      "vorlesen": "Fritz isn't a girl.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-002",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "Sophie ___ 42 years old.",
+      "hinweis": "Was passt?",
+      "antwort": "isn't",
+      "falsch": [
+        "aren't",
+        "don't",
+        "not"
+      ],
+      "erklaerung": "Sophie ist eine Person: is + not = <b>isn't</b>.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Sophie isn't 42 years old.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-003",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "The students of class 5a ___ boring.",
+      "hinweis": "Was passt?",
+      "antwort": "aren't",
+      "falsch": [
+        "isn't",
+        "don't",
+        "not are"
+      ],
+      "erklaerung": "Mehrere Schüler: are + not = <b>aren't</b>.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "is statt are bei mehreren",
+      "vorlesen": "The students of class 5a aren't boring.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-004",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "Small flats ___ good for big animals.",
+      "hinweis": "Was passt?",
+      "antwort": "aren't",
+      "falsch": [
+        "isn't",
+        "don't",
+        "not"
+      ],
+      "erklaerung": "flat<b>s</b> sind mehrere: are + not = <b>aren't</b>.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "isn't statt aren't bei mehreren",
+      "vorlesen": "Small flats aren't good for big animals.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-005",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "tor",
+      "frage": "Mr Fluff and Honey ___ rabbits.",
+      "hinweis": "Was passt?",
+      "antwort": "aren't",
+      "falsch": [
+        "isn't"
+      ],
+      "erklaerung": "Zwei Tiere: are + not = <b>aren't</b>.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "isn't statt aren't bei mehreren",
+      "vorlesen": "Mr Fluff and Honey aren't rabbits.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-006",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "tor",
+      "frage": "Brook Lane ___ in Hamburg.",
+      "hinweis": "Was passt?",
+      "antwort": "isn't",
+      "falsch": [
+        "aren't"
+      ],
+      "erklaerung": "Eine Straße: is + not = <b>isn't</b>.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Brook Lane isn't in Hamburg.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-007",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "tor",
+      "frage": "Luke and Jamie ___ sisters.",
+      "hinweis": "Was passt?",
+      "antwort": "aren't",
+      "falsch": [
+        "isn't"
+      ],
+      "erklaerung": "Zwei Jungs: are + not = <b>aren't</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5b)",
+      "stufe": 1,
+      "fehlerbild": "isn't statt aren't bei mehreren",
+      "vorlesen": "Luke and Jamie aren't sisters.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-008",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "tor",
+      "frage": "Sherlock ___ a small dog.",
+      "hinweis": "Was passt?",
+      "antwort": "isn't",
+      "falsch": [
+        "aren't"
+      ],
+      "erklaerung": "Ein Hund: is + not = <b>isn't</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5b)",
+      "stufe": 1,
+      "vorlesen": "Sherlock isn't a small dog.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-009",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "tor",
+      "frage": "Anna and Jack ___ from Germany.",
+      "hinweis": "Was passt?",
+      "antwort": "aren't",
+      "falsch": [
+        "isn't"
+      ],
+      "erklaerung": "Zwei Personen: are + not = <b>aren't</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5b)",
+      "stufe": 1,
+      "fehlerbild": "isn't statt aren't bei mehreren",
+      "vorlesen": "Anna and Jack aren't from Germany.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-010",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "tor",
+      "frage": "The house ___ a blue house.",
+      "hinweis": "Was passt?",
+      "antwort": "isn't",
+      "falsch": [
+        "aren't"
+      ],
+      "erklaerung": "Ein Haus: is + not = <b>isn't</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5b)",
+      "stufe": 1,
+      "vorlesen": "The house isn't a blue house.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-011",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "My friends aren't crazy.",
+      "falsch": [
+        "My friends are don't crazy.",
+        "My friends don't crazy.",
+        "My friends not are crazy."
+      ],
+      "erklaerung": "Bei am, is und are kommt nie <b>don't</b>. Hier: are + not = <b>aren't</b>.",
+      "quelle": "Scan A S. 15 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "don't bei are",
+      "vorlesen": "My friends aren't crazy.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-012",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "We aren't from London.",
+      "falsch": [
+        "We from not of London.",
+        "We don't from London.",
+        "We not are from London."
+      ],
+      "erklaerung": "Erst <b>are</b>, dann <b>not</b>, dann <b>from</b>: We aren't from London.",
+      "quelle": "Scan A S. 15 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "We from not of London",
+      "vorlesen": "We aren't from London.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-013",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "I ___ eight years old.",
+      "hinweis": "Was passt?",
+      "antwort": "am not",
+      "falsch": [
+        "not am",
+        "don't",
+        "isn't"
+      ],
+      "erklaerung": "Bei I: <b>I am not</b>, kurz I'm not. Bei am, is und are kommt nie <b>don't</b>.",
+      "quelle": "Scan A S. 15 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "don't bei am",
+      "vorlesen": "I am not eight years old.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-014",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "My house ___ big.",
+      "hinweis": "Was passt?",
+      "antwort": "isn't",
+      "falsch": [
+        "don't",
+        "aren't",
+        "not"
+      ],
+      "erklaerung": "Ein Haus: is + not = <b>isn't</b>. Bei am, is und are kommt nie <b>don't</b>.",
+      "quelle": "Scan A S. 15 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "don't bei is",
+      "vorlesen": "My house isn't big.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-015",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "Sherlock isn't pink.",
+      "falsch": [
+        "Sherlock don't pink.",
+        "Sherlock is a not pink.",
+        "Sherlock aren't pink."
+      ],
+      "erklaerung": "Ein Hund: <b>isn't</b>. <b>not</b> steht direkt hinter am, is oder are. Kurz: <b>isn't</b>, <b>aren't</b>.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Sherlock isn't pink.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-016",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "The Elliots ___ from Germany.",
+      "hinweis": "Was passt?",
+      "antwort": "aren't",
+      "falsch": [
+        "isn't",
+        "don't",
+        "not"
+      ],
+      "erklaerung": "The Elliots sind mehrere: <b>aren't</b>.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "is statt are bei mehreren",
+      "vorlesen": "The Elliots aren't from Germany.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-017",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "I ___ tired.",
+      "hinweis": "Was passt?",
+      "antwort": "am not",
+      "falsch": [
+        "is not",
+        "don't",
+        "not am"
+      ],
+      "erklaerung": "Bei I: <b>I am not</b>. not steht hinter am.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "don't bei am",
+      "vorlesen": "I am not tired.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-018",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "Jack ___ from London.",
+      "hinweis": "Was passt?",
+      "antwort": "isn't",
+      "falsch": [
+        "aren't",
+        "don't",
+        "am not"
+      ],
+      "erklaerung": "Jack ist einer: <b>isn't</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Jack isn't from London.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-019",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "tor",
+      "frage": "The hamsters ___ big.",
+      "hinweis": "Was passt?",
+      "antwort": "aren't",
+      "falsch": [
+        "isn't"
+      ],
+      "erklaerung": "hamster<b>s</b> sind mehrere: <b>aren't</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "isn't statt aren't bei mehreren",
+      "vorlesen": "The hamsters aren't big.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-020",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "tor",
+      "frage": "We ___ at school.",
+      "hinweis": "Was passt?",
+      "antwort": "aren't",
+      "falsch": [
+        "isn't"
+      ],
+      "erklaerung": "Bei we: <b>aren't</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "We aren't at school.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-021",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "Irina isn't our little sister.",
+      "falsch": [
+        "Irina don't our little sister.",
+        "Irina not is our little sister.",
+        "Irina aren't our little sister."
+      ],
+      "erklaerung": "<b>not</b> steht direkt hinter am, is oder are. Kurz: <b>isn't</b>, <b>aren't</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5b)",
+      "stufe": 2,
+      "vorlesen": "Irina isn't our little sister.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-022",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "Steve is in London, but he ___ with his family.",
+      "hinweis": "Was passt?",
+      "antwort": "isn't",
+      "falsch": [
+        "aren't",
+        "don't",
+        "not"
+      ],
+      "erklaerung": "Bei he: is + not = <b>isn't</b>.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "Steve is in London, but he isn't with his family.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-not-023",
+      "fach": "englisch",
+      "thema": "Verneinung mit not",
+      "typ": "auswahl",
+      "frage": "I'm ___ scared of dogs.",
+      "hinweis": "Was passt?",
+      "antwort": "not",
+      "falsch": [
+        "don't",
+        "no",
+        "isn't"
+      ],
+      "erklaerung": "I'm = I am. Dahinter kommt <b>not</b>: I'm not scared.",
+      "quelle": "Scan A S. 3 (Vokabelheft)",
+      "stufe": 2,
+      "fehlerbild": "don't bei am",
+      "vorlesen": "I'm not scared of dogs.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-001",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "tor",
+      "frage": "I am = ?",
+      "hinweis": "Wie heißt die Kurzform?",
+      "antwort": "I'm",
+      "falsch": [
+        "Im"
+      ],
+      "erklaerung": "I am wird <b>I'm</b>. Der Apostroph steht da, wo Buchstaben fehlen.",
+      "quelle": "Scan A S. 19 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "I'm",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-002",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "tor",
+      "frage": "you are = ?",
+      "hinweis": "Wie heißt die Kurzform?",
+      "antwort": "you're",
+      "falsch": [
+        "your"
+      ],
+      "erklaerung": "you are wird <b>you're</b>. your ohne Apostroph heißt \"dein\".",
+      "quelle": "Scan A S. 19 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "Youre / your",
+      "vorlesen": "you're",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-003",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "tor",
+      "frage": "she is = ?",
+      "hinweis": "Wie heißt die Kurzform?",
+      "antwort": "she's",
+      "falsch": [
+        "shes"
+      ],
+      "erklaerung": "she is wird <b>she's</b>. Der Apostroph steht da, wo Buchstaben fehlen.",
+      "quelle": "Scan A S. 19 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "she's",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-004",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "tor",
+      "frage": "they are = ?",
+      "hinweis": "Wie heißt die Kurzform?",
+      "antwort": "they're",
+      "falsch": [
+        "their"
+      ],
+      "erklaerung": "they are wird <b>they're</b>. their heißt \"ihr, ihre\".",
+      "quelle": "Scan A S. 19 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "they're",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-005",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "tor",
+      "frage": "we are = ?",
+      "hinweis": "Wie heißt die Kurzform?",
+      "antwort": "we're",
+      "falsch": [
+        "were"
+      ],
+      "erklaerung": "we are wird <b>we're</b>. Der Apostroph steht da, wo Buchstaben fehlen.",
+      "quelle": "Scan A S. 19 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "we're",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-006",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "tor",
+      "frage": "it is = ?",
+      "hinweis": "Wie heißt die Kurzform?",
+      "antwort": "it's",
+      "falsch": [
+        "its"
+      ],
+      "erklaerung": "it is wird <b>it's</b>, mit Apostroph für das fehlende i.",
+      "quelle": "Scan A S. 19 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "it's",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-007",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "auswahl",
+      "frage": "Hello! I ___ Tony.",
+      "hinweis": "Setz die Kurzform ein: 'm, 's oder 're.",
+      "antwort": "'m",
+      "falsch": [
+        "'s",
+        "'re",
+        "s"
+      ],
+      "erklaerung": "Bei I kommt <b>'m</b> (von am).",
+      "quelle": "Scan A S. 21 (Workbook S. 5, Ex. 5)",
+      "stufe": 1,
+      "vorlesen": "Hello! I'm Tony.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-008",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "auswahl",
+      "frage": "You ___ new here!",
+      "hinweis": "Setz die Kurzform ein: 'm, 's oder 're.",
+      "antwort": "'re",
+      "falsch": [
+        "'m",
+        "'s",
+        "s"
+      ],
+      "erklaerung": "Bei you kommt <b>'re</b> (von are).",
+      "quelle": "Scan A S. 21 (Workbook S. 5, Ex. 5)",
+      "stufe": 1,
+      "vorlesen": "You're new here!",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-009",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "auswahl",
+      "frage": "And Lou, she ___ from Greenwich too.",
+      "hinweis": "Setz die Kurzform ein: 'm, 's oder 're.",
+      "antwort": "'s",
+      "falsch": [
+        "'m",
+        "'re",
+        "re"
+      ],
+      "erklaerung": "Bei she kommt <b>'s</b> (von is).",
+      "quelle": "Scan A S. 21 (Workbook S. 5, Ex. 5)",
+      "stufe": 1,
+      "vorlesen": "And Lou, she's from Greenwich too.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-010",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "auswahl",
+      "frage": "We ___ in Greenwich Park.",
+      "hinweis": "Setz die Kurzform ein: 'm, 's oder 're.",
+      "antwort": "'re",
+      "falsch": [
+        "'m",
+        "'s",
+        "s"
+      ],
+      "erklaerung": "Bei we kommt <b>'re</b> (von are).",
+      "quelle": "Scan A S. 21 (Workbook S. 5, Ex. 5)",
+      "stufe": 1,
+      "vorlesen": "We're in Greenwich Park.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-011",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "You're right.",
+      "falsch": [
+        "Youre right.",
+        "Your right.",
+        "You'r right."
+      ],
+      "erklaerung": "You are = <b>You're</b>. Der Apostroph steht für das a.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "Youre ohne Apostroph",
+      "vorlesen": "You're right.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-012",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "auswahl",
+      "frage": "Luke and Jamie aren't sisters. ___ brothers.",
+      "hinweis": "Welche Kurzform passt?",
+      "antwort": "They're",
+      "falsch": [
+        "Their",
+        "There",
+        "They's"
+      ],
+      "erklaerung": "They are = <b>They're</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5b)",
+      "stufe": 2,
+      "vorlesen": "Luke and Jamie aren't sisters. They're brothers.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-013",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "auswahl",
+      "frage": "Sherlock isn't a small dog. ___ a big dog.",
+      "hinweis": "Welche Kurzform passt?",
+      "antwort": "It's",
+      "falsch": [
+        "Its",
+        "It're",
+        "Is"
+      ],
+      "erklaerung": "It is = <b>It's</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5b)",
+      "stufe": 2,
+      "vorlesen": "Sherlock isn't a small dog. It's a big dog.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-014",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "tor",
+      "frage": "is not = ?",
+      "hinweis": "Wie heißt die Kurzform?",
+      "antwort": "isn't",
+      "falsch": [
+        "is'nt"
+      ],
+      "erklaerung": "Das o von not fällt weg, da steht der Apostroph: <b>isn't</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "isn't",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kurz-015",
+      "fach": "englisch",
+      "thema": "Kurzformen",
+      "typ": "tor",
+      "frage": "are not = ?",
+      "hinweis": "Wie heißt die Kurzform?",
+      "antwort": "aren't",
+      "falsch": [
+        "are'nt"
+      ],
+      "erklaerung": "Das o von not fällt weg, da steht der Apostroph: <b>aren't</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "aren't",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-001",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Are you an only child? (nein)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "No, I'm not.",
+      "falsch": [
+        "No, I amn't.",
+        "No, you aren't.",
+        "No, it isn't."
+      ],
+      "erklaerung": "Auf <b>Are you</b> antwortest du mit <b>I</b>: No, I'm not.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 7)",
+      "stufe": 1,
+      "vorlesen": "Are you an only child? No, I'm not.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-002",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Is it a dog? (nein)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "No, it isn't.",
+      "falsch": [
+        "No, it aren't.",
+        "No, it is.",
+        "No, he not."
+      ],
+      "erklaerung": "In der Kurzantwort kommt das Verb aus der Frage wieder: <b>Is</b> it ...? No, it <b>isn't</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 7)",
+      "stufe": 1,
+      "fehlerbild": "It aren't",
+      "vorlesen": "Is it a dog? No, it isn't.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-003",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Is he a good cat? (ja)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "Yes, he is.",
+      "falsch": [
+        "Yes, he are.",
+        "Yes, he am.",
+        "Yes, he isn't."
+      ],
+      "erklaerung": "In der Kurzantwort kommt das Verb aus der Frage wieder: <b>Is</b> he ...? Yes, he <b>is</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 7)",
+      "stufe": 1,
+      "vorlesen": "Is he a good cat? Yes, he is.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-004",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Is Sid eleven too? (nein)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "No, he isn't.",
+      "falsch": [
+        "No, he aren't.",
+        "No, he don't.",
+        "No, I'm not."
+      ],
+      "erklaerung": "Sid ist ein Kater, also <b>he</b>: No, he isn't.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 7)",
+      "stufe": 1,
+      "fehlerbild": "don't bei is",
+      "vorlesen": "Is Sid eleven too? No, he isn't.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-005",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Are your parents English? (ja)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "Yes, they are.",
+      "falsch": [
+        "Yes, they is.",
+        "Yes, it is.",
+        "Yes, we are."
+      ],
+      "erklaerung": "parents sind mehrere, also <b>they</b>: Yes, they are.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 8)",
+      "stufe": 1,
+      "vorlesen": "Are your parents English? Yes, they are.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-006",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Are your favourite animals rabbits? (nein)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "No, they aren't.",
+      "falsch": [
+        "No, it isn't.",
+        "No, they isn't.",
+        "No, it aren't."
+      ],
+      "erklaerung": "animal<b>s</b> sind mehrere, also <b>they</b>: No, they aren't.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 8)",
+      "stufe": 2,
+      "fehlerbild": "No, it isn't auf eine Frage mit mehreren",
+      "vorlesen": "Are your favourite animals rabbits? No, they aren't.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-007",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Is your lucky number two? (ja)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "Yes, it is.",
+      "falsch": [
+        "Yes, it are.",
+        "Yes, they are.",
+        "Yes, I am."
+      ],
+      "erklaerung": "Eine Zahl ist ein Ding, also <b>it</b>: Yes, it is.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 8)",
+      "stufe": 1,
+      "vorlesen": "Is your lucky number two? Yes, it is.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-008",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Is your favourite colour red? (nein)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "No, it isn't.",
+      "falsch": [
+        "No, they aren't.",
+        "No, it aren't.",
+        "No, I'm not."
+      ],
+      "erklaerung": "Eine Farbe ist ein Ding, also <b>it</b>: No, it isn't.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 8)",
+      "stufe": 1,
+      "fehlerbild": "It aren't",
+      "vorlesen": "Is your favourite colour red? No, it isn't.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-009",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Holly, are you, Luke, Dave and Olivia friends? (ja)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "Yes, we are.",
+      "falsch": [
+        "Yes, they are.",
+        "Yes, we is.",
+        "Yes, I am."
+      ],
+      "erklaerung": "Holly gehört selbst dazu, also <b>we</b>: Yes, we are.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 8)",
+      "stufe": 3,
+      "fehlerbild": "they statt we (selbst verbessert)",
+      "vorlesen": "Are you, Luke, Dave and Olivia friends? Yes, we are.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-010",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Is your sister ten? (nein)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "No, she isn't.",
+      "falsch": [
+        "No, she aren't.",
+        "No, it isn't.",
+        "No, he isn't."
+      ],
+      "erklaerung": "Die Schwester ist ein Mädchen, also <b>she</b>: No, she isn't.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 8)",
+      "stufe": 1,
+      "vorlesen": "Is your sister ten? No, she isn't.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-011",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Are your parents from Cornwall? (nein)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "No, they aren't.",
+      "falsch": [
+        "No, they isn't.",
+        "No, it aren't.",
+        "Not, they aren't."
+      ],
+      "erklaerung": "Nein heißt <b>No</b>. Eltern sind mehrere: No, <b>they aren't</b>.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "Not statt No (selbst verbessert)",
+      "vorlesen": "Are your parents from Cornwall? No, they aren't.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-012",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Are you ten? (ja)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "Yes, I am.",
+      "falsch": [
+        "Yes, I is.",
+        "Yes, you are.",
+        "Yes, I are."
+      ],
+      "erklaerung": "Auf <b>Are you</b> antwortest du mit <b>I am</b>.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Are you ten? Yes, I am.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-013",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Is your mum English? (ja)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "Yes, she is.",
+      "falsch": [
+        "Yes, she are.",
+        "Yes, he is.",
+        "Yes, it are."
+      ],
+      "erklaerung": "Mum ist eine Frau, also <b>she</b>: Yes, she is.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Is your mum English? Yes, she is.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-014",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Is your dad from Greenwich? (nein)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "No, he isn't.",
+      "falsch": [
+        "No, he aren't.",
+        "No, she isn't.",
+        "No, he don't."
+      ],
+      "erklaerung": "Dad ist ein Mann, also <b>he</b>: No, he isn't.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "don't bei is",
+      "vorlesen": "Is your dad from Greenwich? No, he isn't.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-015",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Are you a small family? (ja)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "Yes, we are.",
+      "falsch": [
+        "Yes, we is.",
+        "Yes, they is.",
+        "Yes, I am."
+      ],
+      "erklaerung": "Die ganze Familie spricht, also <b>we</b>: Yes, we are.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "Are you a small family? Yes, we are.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-016",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "tor",
+      "frage": "Is she 10 years old? (ja)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "Yes, she is.",
+      "falsch": [
+        "Yes, she are."
+      ],
+      "erklaerung": "In der Kurzantwort kommt das Verb aus der Frage wieder: <b>Is</b> she ...? Yes, she <b>is</b>.",
+      "quelle": "Scan A S. 10 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Is she 10 years old? Yes, she is.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-017",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "tor",
+      "frage": "Are you 10 years old? (nein)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "No, I'm not.",
+      "falsch": [
+        "No, I isn't."
+      ],
+      "erklaerung": "Bei I: <b>No, I'm not.</b>",
+      "quelle": "Scan A S. 10 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Are you 10 years old? No, I'm not.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-018",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "tor",
+      "frage": "Is the kitchen green? (ja)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "Yes, it is.",
+      "falsch": [
+        "Yes, it are."
+      ],
+      "erklaerung": "Die Küche ist ein Ding, also <b>it is</b>.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 17, Ex. 19)",
+      "stufe": 1,
+      "vorlesen": "Is the kitchen green? Yes, it is.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-019",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Are the table and chairs in the kitchen? (nein)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "No, they aren't.",
+      "falsch": [
+        "No, it isn't.",
+        "No, they isn't.",
+        "No, it aren't."
+      ],
+      "erklaerung": "Tisch und Stühle sind mehrere Dinge, also <b>they aren't</b>.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 17, Ex. 19)",
+      "stufe": 2,
+      "fehlerbild": "No, it isn't auf eine Frage mit mehreren",
+      "vorlesen": "Are the table and chairs in the kitchen? No, they aren't.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-020",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Is the girl in the bathroom? (nein)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "No, she isn't.",
+      "falsch": [
+        "No, she aren't.",
+        "No, it aren't.",
+        "No, he isn't."
+      ],
+      "erklaerung": "Ein Mädchen, also <b>she isn't</b>.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 17, Ex. 19)",
+      "stufe": 1,
+      "vorlesen": "Is the girl in the bathroom? No, she isn't.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-021",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "tor",
+      "frage": "Are Luke and Holly your friends? (ja)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "Yes, they are.",
+      "falsch": [
+        "Yes, it is."
+      ],
+      "erklaerung": "Zwei Personen, also <b>they are</b>.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Are Luke and Holly your friends? Yes, they are.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-022",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "auswahl",
+      "frage": "Is your lucky number twelve? (nein)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "No, it isn't.",
+      "falsch": [
+        "No, It aren't.",
+        "No, they aren't.",
+        "Not, it isn't."
+      ],
+      "erklaerung": "Eine Zahl ist ein Ding: No, <b>it isn't</b>. Nach dem Komma geht es klein weiter.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "No, It aren't",
+      "vorlesen": "Is your lucky number twelve? No, it isn't.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-kant-023",
+      "fach": "englisch",
+      "thema": "Kurzantworten",
+      "typ": "tor",
+      "frage": "Is Sherlock a dog? (ja)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "Yes, he is.",
+      "falsch": [
+        "Yes, he are."
+      ],
+      "erklaerung": "In der Kurzantwort kommt das Verb aus der Frage wieder: <b>Is</b> ...? Yes, he <b>is</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5a)",
+      "stufe": 1,
+      "vorlesen": "Is Sherlock a dog? Yes, he is.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-frag-001",
+      "fach": "englisch",
+      "thema": "Fragen mit Is und Are",
+      "typ": "tor",
+      "frage": "___ your mum English?",
+      "hinweis": "Is oder Are?",
+      "antwort": "Is",
+      "falsch": [
+        "Are"
+      ],
+      "erklaerung": "Bei der Frage rutscht is oder are nach vorn. Eine Person, also <b>Is</b>.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "Are your mum (selbst verbessert)",
+      "vorlesen": "Is your mum English?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-frag-002",
+      "fach": "englisch",
+      "thema": "Fragen mit Is und Are",
+      "typ": "tor",
+      "frage": "___ your dad from Greenwich?",
+      "hinweis": "Is oder Are?",
+      "antwort": "Is",
+      "falsch": [
+        "Are"
+      ],
+      "erklaerung": "Bei der Frage rutscht is oder are nach vorn. Eine Person, also <b>Is</b>.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "Are your dad (selbst verbessert)",
+      "vorlesen": "Is your dad from Greenwich?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-frag-003",
+      "fach": "englisch",
+      "thema": "Fragen mit Is und Are",
+      "typ": "tor",
+      "frage": "___ your parents from Cornwall?",
+      "hinweis": "Is oder Are?",
+      "antwort": "Are",
+      "falsch": [
+        "Is"
+      ],
+      "erklaerung": "Bei der Frage rutscht is oder are nach vorn. Mehrere Personen, also <b>Are</b>.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Are your parents from Cornwall?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-frag-004",
+      "fach": "englisch",
+      "thema": "Fragen mit Is und Are",
+      "typ": "tor",
+      "frage": "___ you an only child?",
+      "hinweis": "Is oder Are?",
+      "antwort": "Are",
+      "falsch": [
+        "Is"
+      ],
+      "erklaerung": "Bei <b>you</b> immer <b>Are</b>.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Are you an only child?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-frag-005",
+      "fach": "englisch",
+      "thema": "Fragen mit Is und Are",
+      "typ": "tor",
+      "frage": "___ your lucky number twelve?",
+      "hinweis": "Is oder Are?",
+      "antwort": "Is",
+      "falsch": [
+        "Are"
+      ],
+      "erklaerung": "Bei der Frage rutscht is oder are nach vorn. Eine Zahl, also <b>Is</b>.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Is your lucky number twelve?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-frag-006",
+      "fach": "englisch",
+      "thema": "Fragen mit Is und Are",
+      "typ": "tor",
+      "frage": "___ Olivia, Luke and Holly your friends?",
+      "hinweis": "Is oder Are?",
+      "antwort": "Are",
+      "falsch": [
+        "Is"
+      ],
+      "erklaerung": "Bei der Frage rutscht is oder are nach vorn. Drei Personen, also <b>Are</b>.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Are Olivia, Luke and Holly your friends?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-frag-007",
+      "fach": "englisch",
+      "thema": "Fragen mit Is und Are",
+      "typ": "tor",
+      "frage": "___ your sister ten?",
+      "hinweis": "Is oder Are?",
+      "antwort": "Is",
+      "falsch": [
+        "Are"
+      ],
+      "erklaerung": "Bei der Frage rutscht is oder are nach vorn. Eine Person, also <b>Is</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 8)",
+      "stufe": 1,
+      "vorlesen": "Is your sister ten?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-frag-008",
+      "fach": "englisch",
+      "thema": "Fragen mit Is und Are",
+      "typ": "tor",
+      "frage": "___ your favourite animals rabbits?",
+      "hinweis": "Is oder Are?",
+      "antwort": "Are",
+      "falsch": [
+        "Is"
+      ],
+      "erklaerung": "animal<b>s</b> sind mehrere, also <b>Are</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 8)",
+      "stufe": 2,
+      "vorlesen": "Are your favourite animals rabbits?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-frag-009",
+      "fach": "englisch",
+      "thema": "Fragen mit Is und Are",
+      "typ": "auswahl",
+      "frage": "Welche Frage stimmt?",
+      "antwort": "Is your mum English?",
+      "falsch": [
+        "Are your mum English?",
+        "Am your mum English?",
+        "Your mum English is?"
+      ],
+      "erklaerung": "Bei der Frage rutscht is oder are nach vorn. Mum ist eine Person: <b>Is</b> your mum ...?",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "Are your mum (selbst verbessert)",
+      "vorlesen": "Is your mum English?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-frag-010",
+      "fach": "englisch",
+      "thema": "Fragen mit Is und Are",
+      "typ": "auswahl",
+      "frage": "Mach eine Frage: Holly is a quiet girl.",
+      "antwort": "Is Holly a quiet girl?",
+      "falsch": [
+        "Holly a quiet girl is?",
+        "Are Holly a quiet girl?",
+        "Is a quiet girl Holly?"
+      ],
+      "erklaerung": "Bei der Frage rutscht is oder are nach vorn. <b>Is</b> Holly a quiet girl?",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "Is Holly a quiet girl?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-frag-011",
+      "fach": "englisch",
+      "thema": "Fragen mit Is und Are",
+      "typ": "auswahl",
+      "frage": "Mach eine Frage: The rabbits are in the garden.",
+      "antwort": "Are the rabbits in the garden?",
+      "falsch": [
+        "Is the rabbits in the garden?",
+        "The rabbits in the garden are?",
+        "Are in the garden the rabbits?"
+      ],
+      "erklaerung": "Bei der Frage rutscht is oder are nach vorn. <b>Are</b> the rabbits in the garden?",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 3,
+      "vorlesen": "Are the rabbits in the garden?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-frag-012",
+      "fach": "englisch",
+      "thema": "Fragen mit Is und Are",
+      "typ": "auswahl",
+      "frage": "Mach eine Frage: You are ten.",
+      "antwort": "Are you ten?",
+      "falsch": [
+        "Is you ten?",
+        "Am you ten?",
+        "Ten are you?"
+      ],
+      "erklaerung": "Bei der Frage rutscht is oder are nach vorn. <b>Are</b> you ten?",
+      "quelle": "Scan A S. 10 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "Are you ten?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-frag-013",
+      "fach": "englisch",
+      "thema": "Fragen mit Is und Are",
+      "typ": "auswahl",
+      "frage": "Mach eine Frage: She is 10 years old.",
+      "antwort": "Is she 10 years old?",
+      "falsch": [
+        "Are she 10 years old?",
+        "She 10 years old is?",
+        "Is 10 years old she?"
+      ],
+      "erklaerung": "Bei der Frage rutscht is oder are nach vorn. <b>Is</b> she 10 years old?",
+      "quelle": "Scan A S. 10 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "Is she 10 years old?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-001",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ a dog.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There is",
+      "falsch": [
+        "There are"
+      ],
+      "erklaerung": "Ein Hund. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 17 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There is a dog.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-002",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ three dogs.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There are",
+      "falsch": [
+        "There is"
+      ],
+      "erklaerung": "Drei Hunde. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 17 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There are three dogs.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-003",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ nine boats.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There are",
+      "falsch": [
+        "There is"
+      ],
+      "erklaerung": "Neun Boote. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 17 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There are nine boats.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-004",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ one kite.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There is",
+      "falsch": [
+        "There are"
+      ],
+      "erklaerung": "Ein Drachen. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 17 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There is one kite.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-005",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ seven people.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There are",
+      "falsch": [
+        "There is"
+      ],
+      "erklaerung": "people sind mehrere Menschen. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 17 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "There are seven people.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-006",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ a person.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There is",
+      "falsch": [
+        "There are"
+      ],
+      "erklaerung": "Eine Person. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 17 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There is a person.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-007",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ many bags.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There are",
+      "falsch": [
+        "There is"
+      ],
+      "erklaerung": "many heißt viele. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 17 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There are many bags.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-008",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ a cat on the sofa.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There is",
+      "falsch": [
+        "There are"
+      ],
+      "erklaerung": "Eine Katze. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There is a cat on the sofa.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-009",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ a book in my bag.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There is",
+      "falsch": [
+        "There are"
+      ],
+      "erklaerung": "Ein Buch. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There is a book in my bag.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-010",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ twenty-four pupils in my class.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There are",
+      "falsch": [
+        "There is"
+      ],
+      "erklaerung": "Viele Schüler. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There are twenty-four pupils in my class.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-011",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ three horses in the field.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There are",
+      "falsch": [
+        "There is"
+      ],
+      "erklaerung": "Drei Pferde. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There are three horses in the field.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-012",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ one car on the chair.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There is",
+      "falsch": [
+        "There are"
+      ],
+      "erklaerung": "Ein Auto. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There is one car on the chair.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-013",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ two cars on the table.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There are",
+      "falsch": [
+        "There is"
+      ],
+      "erklaerung": "Zwei Autos. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There are two cars on the table.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-014",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ two boys in the room.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There are",
+      "falsch": [
+        "There is"
+      ],
+      "erklaerung": "Zwei Jungs. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 14, Ex. 10a)",
+      "stufe": 1,
+      "vorlesen": "There are two boys in the room.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-015",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "tor",
+      "frage": "___ a black swan on the lake.",
+      "hinweis": "There is oder There are?",
+      "antwort": "There is",
+      "falsch": [
+        "There are"
+      ],
+      "erklaerung": "Ein Schwan. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 23 (Workbook S. 8, Ex. 13)",
+      "stufe": 2,
+      "vorlesen": "There is a black swan on the lake.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-016",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "There are two cars on the wardrobe.",
+      "falsch": [
+        "There is two cars on the wardrobe.",
+        "There are two car on the wardrobe.",
+        "There two cars are on the wardrobe."
+      ],
+      "erklaerung": "Zwei Autos: <b>There are</b> two car<b>s</b>.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "There are two cars on the wardrobe.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-017",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "There is one kite in the picture.",
+      "falsch": [
+        "Tere is one kite in the picture.",
+        "There are one kite in the picture.",
+        "Their is one kite in the picture."
+      ],
+      "erklaerung": "<b>There</b> schreibt man mit h: T-h-e-r-e. Ein Drachen, also <b>is</b>.",
+      "quelle": "Scan A S. 16 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "Tere statt There",
+      "vorlesen": "There is one kite in the picture.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-018",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "auswahl",
+      "frage": "Es gibt zwei Betten in meinem Zimmer.",
+      "hinweis": "Was heißt das auf Englisch?",
+      "antwort": "There are two beds in my room.",
+      "falsch": [
+        "It gives two beds in my room.",
+        "There is two beds in my room.",
+        "They are two beds in my room."
+      ],
+      "erklaerung": "\"Es gibt\" heißt <b>there is</b> oder <b>there are</b>. Zwei Betten, also there are.",
+      "quelle": "Scan A S. 5 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "There are two beds in my room.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-019",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "auswahl",
+      "frage": "There ___ two cars on the shelf.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Zwei Autos. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There are two cars on the shelf.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-020",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "auswahl",
+      "frage": "There ___ one car under the chair.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "is",
+      "falsch": [
+        "are",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Ein Auto. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There is one car under the chair.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-021",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "auswahl",
+      "frage": "There ___ nine boats on the lake.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Neun Boote. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 23 (Workbook S. 8, Ex. 13)",
+      "stufe": 1,
+      "vorlesen": "There are nine boats on the lake.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-022",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "auswahl",
+      "frage": "There ___ three people on skateboards in the park.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is",
+        "am",
+        "be"
+      ],
+      "erklaerung": "people sind mehrere. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 23 (Workbook S. 8, Ex. 13)",
+      "stufe": 2,
+      "vorlesen": "There are three people on skateboards in the park.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-023",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "auswahl",
+      "frage": "There ___ a boy with a yellow bag in the park.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "is",
+      "falsch": [
+        "are",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Ein Junge. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 23 (Workbook S. 8, Ex. 13)",
+      "stufe": 2,
+      "vorlesen": "There is a boy with a yellow bag in the park.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-there-024",
+      "fach": "englisch",
+      "thema": "there is und there are",
+      "typ": "auswahl",
+      "frage": "There ___ two girls in boat number 6.",
+      "hinweis": "Setz die richtige Form ein.",
+      "antwort": "are",
+      "falsch": [
+        "is",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Zwei Mädchen. Ein Ding: <b>There is</b>. Mehrere Dinge: <b>There are</b>.",
+      "quelle": "Scan A S. 23 (Workbook S. 8, Ex. 13)",
+      "stufe": 1,
+      "vorlesen": "There are two girls in boat number 6.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-isthere-001",
+      "fach": "englisch",
+      "thema": "Is there und Are there",
+      "typ": "tor",
+      "frage": "___ a big bed?",
+      "hinweis": "Is there oder Are there?",
+      "antwort": "Is there",
+      "falsch": [
+        "Are there"
+      ],
+      "erklaerung": "Ein Bett. Bei der Frage tauschen die Wörter: <b>Is there</b> für ein Ding, <b>Are there</b> für mehrere.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 16, Ex. 16)",
+      "stufe": 1,
+      "vorlesen": "Is there a big bed?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-isthere-002",
+      "fach": "englisch",
+      "thema": "Is there und Are there",
+      "typ": "tor",
+      "frage": "___ pink walls in the bedroom?",
+      "hinweis": "Is there oder Are there?",
+      "antwort": "Are there",
+      "falsch": [
+        "Is there"
+      ],
+      "erklaerung": "Mehrere Wände. Bei der Frage tauschen die Wörter: <b>Is there</b> für ein Ding, <b>Are there</b> für mehrere.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 16, Ex. 16)",
+      "stufe": 1,
+      "vorlesen": "Are there pink walls in the bedroom?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-isthere-003",
+      "fach": "englisch",
+      "thema": "Is there und Are there",
+      "typ": "tor",
+      "frage": "___ photos of guinea pigs on the walls?",
+      "hinweis": "Is there oder Are there?",
+      "antwort": "Are there",
+      "falsch": [
+        "Is there"
+      ],
+      "erklaerung": "Mehrere Fotos. Bei der Frage tauschen die Wörter: <b>Is there</b> für ein Ding, <b>Are there</b> für mehrere.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 16, Ex. 16)",
+      "stufe": 2,
+      "vorlesen": "Are there photos of guinea pigs on the walls?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-isthere-004",
+      "fach": "englisch",
+      "thema": "Is there und Are there",
+      "typ": "tor",
+      "frage": "___ a black cat in the box?",
+      "hinweis": "Is there oder Are there?",
+      "antwort": "Is there",
+      "falsch": [
+        "Are there"
+      ],
+      "erklaerung": "Eine Katze. Bei der Frage tauschen die Wörter: <b>Is there</b> für ein Ding, <b>Are there</b> für mehrere.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 16, Ex. 16)",
+      "stufe": 1,
+      "vorlesen": "Is there a black cat in the box?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-isthere-005",
+      "fach": "englisch",
+      "thema": "Is there und Are there",
+      "typ": "tor",
+      "frage": "___ two toy animals on her bed?",
+      "hinweis": "Is there oder Are there?",
+      "antwort": "Are there",
+      "falsch": [
+        "Is there"
+      ],
+      "erklaerung": "Zwei Tiere. Bei der Frage tauschen die Wörter: <b>Is there</b> für ein Ding, <b>Are there</b> für mehrere.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 16, Ex. 16)",
+      "stufe": 1,
+      "vorlesen": "Are there two toy animals on her bed?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-isthere-006",
+      "fach": "englisch",
+      "thema": "Is there und Are there",
+      "typ": "auswahl",
+      "frage": "Is there a big bed? (ja)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "Yes, there is.",
+      "falsch": [
+        "Yes, it is there.",
+        "Yes, there are.",
+        "Yes, is there."
+      ],
+      "erklaerung": "Die Antwort nimmt die Wörter aus der Frage: <b>Yes, there is.</b>",
+      "quelle": "Scan 3 S. 3 (Workbook S. 16, Ex. 16)",
+      "stufe": 2,
+      "vorlesen": "Is there a big bed? Yes, there is.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-isthere-007",
+      "fach": "englisch",
+      "thema": "Is there und Are there",
+      "typ": "auswahl",
+      "frage": "Are there photos of guinea pigs on the walls? (nein)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "No, there aren't.",
+      "falsch": [
+        "No, there isn't.",
+        "No, they isn't.",
+        "No, aren't there."
+      ],
+      "erklaerung": "Mehrere Fotos: <b>No, there aren't.</b>",
+      "quelle": "Scan 3 S. 3 (Workbook S. 16, Ex. 16)",
+      "stufe": 2,
+      "vorlesen": "Are there photos of guinea pigs on the walls? No, there aren't.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-isthere-008",
+      "fach": "englisch",
+      "thema": "Is there und Are there",
+      "typ": "auswahl",
+      "frage": "Is there a black cat in the box? (nein)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "No, there isn't.",
+      "falsch": [
+        "No, there aren't.",
+        "No, it aren't.",
+        "No, isn't there."
+      ],
+      "erklaerung": "Eine Katze: <b>No, there isn't.</b>",
+      "quelle": "Scan 3 S. 3 (Workbook S. 16, Ex. 16)",
+      "stufe": 2,
+      "vorlesen": "Is there a black cat in the box? No, there isn't.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-isthere-009",
+      "fach": "englisch",
+      "thema": "Is there und Are there",
+      "typ": "auswahl",
+      "frage": "Are there two toy animals on her bed? (ja)",
+      "hinweis": "Welche Kurzantwort passt?",
+      "antwort": "Yes, there are.",
+      "falsch": [
+        "Yes, there is.",
+        "Yes, are there.",
+        "Yes, it is."
+      ],
+      "erklaerung": "Zwei Tiere: <b>Yes, there are.</b>",
+      "quelle": "Scan 3 S. 3 (Workbook S. 16, Ex. 16)",
+      "stufe": 2,
+      "vorlesen": "Are there two toy animals on her bed? Yes, there are.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-isthere-010",
+      "fach": "englisch",
+      "thema": "Is there und Are there",
+      "typ": "auswahl",
+      "frage": "Mach eine Frage: There are nine boats on the lake.",
+      "antwort": "Are there nine boats on the lake?",
+      "falsch": [
+        "Is there nine boats on the lake?",
+        "There nine boats are on the lake?",
+        "Are there nine boat on the lake?"
+      ],
+      "erklaerung": "Neun Boote: <b>Are there</b> nine boats ...?",
+      "quelle": "Scan A S. 23 (Workbook S. 8, Ex. 13)",
+      "stufe": 3,
+      "vorlesen": "Are there nine boats on the lake?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-isthere-011",
+      "fach": "englisch",
+      "thema": "Is there und Are there",
+      "typ": "auswahl",
+      "frage": "Mach eine Frage: There is a car behind the door.",
+      "antwort": "Is there a car behind the door?",
+      "falsch": [
+        "Are there a car behind the door?",
+        "Is there a cars behind the door?",
+        "Is they a car behind the door?"
+      ],
+      "erklaerung": "Ein Auto: <b>Is there</b> a car ...?",
+      "quelle": "Scan 3 S. 2 (Workbook S. 14, Ex. 10a)",
+      "stufe": 3,
+      "vorlesen": "Is there a car behind the door?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-pron-001",
+      "fach": "englisch",
+      "thema": "Personalpronomen",
+      "typ": "auswahl",
+      "frage": "Dave is my friend. → ___ is my friend.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "He",
+      "falsch": [
+        "She",
+        "It",
+        "They"
+      ],
+      "erklaerung": "Dave ist ein Junge, also <b>he</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 4, Ex. 3)",
+      "stufe": 1,
+      "vorlesen": "He is my friend.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-pron-002",
+      "fach": "englisch",
+      "thema": "Personalpronomen",
+      "typ": "auswahl",
+      "frage": "Dave and I are from Greenwich. → ___ are from Greenwich.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "We",
+      "falsch": [
+        "They",
+        "You",
+        "He"
+      ],
+      "erklaerung": "Dave und <b>ich</b> zusammen sind <b>we</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 4, Ex. 3)",
+      "stufe": 2,
+      "vorlesen": "We are from Greenwich.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-pron-003",
+      "fach": "englisch",
+      "thema": "Personalpronomen",
+      "typ": "auswahl",
+      "frage": "Greenwich is in England. → ___ is in England.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "It",
+      "falsch": [
+        "He",
+        "She",
+        "They"
+      ],
+      "erklaerung": "Ein Ort ist ein Ding, also <b>it</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 4, Ex. 3)",
+      "stufe": 1,
+      "vorlesen": "It is in England.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-pron-004",
+      "fach": "englisch",
+      "thema": "Personalpronomen",
+      "typ": "auswahl",
+      "frage": "The ball is nice. → ___ is nice.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "It",
+      "falsch": [
+        "He",
+        "She",
+        "They"
+      ],
+      "erklaerung": "Ein Ball ist ein Ding, also <b>it</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 4, Ex. 3)",
+      "stufe": 1,
+      "vorlesen": "It is nice.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-pron-005",
+      "fach": "englisch",
+      "thema": "Personalpronomen",
+      "typ": "auswahl",
+      "frage": "Dave and Pia are in the park. → ___ are in the park.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "They",
+      "falsch": [
+        "We",
+        "He",
+        "It"
+      ],
+      "erklaerung": "Zwei andere Personen sind <b>they</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 4, Ex. 3)",
+      "stufe": 1,
+      "vorlesen": "They are in the park.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-pron-006",
+      "fach": "englisch",
+      "thema": "Personalpronomen",
+      "typ": "auswahl",
+      "frage": "Pia is from Germany. → ___ is from Germany.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "She",
+      "falsch": [
+        "He",
+        "It",
+        "They"
+      ],
+      "erklaerung": "Pia ist ein Mädchen, also <b>she</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 4, Ex. 3)",
+      "stufe": 1,
+      "vorlesen": "She is from Germany.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-pron-007",
+      "fach": "englisch",
+      "thema": "Personalpronomen",
+      "typ": "auswahl",
+      "frage": "The girl is ten. → ___ is ten.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "She",
+      "falsch": [
+        "He",
+        "It",
+        "We"
+      ],
+      "erklaerung": "Ein Mädchen ist <b>she</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 4, Ex. 3)",
+      "stufe": 1,
+      "vorlesen": "She is ten.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-pron-008",
+      "fach": "englisch",
+      "thema": "Personalpronomen",
+      "typ": "auswahl",
+      "frage": "My parents and I are on holiday. → ___ are on holiday.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "We",
+      "falsch": [
+        "They",
+        "You",
+        "I"
+      ],
+      "erklaerung": "Meine Eltern und <b>ich</b> zusammen sind <b>we</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 4, Ex. 3)",
+      "stufe": 2,
+      "vorlesen": "We are on holiday.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-pron-009",
+      "fach": "englisch",
+      "thema": "Personalpronomen",
+      "typ": "auswahl",
+      "frage": "My parents are from Turkey. → ___ are from Turkey.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "They",
+      "falsch": [
+        "We",
+        "He",
+        "It"
+      ],
+      "erklaerung": "Die Eltern sind mehrere, also <b>they</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 4, Ex. 3)",
+      "stufe": 1,
+      "vorlesen": "They are from Turkey.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-pron-010",
+      "fach": "englisch",
+      "thema": "Personalpronomen",
+      "typ": "tor",
+      "frage": "Was heißt \"er\"?",
+      "antwort": "he",
+      "falsch": [
+        "she"
+      ],
+      "erklaerung": "I ich, you du, he er, she sie, it es, we wir, you ihr, they sie (mehrere).",
+      "quelle": "Scan A S. 2 (Vokabelheft)",
+      "stufe": 1,
+      "vorlesen": "he",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-pron-011",
+      "fach": "englisch",
+      "thema": "Personalpronomen",
+      "typ": "tor",
+      "frage": "Was heißt \"sie\" bei mehreren?",
+      "antwort": "they",
+      "falsch": [
+        "she"
+      ],
+      "erklaerung": "I ich, you du, he er, she sie, it es, we wir, you ihr, they sie (mehrere).",
+      "quelle": "Scan A S. 2 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "they",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-pron-012",
+      "fach": "englisch",
+      "thema": "Personalpronomen",
+      "typ": "tor",
+      "frage": "Was heißt \"wir\"?",
+      "antwort": "we",
+      "falsch": [
+        "you"
+      ],
+      "erklaerung": "I ich, you du, he er, she sie, it es, we wir, you ihr, they sie (mehrere).",
+      "quelle": "Scan A S. 19 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "we",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-pron-013",
+      "fach": "englisch",
+      "thema": "Personalpronomen",
+      "typ": "tor",
+      "frage": "Was heißt \"es\"?",
+      "antwort": "it",
+      "falsch": [
+        "he"
+      ],
+      "erklaerung": "I ich, you du, he er, she sie, it es, we wir, you ihr, they sie (mehrere).",
+      "quelle": "Scan A S. 2 (Vokabelheft)",
+      "stufe": 1,
+      "vorlesen": "it",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-001",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "She's from Germany. ___ name is Pia.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "Her",
+      "falsch": [
+        "His",
+        "Their",
+        "Our"
+      ],
+      "erklaerung": "Pia ist ein Mädchen: she → <b>her</b>.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 17, Ex. 17)",
+      "stufe": 1,
+      "vorlesen": "She's from Germany. Her name is Pia.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-002",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "They're from Greenwich. ___ names are Holly and Amber.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "Their",
+      "falsch": [
+        "Her",
+        "Our",
+        "His"
+      ],
+      "erklaerung": "Zwei Schwestern: they → <b>their</b>.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 17, Ex. 17)",
+      "stufe": 2,
+      "vorlesen": "They're from Greenwich. Their names are Holly and Amber.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-003",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "He's a mouse. ___ name is Tony.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "His",
+      "falsch": [
+        "Her",
+        "Their",
+        "Our"
+      ],
+      "erklaerung": "he → <b>his</b>.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 17, Ex. 17)",
+      "stufe": 1,
+      "vorlesen": "He's a mouse. His name is Tony.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-004",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "We're brothers. ___ names are Luke and Jamie.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "Our",
+      "falsch": [
+        "Their",
+        "His",
+        "Your"
+      ],
+      "erklaerung": "we → <b>our</b>.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 17, Ex. 17)",
+      "stufe": 2,
+      "vorlesen": "We're brothers. Our names are Luke and Jamie.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-005",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "Olivia: Is ___ name Irene?",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "your",
+      "falsch": [
+        "my",
+        "his",
+        "their"
+      ],
+      "erklaerung": "Olivia fragt Irina direkt: you → <b>your</b>.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 17, Ex. 17)",
+      "stufe": 1,
+      "vorlesen": "Is your name Irene?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-006",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "Irina: No, it isn't. ___ name is Irina.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "My",
+      "falsch": [
+        "Your",
+        "Her",
+        "Their"
+      ],
+      "erklaerung": "Irina spricht über sich: I → <b>my</b>.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 17, Ex. 17)",
+      "stufe": 1,
+      "vorlesen": "No, it isn't. My name is Irina.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-007",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "Tell me about ___ father.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "your",
+      "falsch": [
+        "you",
+        "yours",
+        "you're"
+      ],
+      "erklaerung": "dein, deine heißt <b>your</b>, mit r am Ende.",
+      "quelle": "Scan A S. 12 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "you statt your (about you father)",
+      "vorlesen": "Tell me about your father.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-008",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "This is Luke. ___ mother is Anna.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "His",
+      "falsch": [
+        "Her",
+        "Their",
+        "Our"
+      ],
+      "erklaerung": "Luke ist ein Junge: he → <b>his</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 6)",
+      "stufe": 1,
+      "vorlesen": "This is Luke. His mother is Anna.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-009",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "This is Holly. ___ guinea pigs are Mr Fluff and Honey.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "Her",
+      "falsch": [
+        "His",
+        "Their",
+        "Our"
+      ],
+      "erklaerung": "Holly ist ein Mädchen: she → <b>her</b>.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "This is Holly. Her guinea pigs are Mr Fluff and Honey.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-010",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "Luke: We're the Elliots. ___ dog is Sherlock.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "Our",
+      "falsch": [
+        "Their",
+        "Your",
+        "His"
+      ],
+      "erklaerung": "Luke spricht für die ganze Familie: we → <b>our</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5a)",
+      "stufe": 2,
+      "vorlesen": "We're the Elliots. Our dog is Sherlock.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-011",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "Dave has got friends. ___ names are Olivia, Luke and Holly.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "Their",
+      "falsch": [
+        "His",
+        "Her",
+        "Our"
+      ],
+      "erklaerung": "Es geht um die Namen der Freunde: they → <b>their</b>.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "Dave has got friends. Their names are Olivia, Luke and Holly.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-012",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "Dave: Sid is my cat. ___ is a good cat.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "He",
+      "falsch": [
+        "His",
+        "Her",
+        "They"
+      ],
+      "erklaerung": "Sid ist ein Kater mit Namen, also <b>he</b>. his heißt \"sein\".",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 7)",
+      "stufe": 2,
+      "vorlesen": "Sid is my cat. He is a good cat.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-013",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "Luke and Jamie are brothers. ___ dog is Sherlock.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "Their",
+      "falsch": [
+        "They",
+        "There",
+        "They're"
+      ],
+      "erklaerung": "\"ihr Hund\" bei mehreren heißt <b>their</b>. they heißt \"sie\", there heißt \"da\".",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5a)",
+      "stufe": 2,
+      "fehlerbild": "they statt their (They friends are ...)",
+      "vorlesen": "Luke and Jamie are brothers. Their dog is Sherlock.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-014",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "He loves ___ mum.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "his",
+      "falsch": [
+        "her",
+        "he",
+        "their"
+      ],
+      "erklaerung": "he → <b>his</b>: He loves his mum.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "He loves his mum.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-015",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "I love ___ mum.",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "my",
+      "falsch": [
+        "me",
+        "I",
+        "mine"
+      ],
+      "erklaerung": "mein, meine heißt <b>my</b>. me heißt \"mich\" oder \"mir\".",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "Me statt My (Me hause)",
+      "vorlesen": "I love my mum.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-016",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "___ house is not big. (mein)",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "My",
+      "falsch": [
+        "Me",
+        "I",
+        "Mine"
+      ],
+      "erklaerung": "mein, meine heißt <b>my</b>. me heißt \"mich\" oder \"mir\".",
+      "quelle": "Scan A S. 15 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "Me statt My (Me hause)",
+      "vorlesen": "My house is not big.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-017",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "What is ___ favourite colour?",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "your",
+      "falsch": [
+        "you",
+        "you're",
+        "yours"
+      ],
+      "erklaerung": "dein, deine heißt <b>your</b>.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "you statt your (about you father)",
+      "vorlesen": "What is your favourite colour?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-018",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "Holly, what are ___ pets?",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "your",
+      "falsch": [
+        "you",
+        "her",
+        "you're"
+      ],
+      "erklaerung": "Du sprichst Holly direkt an: you → <b>your</b>.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 15, Ex. 13)",
+      "stufe": 2,
+      "vorlesen": "Holly, what are your pets?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-019",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "tor",
+      "frage": "Was heißt \"mein\"?",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "my",
+      "falsch": [
+        "me"
+      ],
+      "erklaerung": "I → my, you → your, he → his, she → her, we → our, they → their.",
+      "quelle": "Scan A S. 15 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "my",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-020",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "tor",
+      "frage": "Was heißt \"dein\"?",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "your",
+      "falsch": [
+        "you"
+      ],
+      "erklaerung": "I → my, you → your, he → his, she → her, we → our, they → their.",
+      "quelle": "Scan A S. 12 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "you statt your (about you father)",
+      "vorlesen": "your",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-021",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "tor",
+      "frage": "Was heißt \"sein\"?",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "his",
+      "falsch": [
+        "he"
+      ],
+      "erklaerung": "I → my, you → your, he → his, she → her, we → our, they → their.",
+      "quelle": "Scan A S. 5 (Vokabelheft)",
+      "stufe": 1,
+      "vorlesen": "his",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-022",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "tor",
+      "frage": "Was heißt \"ihr\" (von ihr)?",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "her",
+      "falsch": [
+        "his"
+      ],
+      "erklaerung": "I → my, you → your, he → his, she → her, we → our, they → their.",
+      "quelle": "Scan A S. 5 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "her",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-023",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "tor",
+      "frage": "Was heißt \"unser\"?",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "our",
+      "falsch": [
+        "are"
+      ],
+      "erklaerung": "I → my, you → your, he → his, she → her, we → our, they → their.",
+      "quelle": "Scan A S. 6 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "our",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-024",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "tor",
+      "frage": "Was heißt \"ihr\" (von mehreren)?",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "their",
+      "falsch": [
+        "there"
+      ],
+      "erklaerung": "I → my, you → your, he → his, she → her, we → our, they → their.",
+      "quelle": "Scan A S. 8 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "their",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-poss-025",
+      "fach": "englisch",
+      "thema": "Possessivbegleiter",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "Their house is white and red.",
+      "falsch": [
+        "There house is white and red.",
+        "They house is white and red.",
+        "They're house is white and red."
+      ],
+      "erklaerung": "\"ihr Haus\" bei mehreren: <b>their</b> house.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 6)",
+      "stufe": 2,
+      "fehlerbild": "they statt their (They friends are ...)",
+      "vorlesen": "Their house is white and red.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gen-001",
+      "fach": "englisch",
+      "thema": "s-Genitiv und of",
+      "typ": "auswahl",
+      "frage": "___ skateboard is cool. (Jamie)",
+      "hinweis": "Wem gehört es?",
+      "antwort": "Jamie's",
+      "falsch": [
+        "Jamies",
+        "Jamies'",
+        "Jamie"
+      ],
+      "erklaerung": "Bei Personen: Name + <b>'s</b>: Luke's room.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 15, Ex. 12)",
+      "stufe": 1,
+      "vorlesen": "Jamie's skateboard is cool.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gen-002",
+      "fach": "englisch",
+      "thema": "s-Genitiv und of",
+      "typ": "auswahl",
+      "frage": "It's fun in the ___ house. (the Elliots)",
+      "hinweis": "Wem gehört es?",
+      "antwort": "Elliots'",
+      "falsch": [
+        "Elliot's",
+        "Elliots",
+        "Elliots's"
+      ],
+      "erklaerung": "Endet die Mehrzahl schon auf s, kommt nur der Apostroph dahinter: the boys<b>'</b> bedroom.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 15, Ex. 12)",
+      "stufe": 3,
+      "vorlesen": "It's fun in the Elliots' house.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gen-003",
+      "fach": "englisch",
+      "thema": "s-Genitiv und of",
+      "typ": "auswahl",
+      "frage": "I'm in the ___ bedroom. (the boys)",
+      "hinweis": "Wem gehört es?",
+      "antwort": "boys'",
+      "falsch": [
+        "boy's",
+        "boys",
+        "boys's"
+      ],
+      "erklaerung": "Endet die Mehrzahl schon auf s, kommt nur der Apostroph dahinter: the boys<b>'</b> bedroom.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 15, Ex. 12)",
+      "stufe": 3,
+      "vorlesen": "I'm in the boys' bedroom.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gen-004",
+      "fach": "englisch",
+      "thema": "s-Genitiv und of",
+      "typ": "auswahl",
+      "frage": "There are nice things in Mrs ___ kitchen. (Elliot)",
+      "hinweis": "Wem gehört es?",
+      "antwort": "Elliot's",
+      "falsch": [
+        "Elliots",
+        "Elliots'",
+        "Elliot"
+      ],
+      "erklaerung": "Eine Person: <b>Mrs Elliot's</b> kitchen.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 15, Ex. 12)",
+      "stufe": 2,
+      "vorlesen": "There are nice things in Mrs Elliot's kitchen.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gen-005",
+      "fach": "englisch",
+      "thema": "s-Genitiv und of",
+      "typ": "auswahl",
+      "frage": "The ___ mother is from Poland. (children)",
+      "hinweis": "Wem gehört es?",
+      "antwort": "children's",
+      "falsch": [
+        "childrens",
+        "childrens'",
+        "children"
+      ],
+      "erklaerung": "children endet nicht auf s, also <b>'s</b>: the children's mother.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 15, Ex. 12)",
+      "stufe": 3,
+      "vorlesen": "The children's mother is from Poland.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gen-006",
+      "fach": "englisch",
+      "thema": "s-Genitiv und of",
+      "typ": "auswahl",
+      "frage": "___ new room is in the loft. (Luke)",
+      "hinweis": "Wem gehört es?",
+      "antwort": "Luke's",
+      "falsch": [
+        "Lukes",
+        "Lukes'",
+        "Luke"
+      ],
+      "erklaerung": "Bei Personen: Name + <b>'s</b>: Luke's room.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 15, Ex. 12)",
+      "stufe": 1,
+      "vorlesen": "Luke's new room is in the loft.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gen-007",
+      "fach": "englisch",
+      "thema": "s-Genitiv und of",
+      "typ": "auswahl",
+      "frage": "What is the name ___ the road?",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "of",
+      "falsch": [
+        "from",
+        "in",
+        "'s"
+      ],
+      "erklaerung": "Bei Dingen nimmst du oft <b>of</b>: the name of the road.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 15, Ex. 13)",
+      "stufe": 2,
+      "vorlesen": "What is the name of the road?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gen-008",
+      "fach": "englisch",
+      "thema": "s-Genitiv und of",
+      "typ": "auswahl",
+      "frage": "What is in the centre ___ Greenwich Park?",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "of",
+      "falsch": [
+        "from",
+        "on",
+        "'s"
+      ],
+      "erklaerung": "Bei Orten und Dingen: the centre <b>of</b> Greenwich Park.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 15, Ex. 13)",
+      "stufe": 2,
+      "vorlesen": "What is in the centre of Greenwich Park?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gen-009",
+      "fach": "englisch",
+      "thema": "s-Genitiv und of",
+      "typ": "auswahl",
+      "frage": "What is the name of ___ cat? (Dave)",
+      "hinweis": "Wem gehört es?",
+      "antwort": "Dave's",
+      "falsch": [
+        "Daves",
+        "Daves'",
+        "Dave"
+      ],
+      "erklaerung": "Bei Personen: Name + <b>'s</b>: Luke's room.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 15, Ex. 13)",
+      "stufe": 1,
+      "vorlesen": "What is the name of Dave's cat?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gen-010",
+      "fach": "englisch",
+      "thema": "s-Genitiv und of",
+      "typ": "auswahl",
+      "frage": "What are ___ pets? (Holly)",
+      "hinweis": "Wem gehört es?",
+      "antwort": "Holly's",
+      "falsch": [
+        "Hollys",
+        "Hollys'",
+        "Holly"
+      ],
+      "erklaerung": "Bei Personen: Name + <b>'s</b>: Luke's room.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 15, Ex. 13)",
+      "stufe": 1,
+      "vorlesen": "What are Holly's pets?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gen-011",
+      "fach": "englisch",
+      "thema": "s-Genitiv und of",
+      "typ": "auswahl",
+      "frage": "What colour is the door ___ the house?",
+      "hinweis": "Welches Wort passt?",
+      "antwort": "of",
+      "falsch": [
+        "from",
+        "in",
+        "'s"
+      ],
+      "erklaerung": "Bei Dingen: the door <b>of</b> the house.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 15, Ex. 13)",
+      "stufe": 2,
+      "vorlesen": "What colour is the door of the house?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gen-012",
+      "fach": "englisch",
+      "thema": "s-Genitiv und of",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "My dad's name is Jack.",
+      "falsch": [
+        "My dads name is Jack.",
+        "My dads' name is Jack.",
+        "My dad name's is Jack."
+      ],
+      "erklaerung": "Der Name gehört dem Papa: <b>dad's</b> name, mit Apostroph vor dem s.",
+      "quelle": "Scan A S. 15 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "Apostroph fehlt (My dads name)",
+      "vorlesen": "My dad's name is Jack.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gen-013",
+      "fach": "englisch",
+      "thema": "s-Genitiv und of",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "The students of class 5a are cool.",
+      "falsch": [
+        "The student's of class 5a are cool.",
+        "The students' of class 5a are cool.",
+        "The students's of class 5a are cool."
+      ],
+      "erklaerung": "Bei einer normalen Mehrzahl gibt es <b>keinen</b> Apostroph: students.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "Apostroph bei Mehrzahl (The student's of class 5a)",
+      "vorlesen": "The students of class 5a are cool.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-001",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one rabbit, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "rabbits",
+      "falsch": [
+        "rabbit"
+      ],
+      "erklaerung": "Meistens hängt man einfach <b>-s</b> an.",
+      "quelle": "Scan A S. 16 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "one rabbit, two rabbits",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-002",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one class, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "classes",
+      "falsch": [
+        "classs",
+        "clases"
+      ],
+      "erklaerung": "Nach s, x, sh und ch kommt <b>-es</b>.",
+      "quelle": "Scan A S. 16 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "one class, two classes",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-003",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one box, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "boxes",
+      "falsch": [
+        "boxs"
+      ],
+      "erklaerung": "Nach s, x, sh und ch kommt <b>-es</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "one box, two boxes",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-004",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one bus, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "buses",
+      "falsch": [
+        "buss"
+      ],
+      "erklaerung": "Nach s, x, sh und ch kommt <b>-es</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "one bus, two buses",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-005",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one baby, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "babies",
+      "falsch": [
+        "babys"
+      ],
+      "erklaerung": "Konsonant + y wird zu <b>-ies</b>. baby → babies.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "babys statt babies",
+      "vorlesen": "one baby, two babies",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-006",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one hobby, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "hobbies",
+      "falsch": [
+        "hobbys"
+      ],
+      "erklaerung": "Konsonant + y wird zu <b>-ies</b>. hobby → hobbies.",
+      "quelle": "Scan A S. 4 (Vokabelheft)",
+      "stufe": 2,
+      "fehlerbild": "hobbys statt hobbies",
+      "vorlesen": "one hobby, two hobbies",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-007",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one mouse, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "mice",
+      "falsch": [
+        "mouses"
+      ],
+      "erklaerung": "mouse ist besonders: one mouse, two <b>mice</b>.",
+      "quelle": "Scan A S. 3 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "one mouse, two mice",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-008",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one person, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "people",
+      "falsch": [
+        "persones"
+      ],
+      "erklaerung": "person ist besonders: one person, seven <b>people</b>.",
+      "quelle": "Scan A S. 17 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "one person, two people",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-009",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one child, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "children",
+      "falsch": [
+        "childs"
+      ],
+      "erklaerung": "child ist besonders: one child, two <b>children</b>.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 15, Ex. 12)",
+      "stufe": 3,
+      "vorlesen": "one child, two children",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-010",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one girl, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "girls",
+      "falsch": [
+        "girles"
+      ],
+      "erklaerung": "Meistens hängt man einfach <b>-s</b> an.",
+      "quelle": "Scan A S. 16 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "one girl, two girls",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-011",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one cat, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "cats",
+      "falsch": [
+        "cat",
+        "cates"
+      ],
+      "erklaerung": "Meistens hängt man einfach <b>-s</b> an.",
+      "quelle": "Scan A S. 16 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "one cat, two cats",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-012",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one friend, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "friends",
+      "falsch": [
+        "frends"
+      ],
+      "erklaerung": "Meistens hängt man einfach <b>-s</b> an. friend schreibt man mit <b>ie</b>.",
+      "quelle": "Scan A S. 16 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "Rechtschreibung friend",
+      "vorlesen": "one friend, two friends",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-013",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one student, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "students",
+      "falsch": [
+        "student's"
+      ],
+      "erklaerung": "Meistens hängt man einfach <b>-s</b> an. Ohne Apostroph.",
+      "quelle": "Scan A S. 16 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "Apostroph bei Mehrzahl (The student's)",
+      "vorlesen": "one student, two students",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-014",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one guinea pig, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "guinea pigs",
+      "falsch": [
+        "guineas pig"
+      ],
+      "erklaerung": "Das <b>-s</b> kommt ans Ende: guinea pig<b>s</b>.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "one guinea pig, two guinea pigs",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-015",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "tor",
+      "frage": "one horse, two ___",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "horses",
+      "falsch": [
+        "horse"
+      ],
+      "erklaerung": "Meistens hängt man einfach <b>-s</b> an.",
+      "quelle": "Scan A S. 22 (Workbook S. 6, Ex. 7)",
+      "stufe": 1,
+      "vorlesen": "one horse, two horses",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-016",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "auswahl",
+      "frage": "Welcher Ausdruck stimmt?",
+      "antwort": "one rabbit",
+      "falsch": [
+        "one rabbits",
+        "one rabbites",
+        "a rabbits"
+      ],
+      "erklaerung": "Bei <b>one</b> gibt es kein s: one rabbit, two rabbits.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "one rabbits (selbst verbessert)",
+      "vorlesen": "one rabbit",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-017",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "auswahl",
+      "frage": "seven ___ (baby)",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "babies",
+      "falsch": [
+        "babys",
+        "babyes",
+        "baby"
+      ],
+      "erklaerung": "Konsonant + y wird zu <b>-ies</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "babys statt babies",
+      "vorlesen": "seven babies",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-018",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "auswahl",
+      "frage": "eight ___ (hobby)",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "hobbies",
+      "falsch": [
+        "hobbys",
+        "hobbyes",
+        "hobby"
+      ],
+      "erklaerung": "Konsonant + y wird zu <b>-ies</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "hobbys statt hobbies",
+      "vorlesen": "eight hobbies",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-019",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "auswahl",
+      "frage": "four ___ (box)",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "boxes",
+      "falsch": [
+        "boxs",
+        "box",
+        "boxies"
+      ],
+      "erklaerung": "Nach s, x, sh und ch kommt <b>-es</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "four boxes",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-020",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "auswahl",
+      "frage": "They don't eat ___. (mouse)",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "mice",
+      "falsch": [
+        "mouses",
+        "mices",
+        "mouse"
+      ],
+      "erklaerung": "one mouse, two <b>mice</b>.",
+      "quelle": "Scan A S. 3 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "They don't eat mice.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-021",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "auswahl",
+      "frage": "There are seven ___ in the picture. (person)",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "people",
+      "falsch": [
+        "person",
+        "persones",
+        "peoples"
+      ],
+      "erklaerung": "one person, seven <b>people</b>.",
+      "quelle": "Scan A S. 17 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "There are seven people in the picture.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-022",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "auswahl",
+      "frage": "Welcher Ausdruck stimmt?",
+      "antwort": "two white mice",
+      "falsch": [
+        "two whites mice",
+        "two white mouses",
+        "two white mouse"
+      ],
+      "erklaerung": "Die Farbe bekommt nie ein s. Und mouse wird zu <b>mice</b>.",
+      "quelle": "Scan A S. 22 (Workbook S. 7, Ex. 11b)",
+      "stufe": 3,
+      "vorlesen": "two white mice",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-023",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "Mr Fluff and Honey are guinea pigs.",
+      "falsch": [
+        "Mr Fluff and Honey are guinea pig.",
+        "Mr Fluff and Honey are guineas pigs.",
+        "Mr Fluff and Honey is guinea pigs."
+      ],
+      "erklaerung": "Zwei Tiere: <b>are</b> guinea pig<b>s</b>.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "is statt are bei mehreren",
+      "vorlesen": "Mr Fluff and Honey are guinea pigs.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-plural-024",
+      "fach": "englisch",
+      "thema": "Mehrzahl",
+      "typ": "auswahl",
+      "frage": "five ___ (bus)",
+      "hinweis": "Wie heißt die Mehrzahl?",
+      "antwort": "buses",
+      "falsch": [
+        "buss",
+        "bus",
+        "busies"
+      ],
+      "erklaerung": "Nach s, x, sh und ch kommt <b>-es</b>.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "five buses",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-001",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ animal",
+      "hinweis": "a oder an?",
+      "antwort": "an",
+      "falsch": [
+        "a"
+      ],
+      "erklaerung": "Beginnt das nächste Wort mit a, e, i, o oder u, heißt es <b>an</b>. animal beginnt mit a.",
+      "quelle": "Scan A S. 16 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "a statt an (a animal)",
+      "vorlesen": "an animal",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-002",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ only child",
+      "hinweis": "a oder an?",
+      "antwort": "an",
+      "falsch": [
+        "a"
+      ],
+      "erklaerung": "Beginnt das nächste Wort mit a, e, i, o oder u, heißt es <b>an</b>. only beginnt mit o.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "a statt an (a only child)",
+      "vorlesen": "an only child",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-003",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ apple",
+      "hinweis": "a oder an?",
+      "antwort": "an",
+      "falsch": [
+        "a"
+      ],
+      "erklaerung": "Beginnt das nächste Wort mit a, e, i, o oder u, heißt es <b>an</b>. apple beginnt mit a.",
+      "quelle": "Scan A S. 12 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "an apple",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-004",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ interview",
+      "hinweis": "a oder an?",
+      "antwort": "an",
+      "falsch": [
+        "a"
+      ],
+      "erklaerung": "Beginnt das nächste Wort mit a, e, i, o oder u, heißt es <b>an</b>. interview beginnt mit i.",
+      "quelle": "Scan A S. 23 (Workbook S. 9, Ex. 14)",
+      "stufe": 2,
+      "vorlesen": "an interview",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-005",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ idea",
+      "hinweis": "a oder an?",
+      "antwort": "an",
+      "falsch": [
+        "a"
+      ],
+      "erklaerung": "Beginnt das nächste Wort mit a, e, i, o oder u, heißt es <b>an</b>. idea beginnt mit i.",
+      "quelle": "Scan A S. 8 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "an idea",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-006",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ eagle",
+      "hinweis": "a oder an?",
+      "antwort": "an",
+      "falsch": [
+        "a"
+      ],
+      "erklaerung": "Beginnt das nächste Wort mit a, e, i, o oder u, heißt es <b>an</b>. eagle beginnt mit e.",
+      "quelle": "Scan A S. 2 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "an eagle",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-007",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ uncle",
+      "hinweis": "a oder an?",
+      "antwort": "an",
+      "falsch": [
+        "a"
+      ],
+      "erklaerung": "Beginnt das nächste Wort mit a, e, i, o oder u, heißt es <b>an</b>. uncle beginnt mit u.",
+      "quelle": "Scan A S. 6 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "an uncle",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-008",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ aunt",
+      "hinweis": "a oder an?",
+      "antwort": "an",
+      "falsch": [
+        "a"
+      ],
+      "erklaerung": "Beginnt das nächste Wort mit a, e, i, o oder u, heißt es <b>an</b>. aunt beginnt mit a.",
+      "quelle": "Scan A S. 6 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "an aunt",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-009",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ old dog",
+      "hinweis": "a oder an?",
+      "antwort": "an",
+      "falsch": [
+        "a"
+      ],
+      "erklaerung": "Es zählt das Wort direkt danach: <b>old</b> beginnt mit o.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "an old dog",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-010",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ orange ball",
+      "hinweis": "a oder an?",
+      "antwort": "an",
+      "falsch": [
+        "a"
+      ],
+      "erklaerung": "Es zählt das Wort direkt danach: <b>orange</b> beginnt mit o.",
+      "quelle": "Scan A S. 4 (Vokabelheft)",
+      "stufe": 3,
+      "vorlesen": "an orange ball",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-011",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ exercise book",
+      "hinweis": "a oder an?",
+      "antwort": "an",
+      "falsch": [
+        "a"
+      ],
+      "erklaerung": "Beginnt das nächste Wort mit a, e, i, o oder u, heißt es <b>an</b>. exercise beginnt mit e.",
+      "quelle": "Scan A S. 19 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "an exercise book",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-012",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ English book",
+      "hinweis": "a oder an?",
+      "antwort": "an",
+      "falsch": [
+        "a"
+      ],
+      "erklaerung": "Beginnt das nächste Wort mit a, e, i, o oder u, heißt es <b>an</b>. English beginnt mit E.",
+      "quelle": "Scan A S. 6 (Vokabelheft)",
+      "stufe": 3,
+      "vorlesen": "an English book",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-013",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ hamster",
+      "hinweis": "a oder an?",
+      "antwort": "a",
+      "falsch": [
+        "an"
+      ],
+      "erklaerung": "Beginnt das nächste Wort nicht mit a, e, i, o oder u, heißt es <b>a</b>.",
+      "quelle": "Scan A S. 15 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "a hamster",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-014",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ rabbit",
+      "hinweis": "a oder an?",
+      "antwort": "a",
+      "falsch": [
+        "an"
+      ],
+      "erklaerung": "Beginnt das nächste Wort nicht mit a, e, i, o oder u, heißt es <b>a</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 5, Ex. 6)",
+      "stufe": 1,
+      "vorlesen": "a rabbit",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-015",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ big family",
+      "hinweis": "a oder an?",
+      "antwort": "a",
+      "falsch": [
+        "an"
+      ],
+      "erklaerung": "Es zählt das Wort direkt danach: <b>big</b> beginnt mit b.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 5a)",
+      "stufe": 1,
+      "vorlesen": "a big family",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-016",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ skateboard",
+      "hinweis": "a oder an?",
+      "antwort": "a",
+      "falsch": [
+        "an"
+      ],
+      "erklaerung": "Beginnt das nächste Wort nicht mit a, e, i, o oder u, heißt es <b>a</b>.",
+      "quelle": "Scan A S. 17 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "a skateboard",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-017",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ yellow bag",
+      "hinweis": "a oder an?",
+      "antwort": "a",
+      "falsch": [
+        "an"
+      ],
+      "erklaerung": "yellow beginnt mit y, das zählt nicht zu a, e, i, o, u. Also <b>a</b>.",
+      "quelle": "Scan A S. 23 (Workbook S. 8, Ex. 13)",
+      "stufe": 3,
+      "vorlesen": "a yellow bag",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-018",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "___ quiet girl",
+      "hinweis": "a oder an?",
+      "antwort": "a",
+      "falsch": [
+        "an"
+      ],
+      "erklaerung": "Es zählt das Wort direkt danach: <b>quiet</b> beginnt mit q.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "a quiet girl",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-019",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "Dave is an only child.",
+      "falsch": [
+        "Dave is a only child.",
+        "Dave is an only childs.",
+        "Dave is a an only child."
+      ],
+      "erklaerung": "Beginnt das nächste Wort mit a, e, i, o oder u, heißt es <b>an</b>. only beginnt mit o: <b>an</b> only child.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "a statt an (a only child)",
+      "vorlesen": "Dave is an only child.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-020",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "antwort": "My little brother eats an apple.",
+      "falsch": [
+        "My little brother eats a apple.",
+        "My little brother eats an apples.",
+        "My little brother eats a apples."
+      ],
+      "erklaerung": "Beginnt das nächste Wort mit a, e, i, o oder u, heißt es <b>an</b>. Und bei an kommt nur <b>ein</b> Apfel.",
+      "quelle": "Scan A S. 12 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "My little brother eats an apple.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-021",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "auswahl",
+      "frage": "Welcher Ausdruck stimmt?",
+      "antwort": "an animal",
+      "falsch": [
+        "a animal",
+        "an animals",
+        "a animals"
+      ],
+      "erklaerung": "Beginnt das nächste Wort mit a, e, i, o oder u, heißt es <b>an</b>. Nach an kommt kein s.",
+      "quelle": "Scan A S. 16 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "a statt an (a animal)",
+      "vorlesen": "an animal",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-aan-022",
+      "fach": "englisch",
+      "thema": "a oder an",
+      "typ": "tor",
+      "frage": "Bugs Bunny is ___ rabbit.",
+      "antwort": "a",
+      "falsch": [
+        "an"
+      ],
+      "erklaerung": "Beginnt das nächste Wort nicht mit a, e, i, o oder u, heißt es <b>a</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 5, Ex. 6)",
+      "stufe": 1,
+      "vorlesen": "Bugs Bunny is a rabbit.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-001",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "auswahl",
+      "frage": "___'s your name?",
+      "hinweis": "Welches Fragewort passt?",
+      "antwort": "What",
+      "falsch": [
+        "Where",
+        "How",
+        "Who"
+      ],
+      "erklaerung": "Nach dem Namen fragst du mit <b>What</b>. <b>What</b> was, <b>Where</b> wo/woher, <b>How</b> wie, <b>Who</b> wer.",
+      "quelle": "Scan A S. 23 (Workbook S. 9, Ex. 15)",
+      "stufe": 1,
+      "vorlesen": "What's your name?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-002",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "auswahl",
+      "frage": "___ are you from?",
+      "hinweis": "Welches Fragewort passt?",
+      "antwort": "Where",
+      "falsch": [
+        "What",
+        "How",
+        "Who"
+      ],
+      "erklaerung": "Woher? heißt <b>Where ... from?</b>",
+      "quelle": "Scan A S. 23 (Workbook S. 9, Ex. 15)",
+      "stufe": 1,
+      "vorlesen": "Where are you from?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-003",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "auswahl",
+      "frage": "___ old are you?",
+      "hinweis": "Welches Fragewort passt?",
+      "antwort": "How",
+      "falsch": [
+        "What",
+        "Where",
+        "Who"
+      ],
+      "erklaerung": "Wie alt? heißt <b>How old?</b>",
+      "quelle": "Scan A S. 23 (Workbook S. 9, Ex. 15)",
+      "stufe": 1,
+      "vorlesen": "How old are you?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-004",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "auswahl",
+      "frage": "___'s your favourite colour?",
+      "hinweis": "Welches Fragewort passt?",
+      "antwort": "What",
+      "falsch": [
+        "Where",
+        "How",
+        "Who"
+      ],
+      "erklaerung": "Was ist ...? heißt <b>What's ...?</b>",
+      "quelle": "Scan A S. 23 (Workbook S. 9, Ex. 15)",
+      "stufe": 1,
+      "vorlesen": "What's your favourite colour?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-005",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "auswahl",
+      "frage": "___'s your family from?",
+      "hinweis": "Welches Fragewort passt?",
+      "antwort": "Where",
+      "falsch": [
+        "What",
+        "How",
+        "Who"
+      ],
+      "erklaerung": "Woher? heißt <b>Where ... from?</b>",
+      "quelle": "Scan 3 S. 3 (Workbook S. 17, Ex. 18a)",
+      "stufe": 2,
+      "vorlesen": "Where's your family from?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-006",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "tor",
+      "frage": "___'s in the house with you?",
+      "hinweis": "Welches Fragewort passt?",
+      "antwort": "Who",
+      "falsch": [
+        "Where",
+        "How"
+      ],
+      "erklaerung": "Es geht um Personen: Wer? heißt <b>Who</b>.",
+      "quelle": "Scan 3 S. 3 (Workbook S. 17, Ex. 18a)",
+      "stufe": 2,
+      "vorlesen": "Who's in the house with you?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-007",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "tor",
+      "frage": "___'s your address?",
+      "hinweis": "Welches Fragewort passt?",
+      "antwort": "What",
+      "falsch": [
+        "Who",
+        "How"
+      ],
+      "erklaerung": "Was ist deine Adresse? <b>What's</b> your address?",
+      "quelle": "Scan 3 S. 3 (Workbook S. 17, Ex. 18a)",
+      "stufe": 2,
+      "vorlesen": "What's your address?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-008",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "auswahl",
+      "frage": "___ old is your sister?",
+      "hinweis": "Welches Fragewort passt?",
+      "antwort": "How",
+      "falsch": [
+        "What",
+        "Who",
+        "Where"
+      ],
+      "erklaerung": "Wie alt? heißt <b>How old?</b>",
+      "quelle": "Scan 3 S. 3 (Workbook S. 17, Ex. 18a)",
+      "stufe": 1,
+      "vorlesen": "How old is your sister?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-009",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "auswahl",
+      "frage": "___ colour is Sherlock?",
+      "hinweis": "Welches Fragewort passt?",
+      "antwort": "What",
+      "falsch": [
+        "How",
+        "Who",
+        "Where"
+      ],
+      "erklaerung": "Welche Farbe? heißt <b>What colour?</b>",
+      "quelle": "Scan A S. 5 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "What colour is Sherlock?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-010",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "auswahl",
+      "frage": "___'s your favourite sport?",
+      "hinweis": "Welches Fragewort passt?",
+      "antwort": "What",
+      "falsch": [
+        "How",
+        "Who",
+        "Where"
+      ],
+      "erklaerung": "Was ist ...? heißt <b>What's ...?</b>",
+      "quelle": "Scan A S. 23 (Workbook S. 9, Ex. 15)",
+      "stufe": 1,
+      "vorlesen": "What's your favourite sport?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-011",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "auswahl",
+      "frage": "___'s your favourite animal?",
+      "hinweis": "Welches Fragewort passt?",
+      "antwort": "What",
+      "falsch": [
+        "Where",
+        "How",
+        "Who"
+      ],
+      "erklaerung": "Was ist ...? heißt <b>What's ...?</b>",
+      "quelle": "Scan A S. 23 (Workbook S. 9, Ex. 15)",
+      "stufe": 1,
+      "vorlesen": "What's your favourite animal?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-012",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "auswahl",
+      "frage": "___ is Luke's new room? It's in the loft.",
+      "hinweis": "Welches Fragewort passt?",
+      "antwort": "Where",
+      "falsch": [
+        "What",
+        "Who",
+        "How"
+      ],
+      "erklaerung": "Die Antwort ist ein Ort, also <b>Where</b>.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 15, Ex. 13)",
+      "stufe": 2,
+      "vorlesen": "Where is Luke's new room? It's in the loft.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-013",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "auswahl",
+      "frage": "___ is your lucky number?",
+      "hinweis": "Welches Fragewort passt?",
+      "antwort": "What",
+      "falsch": [
+        "How",
+        "Where",
+        "Who"
+      ],
+      "erklaerung": "Was ist ...? heißt <b>What is ...?</b>",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 8)",
+      "stufe": 1,
+      "vorlesen": "What is your lucky number?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-014",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "tor",
+      "frage": "Was heißt \"wer\"?",
+      "antwort": "who",
+      "falsch": [
+        "how"
+      ],
+      "erklaerung": "<b>What</b> was, <b>Where</b> wo/woher, <b>How</b> wie, <b>Who</b> wer.",
+      "quelle": "Scan A S. 2 (Vokabelheft)",
+      "stufe": 1,
+      "vorlesen": "who",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-015",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "tor",
+      "frage": "Was heißt \"wie\" in \"Wie alt\"?",
+      "antwort": "how",
+      "falsch": [
+        "who"
+      ],
+      "erklaerung": "<b>What</b> was, <b>Where</b> wo/woher, <b>How</b> wie, <b>Who</b> wer.",
+      "quelle": "Scan A S. 2 (Vokabelheft)",
+      "stufe": 1,
+      "vorlesen": "how",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-wort-016",
+      "fach": "englisch",
+      "thema": "Fragewörter",
+      "typ": "tor",
+      "frage": "Was heißt \"wo\"?",
+      "antwort": "where",
+      "falsch": [
+        "what"
+      ],
+      "erklaerung": "<b>What</b> was, <b>Where</b> wo/woher, <b>How</b> wie, <b>Who</b> wer.",
+      "quelle": "Scan A S. 2 (Vokabelheft)",
+      "stufe": 1,
+      "vorlesen": "where",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-001",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "auswahl",
+      "frage": "There are two boys ___ the room. (im)",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "in",
+      "falsch": [
+        "on",
+        "under",
+        "behind"
+      ],
+      "erklaerung": "in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 14, Ex. 10a)",
+      "stufe": 1,
+      "vorlesen": "There are two boys in the room.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-002",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "auswahl",
+      "frage": "Jamie is ___ the beds. (hinter)",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "behind",
+      "falsch": [
+        "in front of",
+        "next to",
+        "under"
+      ],
+      "erklaerung": "in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 14, Ex. 10a)",
+      "stufe": 1,
+      "vorlesen": "Jamie is behind the beds.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-003",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "auswahl",
+      "frage": "Jamie's cars are ___ the floor. (auf)",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "on",
+      "falsch": [
+        "in",
+        "under",
+        "behind"
+      ],
+      "erklaerung": "in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 14, Ex. 10a)",
+      "stufe": 1,
+      "vorlesen": "Jamie's cars are on the floor.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-004",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "auswahl",
+      "frage": "There's a car ___ the door. (hinter)",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "behind",
+      "falsch": [
+        "in front of",
+        "under",
+        "on"
+      ],
+      "erklaerung": "in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 14, Ex. 10a)",
+      "stufe": 2,
+      "vorlesen": "There's a car behind the door.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-005",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "auswahl",
+      "frage": "There's a ball ___ the bed. (unter)",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "under",
+      "falsch": [
+        "on",
+        "behind",
+        "in"
+      ],
+      "erklaerung": "in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 14, Ex. 10a)",
+      "stufe": 1,
+      "vorlesen": "There's a ball under the bed.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-006",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "auswahl",
+      "frage": "There's a skateboard ___ the table. (unter)",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "under",
+      "falsch": [
+        "on",
+        "next to",
+        "in"
+      ],
+      "erklaerung": "in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 14, Ex. 10b)",
+      "stufe": 1,
+      "vorlesen": "There's a skateboard under the table.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-007",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "auswahl",
+      "frage": "There are two cars ___ the table. (auf)",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "on",
+      "falsch": [
+        "of",
+        "in",
+        "under"
+      ],
+      "erklaerung": "auf heißt <b>on</b>. of heißt \"von\". in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "of statt on (selbst verbessert)",
+      "vorlesen": "There are two cars on the table.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-008",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "auswahl",
+      "frage": "There is one car ___ the wardrobe. (im)",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "in",
+      "falsch": [
+        "on",
+        "of",
+        "under"
+      ],
+      "erklaerung": "in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "There is one car in the wardrobe.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-009",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "auswahl",
+      "frage": "The biscuits are on the floor, ___ the sofa. (vor)",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "in front of",
+      "falsch": [
+        "behind",
+        "next to",
+        "under"
+      ],
+      "erklaerung": "in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 14, Ex. 11b)",
+      "stufe": 2,
+      "vorlesen": "The biscuits are on the floor, in front of the sofa.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-010",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "auswahl",
+      "frage": "The biscuits are ___ the cooker. (neben)",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "next to",
+      "falsch": [
+        "in front of",
+        "behind",
+        "under"
+      ],
+      "erklaerung": "in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 14, Ex. 11b)",
+      "stufe": 2,
+      "vorlesen": "The biscuits are next to the cooker.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-011",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "tor",
+      "frage": "Was heißt \"unter\"?",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "under",
+      "falsch": [
+        "on"
+      ],
+      "erklaerung": "in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan A S. 6 (Vokabelheft)",
+      "stufe": 1,
+      "vorlesen": "under",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-012",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "tor",
+      "frage": "Was heißt \"hinter\"?",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "behind",
+      "falsch": [
+        "in front of"
+      ],
+      "erklaerung": "in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan A S. 8 (Vokabelheft)",
+      "stufe": 1,
+      "vorlesen": "behind",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-013",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "tor",
+      "frage": "Was heißt \"neben\"?",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "next to",
+      "falsch": [
+        "behind"
+      ],
+      "erklaerung": "in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan A S. 8 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "next to",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-014",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "tor",
+      "frage": "Was heißt \"vor\"?",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "in front of",
+      "falsch": [
+        "behind"
+      ],
+      "erklaerung": "in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan A S. 8 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "in front of",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-prep-015",
+      "fach": "englisch",
+      "thema": "Ortspräpositionen",
+      "typ": "tor",
+      "frage": "Was heißt \"auf\"?",
+      "hinweis": "Welches Wort passt? Der deutsche Tipp hilft.",
+      "antwort": "on",
+      "falsch": [
+        "in"
+      ],
+      "erklaerung": "in im, on auf, under unter, behind hinter, in front of vor, next to neben.",
+      "quelle": "Scan 3 S. 2 (Workbook S. 14, Ex. 10a)",
+      "stufe": 1,
+      "vorlesen": "on",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-like-001",
+      "fach": "englisch",
+      "thema": "I like und I don't like",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz stimmt?",
+      "antwort": "I don't like rats.",
+      "falsch": [
+        "I not like rats.",
+        "I am not like rats.",
+        "I like not rats."
+      ],
+      "erklaerung": "Bei Tunwörtern wie like verneinst du mit <b>don't</b>: I don't like ...",
+      "quelle": "Scan A S. 22 (Workbook S. 6, Ex. 8)",
+      "stufe": 1,
+      "vorlesen": "I don't like rats.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-like-002",
+      "fach": "englisch",
+      "thema": "I like und I don't like",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz stimmt?",
+      "antwort": "I'm not scared of dogs.",
+      "falsch": [
+        "I don't scared of dogs.",
+        "I'm don't scared of dogs.",
+        "I not scared of dogs."
+      ],
+      "erklaerung": "scared ist kein Tunwort, davor steht <b>am</b>. Also: I'm <b>not</b> scared. Bei am, is und are kommt nie don't.",
+      "quelle": "Scan A S. 3 (Vokabelheft)",
+      "stufe": 2,
+      "fehlerbild": "don't bei am",
+      "vorlesen": "I'm not scared of dogs.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-like-003",
+      "fach": "englisch",
+      "thema": "I like und I don't like",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz stimmt?",
+      "antwort": "They don't eat mice.",
+      "falsch": [
+        "They not eat mice.",
+        "They aren't eat mice.",
+        "They don't eat mouses."
+      ],
+      "erklaerung": "eat ist ein Tunwort, also <b>don't</b>. Und one mouse, two <b>mice</b>.",
+      "quelle": "Scan A S. 3 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "They don't eat mice.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-like-004",
+      "fach": "englisch",
+      "thema": "I like und I don't like",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz stimmt?",
+      "antwort": "I like cycling.",
+      "falsch": [
+        "I likes cycling.",
+        "I am like cycling.",
+        "I like cyclings."
+      ],
+      "erklaerung": "Bei I bleibt like ohne s, und davor kommt kein am.",
+      "quelle": "Scan A S. 3 (Vokabelheft)",
+      "stufe": 1,
+      "vorlesen": "I like cycling.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-like-005",
+      "fach": "englisch",
+      "thema": "I like und I don't like",
+      "typ": "auswahl",
+      "frage": "I ___ like rats.",
+      "hinweis": "Was passt?",
+      "antwort": "don't",
+      "falsch": [
+        "isn't",
+        "am not",
+        "not"
+      ],
+      "erklaerung": "Bei Tunwörtern wie like verneinst du mit <b>don't</b>: I don't like ...",
+      "quelle": "Scan A S. 22 (Workbook S. 6, Ex. 8)",
+      "stufe": 1,
+      "vorlesen": "I don't like rats.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-like-006",
+      "fach": "englisch",
+      "thema": "I like und I don't like",
+      "typ": "auswahl",
+      "frage": "I'm ___ scared of hedgehogs.",
+      "hinweis": "Was passt?",
+      "antwort": "not",
+      "falsch": [
+        "don't",
+        "no",
+        "isn't"
+      ],
+      "erklaerung": "I'm = I am. Dahinter kommt <b>not</b>.",
+      "quelle": "Scan A S. 22 (Workbook S. 6, Ex. 8)",
+      "stufe": 2,
+      "fehlerbild": "don't bei am",
+      "vorlesen": "I'm not scared of hedgehogs.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-like-007",
+      "fach": "englisch",
+      "thema": "I like und I don't like",
+      "typ": "auswahl",
+      "frage": "Rabbits ___ OK.",
+      "hinweis": "Was passt?",
+      "antwort": "are",
+      "falsch": [
+        "is",
+        "am",
+        "do"
+      ],
+      "erklaerung": "rabbit<b>s</b> sind mehrere, also <b>are</b>.",
+      "quelle": "Scan A S. 22 (Workbook S. 6, Ex. 8)",
+      "stufe": 1,
+      "fehlerbild": "is statt are bei mehreren",
+      "vorlesen": "Rabbits are OK.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-like-008",
+      "fach": "englisch",
+      "thema": "I like und I don't like",
+      "typ": "auswahl",
+      "frage": "Was heißt \"Ich mag ... nicht\"?",
+      "antwort": "I don't like ...",
+      "falsch": [
+        "I not like ...",
+        "I like not ...",
+        "I am not like ..."
+      ],
+      "erklaerung": "Bei Tunwörtern wie like verneinst du mit <b>don't</b>: I don't like ...",
+      "quelle": "Scan A S. 4 (Vokabelheft)",
+      "stufe": 1,
+      "vorlesen": "I don't like",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-like-009",
+      "fach": "englisch",
+      "thema": "I like und I don't like",
+      "typ": "auswahl",
+      "frage": "My favourite colour ___ blue.",
+      "hinweis": "Was passt?",
+      "antwort": "is",
+      "falsch": [
+        "are",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Eine Lieblingsfarbe, also <b>is</b>.",
+      "quelle": "Scan A S. 4 (Vokabelheft)",
+      "stufe": 1,
+      "vorlesen": "My favourite colour is blue.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-like-010",
+      "fach": "englisch",
+      "thema": "I like und I don't like",
+      "typ": "auswahl",
+      "frage": "My favourite animals ___ guinea pigs and horses.",
+      "hinweis": "Was passt?",
+      "antwort": "are",
+      "falsch": [
+        "is",
+        "am",
+        "be"
+      ],
+      "erklaerung": "animal<b>s</b> sind mehrere, also <b>are</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 8)",
+      "stufe": 2,
+      "fehlerbild": "is statt are bei mehreren",
+      "vorlesen": "My favourite animals are guinea pigs and horses.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-like-011",
+      "fach": "englisch",
+      "thema": "I like und I don't like",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz stimmt?",
+      "antwort": "I don't like cycling.",
+      "falsch": [
+        "I don't likes cycling.",
+        "I am don't like cycling.",
+        "I doesn't like cycling."
+      ],
+      "erklaerung": "Nach don't kommt like ohne s.",
+      "quelle": "Scan A S. 4 (Vokabelheft)",
+      "stufe": 2,
+      "vorlesen": "I don't like cycling.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-this-001",
+      "fach": "englisch",
+      "thema": "This is ...",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Was passt?",
+      "antwort": "This is Akay. He is 10.",
+      "falsch": [
+        "Thes is Akay. He is 10.",
+        "This Akay is. He is 10.",
+        "This are Akay. He is 10."
+      ],
+      "erklaerung": "<b>This</b> schreibt man mit i: T-h-i-s.",
+      "quelle": "Scan A S. 22 (Workbook S. 6, Ex. 9)",
+      "stufe": 1,
+      "fehlerbild": "Thes statt This",
+      "vorlesen": "This is Akay. He is 10.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-this-002",
+      "fach": "englisch",
+      "thema": "This is ...",
+      "typ": "auswahl",
+      "frage": "This is Elena. She ___ from Omsk.",
+      "hinweis": "Was passt?",
+      "antwort": "is",
+      "falsch": [
+        "are",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Das <b>is</b> darf nicht fehlen: She is from Omsk.",
+      "quelle": "Scan A S. 22 (Workbook S. 6, Ex. 9)",
+      "stufe": 1,
+      "fehlerbild": "is fehlt (she from Omsk)",
+      "vorlesen": "This is Elena. She is from Omsk.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-this-003",
+      "fach": "englisch",
+      "thema": "This is ...",
+      "typ": "auswahl",
+      "frage": "Elena is from Omsk. ___ is in Russia.",
+      "hinweis": "Was passt?",
+      "antwort": "It",
+      "falsch": [
+        "Thes",
+        "He",
+        "She"
+      ],
+      "erklaerung": "Omsk ist eine Stadt, also <b>it</b>: It is in Russia.",
+      "quelle": "Scan A S. 22 (Workbook S. 6, Ex. 9)",
+      "stufe": 2,
+      "fehlerbild": "thes is in Russia",
+      "vorlesen": "Elena is from Omsk. It is in Russia.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-this-004",
+      "fach": "englisch",
+      "thema": "This is ...",
+      "typ": "auswahl",
+      "frage": "This ___ Luke.",
+      "hinweis": "Was passt?",
+      "antwort": "is",
+      "falsch": [
+        "are",
+        "am",
+        "be"
+      ],
+      "erklaerung": "Du stellst eine Person vor: <b>This is</b> ...",
+      "quelle": "Scan 3 S. 1 (Workbook S. 12, Ex. 6)",
+      "stufe": 1,
+      "vorlesen": "This is Luke.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-this-005",
+      "fach": "englisch",
+      "thema": "This is ...",
+      "typ": "auswahl",
+      "frage": "This is Holly. ___ is a quiet girl.",
+      "hinweis": "Was passt?",
+      "antwort": "She",
+      "falsch": [
+        "He",
+        "It",
+        "Her"
+      ],
+      "erklaerung": "Holly ist ein Mädchen, also <b>she</b>. her heißt \"ihr\".",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "This is Holly. She is a quiet girl.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-this-006",
+      "fach": "englisch",
+      "thema": "This is ...",
+      "typ": "auswahl",
+      "frage": "This is Akay. ___ lives in Istanbul.",
+      "hinweis": "Was passt?",
+      "antwort": "He",
+      "falsch": [
+        "She",
+        "It",
+        "His"
+      ],
+      "erklaerung": "Akay ist ein Junge, also <b>he</b>. his heißt \"sein\".",
+      "quelle": "Scan A S. 22 (Workbook S. 6, Ex. 9)",
+      "stufe": 1,
+      "vorlesen": "This is Akay. He lives in Istanbul.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-this-007",
+      "fach": "englisch",
+      "thema": "This is ...",
+      "typ": "auswahl",
+      "frage": "Das ist meine Schwester.",
+      "hinweis": "Was heißt das auf Englisch?",
+      "antwort": "This is my sister.",
+      "falsch": [
+        "This my sister is.",
+        "Thes is my sister.",
+        "This is my sisters."
+      ],
+      "erklaerung": "Wie im Deutschen: <b>This is</b> my sister.",
+      "quelle": "Scan A S. 3 (Vokabelheft)",
+      "stufe": 1,
+      "fehlerbild": "Thes statt This",
+      "vorlesen": "This is my sister.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-this-008",
+      "fach": "englisch",
+      "thema": "This is ...",
+      "typ": "tor",
+      "frage": "Was heißt \"Das ist ...\"?",
+      "antwort": "This is ...",
+      "falsch": [
+        "Thes is ..."
+      ],
+      "erklaerung": "<b>This</b> schreibt man mit i.",
+      "quelle": "Scan A S. 3 (Vokabelheft)",
+      "stufe": 1,
+      "fehlerbild": "Thes statt This",
+      "vorlesen": "This is",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-this-009",
+      "fach": "englisch",
+      "thema": "This is ...",
+      "typ": "auswahl",
+      "frage": "This is Samira. ___ is 11 years old.",
+      "hinweis": "Was passt?",
+      "antwort": "She",
+      "falsch": [
+        "He",
+        "It",
+        "They"
+      ],
+      "erklaerung": "Samira ist ein Mädchen, also <b>she</b>.",
+      "quelle": "Scan A S. 22 (Workbook S. 6, Ex. 9)",
+      "stufe": 1,
+      "vorlesen": "This is Samira. She is 11 years old.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-this-010",
+      "fach": "englisch",
+      "thema": "This is ...",
+      "typ": "auswahl",
+      "frage": "This is Dave. ___ cat is Sid.",
+      "hinweis": "Was passt?",
+      "antwort": "His",
+      "falsch": [
+        "Her",
+        "Their",
+        "He"
+      ],
+      "erklaerung": "Dave ist ein Junge: he → <b>his</b>.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 7)",
+      "stufe": 2,
+      "vorlesen": "This is Dave. His cat is Sid.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-this-011",
+      "fach": "englisch",
+      "thema": "This is ...",
+      "typ": "auswahl",
+      "frage": "This is Pia. ___ is from Germany.",
+      "hinweis": "Was passt?",
+      "antwort": "She",
+      "falsch": [
+        "He",
+        "They",
+        "Her"
+      ],
+      "erklaerung": "Pia ist ein Mädchen, also <b>she</b>.",
+      "quelle": "Scan A S. 21 (Workbook S. 4, Ex. 3)",
+      "stufe": 1,
+      "vorlesen": "This is Pia. She is from Germany.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gross-001",
+      "fach": "englisch",
+      "thema": "Großschreibung",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz ist richtig geschrieben?",
+      "antwort": "Sorry, I am crazy.",
+      "falsch": [
+        "Sorry, i am crazy.",
+        "sorry, I am crazy.",
+        "Sorry, I Am crazy."
+      ],
+      "erklaerung": "<b>I</b> schreibt man immer groß, und jeder Satz beginnt groß. Sonst geht es klein weiter, außer bei Namen.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "i klein",
+      "vorlesen": "Sorry, I am crazy.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gross-002",
+      "fach": "englisch",
+      "thema": "Großschreibung",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz ist richtig geschrieben?",
+      "antwort": "How old are you?",
+      "falsch": [
+        "how old are you?",
+        "How Old are you?",
+        "how old Are you?"
+      ],
+      "erklaerung": "Der Satz beginnt groß: <b>H</b>ow. Der Rest klein.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "Satzanfang klein",
+      "vorlesen": "How old are you?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gross-003",
+      "fach": "englisch",
+      "thema": "Großschreibung",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz ist richtig geschrieben?",
+      "antwort": "Here is your sloth!",
+      "falsch": [
+        "here is your sloth!",
+        "Here is your Sloth!",
+        "here Is your sloth!"
+      ],
+      "erklaerung": "Der Satz beginnt groß: <b>H</b>ere. Tiere schreibt man klein.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "Satzanfang klein",
+      "vorlesen": "Here is your sloth!",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gross-004",
+      "fach": "englisch",
+      "thema": "Großschreibung",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz ist richtig geschrieben?",
+      "antwort": "We are from Essen.",
+      "falsch": [
+        "We are From Essen.",
+        "we are from Essen.",
+        "We are from essen."
+      ],
+      "erklaerung": "Groß sind nur der Satzanfang und Namen wie <b>Essen</b>. from bleibt klein.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "From groß mitten im Satz",
+      "vorlesen": "We are from Essen.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gross-005",
+      "fach": "englisch",
+      "thema": "Großschreibung",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz ist richtig geschrieben?",
+      "antwort": "I love my mum.",
+      "falsch": [
+        "I Love my mum.",
+        "i love my mum.",
+        "I love My mum."
+      ],
+      "erklaerung": "<b>I</b> schreibt man immer groß, und jeder Satz beginnt groß. Sonst geht es klein weiter, außer bei Namen.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "Love groß mitten im Satz",
+      "vorlesen": "I love my mum.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gross-006",
+      "fach": "englisch",
+      "thema": "Großschreibung",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz ist richtig geschrieben?",
+      "antwort": "Sherlock is black.",
+      "falsch": [
+        "Sherlock is Black.",
+        "sherlock is black.",
+        "Sherlock Is black."
+      ],
+      "erklaerung": "Farben schreibt man im Englischen klein: <b>black</b>. Namen wie Sherlock groß.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "Farbe groß (Sherlock isn't Pink)",
+      "vorlesen": "Sherlock is black.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gross-007",
+      "fach": "englisch",
+      "thema": "Großschreibung",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz ist richtig geschrieben?",
+      "antwort": "His lucky number is 6.",
+      "falsch": [
+        "His Lucky number is 6.",
+        "his lucky number is 6.",
+        "His lucky Number is 6."
+      ],
+      "erklaerung": "Im Englischen schreibt man auch Nomen klein: <b>lucky number</b>.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "Lucky groß",
+      "vorlesen": "His lucky number is 6.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gross-008",
+      "fach": "englisch",
+      "thema": "Großschreibung",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz ist richtig geschrieben?",
+      "antwort": "My parents are from England.",
+      "falsch": [
+        "My Parents are from England.",
+        "my parents are from England.",
+        "My parents are from england."
+      ],
+      "erklaerung": "parents klein, aber Länder wie <b>England</b> groß.",
+      "quelle": "Scan A S. 15 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "My Parents groß",
+      "vorlesen": "My parents are from England.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gross-009",
+      "fach": "englisch",
+      "thema": "Großschreibung",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz ist richtig geschrieben?",
+      "antwort": "There is a cat on the sofa.",
+      "falsch": [
+        "there is a cat on the sofa.",
+        "There is a Cat on the sofa.",
+        "There Is a cat on the sofa."
+      ],
+      "erklaerung": "Der Satz beginnt groß: <b>T</b>here. Tiere klein.",
+      "quelle": "Scan A S. 11 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "Satzanfang klein (there is)",
+      "vorlesen": "There is a cat on the sofa.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gross-010",
+      "fach": "englisch",
+      "thema": "Großschreibung",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz ist richtig geschrieben?",
+      "antwort": "Yes, I am.",
+      "falsch": [
+        "yes, I am.",
+        "Yes, i am.",
+        "yes, i am."
+      ],
+      "erklaerung": "Yes am Anfang groß, und <b>I</b> immer groß.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "i klein",
+      "vorlesen": "Yes, I am.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gross-011",
+      "fach": "englisch",
+      "thema": "Großschreibung",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz ist richtig geschrieben?",
+      "antwort": "What is your favourite animal?",
+      "falsch": [
+        "what is your favourite animal?",
+        "What is your favourite Animal?",
+        "what is your Favourite animal?"
+      ],
+      "erklaerung": "Satzanfang groß, Nomen wie <b>animal</b> klein.",
+      "quelle": "Scan A S. 19 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "Animal groß",
+      "vorlesen": "What is your favourite animal?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gross-012",
+      "fach": "englisch",
+      "thema": "Großschreibung",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Welcher Satz ist richtig geschrieben?",
+      "antwort": "I'm from Greenwich in London.",
+      "falsch": [
+        "I'm from greenwich in London.",
+        "i'm from Greenwich in London.",
+        "I'm From Greenwich in London."
+      ],
+      "erklaerung": "Orte wie <b>Greenwich</b> groß, <b>I</b> immer groß, from klein.",
+      "quelle": "Scan A S. 21 (Workbook S. 4, Ex. 2)",
+      "stufe": 2,
+      "fehlerbild": "i klein",
+      "vorlesen": "I'm from Greenwich in London.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-gross-013",
+      "fach": "englisch",
+      "thema": "Großschreibung",
+      "typ": "tor",
+      "frage": "Wie schreibt man \"ich\"?",
+      "antwort": "I",
+      "falsch": [
+        "i"
+      ],
+      "erklaerung": "<b>I</b> ist im Englischen immer groß, auch mitten im Satz.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "i klein",
+      "vorlesen": "I",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-zeichen-001",
+      "fach": "englisch",
+      "thema": "Satzzeichen",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Wo stimmen die Satzzeichen?",
+      "antwort": "Sorry, my sister is crazy.",
+      "falsch": [
+        "Sorry, my sister is crazy",
+        "Sorry, my sister is crazy?",
+        "Sorry. my sister is crazy"
+      ],
+      "erklaerung": "Nach <b>Sorry</b> kommt ein Komma, am Ende ein Punkt.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "Komma fehlt nach Sorry",
+      "vorlesen": "Sorry, my sister is crazy.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-zeichen-002",
+      "fach": "englisch",
+      "thema": "Satzzeichen",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Wo stimmen die Satzzeichen?",
+      "antwort": "Hello, what's your name?",
+      "falsch": [
+        "Hello what's your name.",
+        "Hello, whats your name?",
+        "Hello, what's your name."
+      ],
+      "erklaerung": "Komma nach Hello, Apostroph in <b>what's</b> und am Ende ein <b>?</b>",
+      "quelle": "Scan A S. 19 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "Komma und Fragezeichen fehlen",
+      "vorlesen": "Hello, what's your name?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-zeichen-003",
+      "fach": "englisch",
+      "thema": "Satzzeichen",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Wo stimmen die Satzzeichen?",
+      "antwort": "Where are you from?",
+      "falsch": [
+        "Where are you from.",
+        "Where are you from",
+        "Where, are you from?"
+      ],
+      "erklaerung": "Eine Frage endet mit <b>?</b>",
+      "quelle": "Scan A S. 2 (Vokabelheft)",
+      "stufe": 1,
+      "fehlerbild": "Fragezeichen fehlt",
+      "vorlesen": "Where are you from?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-zeichen-004",
+      "fach": "englisch",
+      "thema": "Satzzeichen",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Wo stimmen die Satzzeichen?",
+      "antwort": "You're a nice monkey.",
+      "falsch": [
+        "Youre a nice monkey.",
+        "You're a nice monkey",
+        "Your'e a nice monkey."
+      ],
+      "erklaerung": "Apostroph für das fehlende a: <b>You're</b>. Am Ende ein Punkt.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "Youre ohne Apostroph",
+      "vorlesen": "You're a nice monkey.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-zeichen-005",
+      "fach": "englisch",
+      "thema": "Satzzeichen",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Wo stimmen die Satzzeichen?",
+      "antwort": "Dave has got friends. Their names are Olivia, Luke and Holly.",
+      "falsch": [
+        "Dave has got friends, their names are Olivia, Luke and Holly.",
+        "Dave has got friends their names are Olivia, Luke and Holly.",
+        "Dave has got friends. Their names are Olivia Luke and Holly"
+      ],
+      "erklaerung": "Zwei Sätze trennt ein <b>Punkt</b>, kein Komma. Bei Aufzählungen Komma bis zum and.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 3,
+      "fehlerbild": "Komma statt Punkt",
+      "vorlesen": "Dave has got friends. Their names are Olivia, Luke and Holly.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-zeichen-006",
+      "fach": "englisch",
+      "thema": "Satzzeichen",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Wo stimmen die Satzzeichen?",
+      "antwort": "No, they aren't.",
+      "falsch": [
+        "No they aren't",
+        "No, they arent.",
+        "No. they aren't."
+      ],
+      "erklaerung": "Nach Yes oder No kommt ein <b>Komma</b>, am Ende ein Punkt.",
+      "quelle": "Scan A S. 9 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "Punkt fehlt",
+      "vorlesen": "No, they aren't.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-zeichen-007",
+      "fach": "englisch",
+      "thema": "Satzzeichen",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Wo stimmen die Satzzeichen?",
+      "antwort": "What's your favourite colour?",
+      "falsch": [
+        "What's your favourite colour.",
+        "Whats your favourite colour?",
+        "What's your favourite colour"
+      ],
+      "erklaerung": "Apostroph in <b>What's</b>, am Ende ein <b>?</b>",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 1,
+      "vorlesen": "What's your favourite colour?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-zeichen-008",
+      "fach": "englisch",
+      "thema": "Satzzeichen",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Wo stimmen die Satzzeichen?",
+      "antwort": "Let's go!",
+      "falsch": [
+        "Lets go!",
+        "Let's go?",
+        "Let's, go!"
+      ],
+      "erklaerung": "Let's = let us. Der Apostroph steht für das fehlende u.",
+      "quelle": "Scan A S. 13 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "Let's go!",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-zeichen-009",
+      "fach": "englisch",
+      "thema": "Satzzeichen",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Wo stimmen die Satzzeichen?",
+      "antwort": "Hello. And who's your friend?",
+      "falsch": [
+        "Hello And who's your friend?",
+        "Hello. And whos your friend?",
+        "Hello. And who's your friend."
+      ],
+      "erklaerung": "Nach Hello ein Punkt, dann geht es groß weiter. Die Frage endet mit <b>?</b>",
+      "quelle": "Scan A S. 18 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "Punkt fehlt nach Hello",
+      "vorlesen": "Hello. And who's your friend?",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-zeichen-010",
+      "fach": "englisch",
+      "thema": "Satzzeichen",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Wo stimmen die Satzzeichen?",
+      "antwort": "Sophie isn't 42 years old. She's ten years old.",
+      "falsch": [
+        "Sophie isn't 42 years old, She's ten years old.",
+        "Sophie isnt 42 years old. She's ten years old.",
+        "Sophie isn't 42 years old. Shes ten years old."
+      ],
+      "erklaerung": "Zwei Sätze trennt ein <b>Punkt</b>. Kurzformen brauchen den Apostroph.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 2,
+      "fehlerbild": "Komma statt Punkt",
+      "vorlesen": "Sophie isn't 42 years old. She's ten years old.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-zeichen-011",
+      "fach": "englisch",
+      "thema": "Satzzeichen",
+      "typ": "auswahl",
+      "frage": "Welcher Satz stimmt?",
+      "hinweis": "Wo stimmen die Satzzeichen?",
+      "antwort": "They are cool.",
+      "falsch": [
+        "They are cool",
+        "They are cool,",
+        "They, are cool."
+      ],
+      "erklaerung": "Am Satzende steht ein <b>Punkt</b>.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 1,
+      "fehlerbild": "Punkt fehlt",
+      "vorlesen": "They are cool.",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-001",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "tor",
+      "frage": "Hör genau hin: dad",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "[æ] wie cat",
+      "falsch": [
+        "[eɪ] wie name",
+        "[ɑː] wie bath"
+      ],
+      "erklaerung": "<b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 9)",
+      "stufe": 1,
+      "vorlesen": "dad",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-002",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "tor",
+      "frage": "Hör genau hin: animal",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "[æ] wie cat",
+      "falsch": [
+        "[eɪ] wie name",
+        "[ɑː] wie bath"
+      ],
+      "erklaerung": "<b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 9)",
+      "stufe": 2,
+      "vorlesen": "animal",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-003",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "tor",
+      "frage": "Hör genau hin: skating",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "[eɪ] wie name",
+      "falsch": [
+        "[æ] wie cat",
+        "[ɑː] wie bath"
+      ],
+      "erklaerung": "<b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 9)",
+      "stufe": 2,
+      "vorlesen": "skating",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-004",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "tor",
+      "frage": "Hör genau hin: lake",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "[eɪ] wie name",
+      "falsch": [
+        "[æ] wie cat",
+        "[ɑː] wie bath"
+      ],
+      "erklaerung": "<b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 9)",
+      "stufe": 1,
+      "vorlesen": "lake",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-005",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "tor",
+      "frage": "Hör genau hin: park",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "[ɑː] wie bath",
+      "falsch": [
+        "[æ] wie cat",
+        "[eɪ] wie name"
+      ],
+      "erklaerung": "<b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 9)",
+      "stufe": 1,
+      "vorlesen": "park",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-006",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "tor",
+      "frage": "Hör genau hin: are",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "[ɑː] wie bath",
+      "falsch": [
+        "[æ] wie cat",
+        "[eɪ] wie name"
+      ],
+      "erklaerung": "<b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 9)",
+      "stufe": 2,
+      "vorlesen": "are",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-007",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "tor",
+      "frage": "Hör genau hin: family",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "[æ] wie cat",
+      "falsch": [
+        "[eɪ] wie name",
+        "[ɑː] wie bath"
+      ],
+      "erklaerung": "<b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 9)",
+      "stufe": 1,
+      "vorlesen": "family",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-008",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "tor",
+      "frage": "Hör genau hin: table",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "[eɪ] wie name",
+      "falsch": [
+        "[æ] wie cat",
+        "[ɑː] wie bath"
+      ],
+      "erklaerung": "<b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 9)",
+      "stufe": 1,
+      "vorlesen": "table",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-009",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "tor",
+      "frage": "Hör genau hin: father",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "[ɑː] wie bath",
+      "falsch": [
+        "[æ] wie cat",
+        "[eɪ] wie name"
+      ],
+      "erklaerung": "<b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 9)",
+      "stufe": 1,
+      "vorlesen": "father",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-010",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "tor",
+      "frage": "Hör genau hin: aunt",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "[ɑː] wie bath",
+      "falsch": [
+        "[æ] wie cat",
+        "[eɪ] wie name"
+      ],
+      "erklaerung": "<b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 9)",
+      "stufe": 2,
+      "vorlesen": "aunt",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-011",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "tor",
+      "frage": "Hör genau hin: rabbit",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "[æ] wie cat",
+      "falsch": [
+        "[eɪ] wie name",
+        "[ɑː] wie bath"
+      ],
+      "erklaerung": "<b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan A S. 14 (Schreibheft)",
+      "stufe": 2,
+      "vorlesen": "rabbit",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-012",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "tor",
+      "frage": "Hör genau hin: grey",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "[eɪ] wie name",
+      "falsch": [
+        "[æ] wie cat",
+        "[ɑː] wie bath"
+      ],
+      "erklaerung": "<b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan A S. 4 (Vokabelheft)",
+      "stufe": 3,
+      "vorlesen": "grey",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-013",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "tor",
+      "frage": "Hör genau hin: garden",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "[ɑː] wie bath",
+      "falsch": [
+        "[æ] wie cat",
+        "[eɪ] wie name"
+      ],
+      "erklaerung": "<b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan A S. 8 (Vokabelheft)",
+      "stufe": 3,
+      "vorlesen": "garden",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-014",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "auswahl",
+      "frage": "Welches Wort klingt wie name?",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "lake",
+      "falsch": [
+        "park",
+        "flat",
+        "father"
+      ],
+      "erklaerung": "name und lake haben beide <b>[eɪ]</b>. <b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 9)",
+      "stufe": 2,
+      "vorlesen": "name, lake",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-015",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "auswahl",
+      "frage": "Welches Wort klingt wie bath?",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "park",
+      "falsch": [
+        "lake",
+        "cat",
+        "table"
+      ],
+      "erklaerung": "bath und park haben beide <b>[ɑː]</b>. <b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 9)",
+      "stufe": 2,
+      "vorlesen": "bath, park",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    },
+    {
+      "id": "en-gram-laut-016",
+      "fach": "englisch",
+      "thema": "Laute [æ] [eɪ] [ɑː]",
+      "typ": "auswahl",
+      "frage": "Welches Wort klingt wie cat?",
+      "hinweis": "Welcher Laut steckt im Wort?",
+      "antwort": "dad",
+      "falsch": [
+        "say",
+        "aunt",
+        "are"
+      ],
+      "erklaerung": "cat und dad haben beide <b>[æ]</b>. <b>[æ]</b> wie cat, flat, family. <b>[eɪ]</b> wie table, say, name. <b>[ɑː]</b> wie bath, father, aunt.",
+      "quelle": "Scan 3 S. 1 (Workbook S. 13, Ex. 9)",
+      "stufe": 2,
+      "vorlesen": "cat, dad",
+      "vorgriff": false,
+      "sprache": "en-GB"
+    }
+  ]
+}
